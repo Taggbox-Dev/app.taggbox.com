@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ed029a2.css",
-    "main.js": "/static/js/main.45c76f9d.js",
+    "main.css": "/static/css/main.dbd49cd9.css",
+    "main.js": "/static/js/main.4d94afc9.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.9df73f58.chunk.js",
     "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.43f8b179.chunk.js",
     "reactPlayerVimeo.js": "/static/js/reactPlayerVimeo.38597b2d.chunk.js",
@@ -17,7 +17,7 @@
     "reactPlayerFilePlayer.js": "/static/js/reactPlayerFilePlayer.dbe44360.chunk.js",
     "reactPlayerPreview.js": "/static/js/reactPlayerPreview.0cffdccd.chunk.js",
     "pdfmake.js": "/static/js/pdfmake.2c30b67b.chunk.js",
-    "canvg.js": "/static/js/canvg.337f4c78.chunk.js",
+    "canvg.js": "/static/js/canvg.547c47eb.chunk.js",
     "xlsx.js": "/static/js/xlsx.2da15b27.chunk.js",
     "static/js/669.285a2e8b.chunk.js": "/static/js/669.285a2e8b.chunk.js",
     "static/js/414.80adc1de.chunk.js": "/static/js/414.80adc1de.chunk.js",
@@ -33,12 +33,10 @@
     "static/js/398.f99151c5.chunk.js": "/static/js/398.f99151c5.chunk.js",
     "static/js/897.c85d6ba5.chunk.js": "/static/js/897.c85d6ba5.chunk.js",
     "static/media/flags@2x.png": "/static/media/flags@2x.140042eba8c90ae1cede.png",
-    "static/media/digital-7_ttf": "/static/media/digital-7_b73ef91485431ac0271f24009e14ccee.236c28ed414c4cc1beb7.ttf",
     "static/media/flags.png": "/static/media/flags.ae53191452bb217f0fa6.png",
-    "static/media/digital-7_woff": "/static/media/digital-7_b73ef91485431ac0271f24009e14ccee.8e7783d8db97abaa0df5.woff",
     "index.html": "/index.html",
-    "main.5ed029a2.css.map": "/static/css/main.5ed029a2.css.map",
-    "main.45c76f9d.js.map": "/static/js/main.45c76f9d.js.map",
+    "main.dbd49cd9.css.map": "/static/css/main.dbd49cd9.css.map",
+    "main.4d94afc9.js.map": "/static/js/main.4d94afc9.js.map",
     "reactPlayerYouTube.9df73f58.chunk.js.map": "/static/js/reactPlayerYouTube.9df73f58.chunk.js.map",
     "reactPlayerSoundCloud.43f8b179.chunk.js.map": "/static/js/reactPlayerSoundCloud.43f8b179.chunk.js.map",
     "reactPlayerVimeo.38597b2d.chunk.js.map": "/static/js/reactPlayerVimeo.38597b2d.chunk.js.map",
@@ -54,7 +52,7 @@
     "reactPlayerFilePlayer.dbe44360.chunk.js.map": "/static/js/reactPlayerFilePlayer.dbe44360.chunk.js.map",
     "reactPlayerPreview.0cffdccd.chunk.js.map": "/static/js/reactPlayerPreview.0cffdccd.chunk.js.map",
     "pdfmake.2c30b67b.chunk.js.map": "/static/js/pdfmake.2c30b67b.chunk.js.map",
-    "canvg.337f4c78.chunk.js.map": "/static/js/canvg.337f4c78.chunk.js.map",
+    "canvg.547c47eb.chunk.js.map": "/static/js/canvg.547c47eb.chunk.js.map",
     "xlsx.2da15b27.chunk.js.map": "/static/js/xlsx.2da15b27.chunk.js.map",
     "669.285a2e8b.chunk.js.map": "/static/js/669.285a2e8b.chunk.js.map",
     "414.80adc1de.chunk.js.map": "/static/js/414.80adc1de.chunk.js.map",
@@ -71,7 +69,7 @@
     "897.c85d6ba5.chunk.js.map": "/static/js/897.c85d6ba5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ed029a2.css",
-    "static/js/main.45c76f9d.js"
+    "static/css/main.dbd49cd9.css",
+    "static/js/main.4d94afc9.js"
   ]
 }
