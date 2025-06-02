@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.72ce8028.css",
-    "main.js": "/static/js/main.7e660593.js",
+    "main.js": "/static/js/main.36677734.js",
     "static/js/2992.264048f6.chunk.js": "/static/js/2992.264048f6.chunk.js",
     "static/js/8295.53cedc85.chunk.js": "/static/js/8295.53cedc85.chunk.js",
     "static/js/713.a6453553.chunk.js": "/static/js/713.a6453553.chunk.js",
@@ -57,9 +57,9 @@
     "reactPlayerKaltura.js": "/static/js/reactPlayerKaltura.a16266a1.chunk.js",
     "reactPlayerFilePlayer.js": "/static/js/reactPlayerFilePlayer.c5ff4076.chunk.js",
     "reactPlayerPreview.js": "/static/js/reactPlayerPreview.895d6173.chunk.js",
-    "static/js/298.ac23241b.chunk.js": "/static/js/298.ac23241b.chunk.js",
+    "static/js/298.c0ec174f.chunk.js": "/static/js/298.c0ec174f.chunk.js",
     "static/css/5273.f84ecd7a.chunk.css": "/static/css/5273.f84ecd7a.chunk.css",
-    "static/js/5273.f79d97f5.chunk.js": "/static/js/5273.f79d97f5.chunk.js",
+    "static/js/5273.0270ceb4.chunk.js": "/static/js/5273.0270ceb4.chunk.js",
     "static/js/8224.d94b6482.chunk.js": "/static/js/8224.d94b6482.chunk.js",
     "static/js/3887.8620a280.chunk.js": "/static/js/3887.8620a280.chunk.js",
     "static/js/72.de9a3afb.chunk.js": "/static/js/72.de9a3afb.chunk.js",
@@ -101,6 +101,6 @@
   },
   "entrypoints": [
     "static/css/main.72ce8028.css",
-    "static/js/main.7e660593.js"
+    "static/js/main.36677734.js"
   ]
 }
