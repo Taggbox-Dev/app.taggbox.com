@@ -1603,8 +1603,8 @@
         "accountDisconnect": "Konto trennen",
         "confirm": "Bestätigen",
         "disconnect_msg": "Möchten Sie das Konto trennen?",
-        "connectAccount":{
-            "tiktok_msg" : "Verbinden Sie Ihr TikTok-Business-Konto für ein besseres Erlebnis"
+        "connectAccount": {
+            "tiktok_msg": "Verbinden Sie Ihr TikTok-Business-Konto für ein besseres Erlebnis"
         },
         "twitter_advance": {
             "instruction": "Verwenden Sie die folgende Tabelle, um Ihre Abfrage zu erstellen.",
@@ -1964,7 +1964,7 @@
         "post": "Beitrag",
         "posts": "Beiträge",
         "followers": "Follower",
-        "follower": "Follower", 
+        "follower": "Follower",
         "transaction": "Transaktion",
         "gateway": "Gateway",
         "total_amount": "Gesamtbetrag",
@@ -2225,7 +2225,9 @@
             "view_all": "Alle anzeigen",
             "empty_msg": "Um die top-performenden Beiträge zu identifizieren, betten Sie bitte eine Galerie auf Ihrer Website ein.",
             "btn_text": "Jetzt einbetten",
-            "no_data": "Keine Daten gefunden"
+            "no_data": "Keine Daten gefunden",
+            "clicks": "Klicks",
+            "views": "Aufrufe"
         },
         "active_creators": {
             "empty_title": "Entdecken Sie Ihre aktivsten Creator",
@@ -2303,7 +2305,36 @@
                 "description": "Anzahl der sozialen Netzwerke oder Review-Feeds, die mit Ihrem Konto verknüpft sind",
                 "type": "Total Feeds"
             }
-        ]
+        ],
+        "shopon_tab": {
+            "page_view": {
+                "name": "Seitenaufrufe",
+                "tool_tip": "Gesamtanzahl der Aufrufe Ihrer Shopon.bio-Seite.",
+                "data": []
+            },
+            "post_view": {
+                "name": "Post-Klicks",
+                "tool_tip": "Gesamtanzahl der auf Ihrer Shopon.bio-Seite geklickten Beiträge.",
+                "data": []
+            },
+            "button_view": {
+                "name": "Button-Klicks",
+                "tool_tip": "Gesamtanzahl der Klicks auf den CTA-Button.",
+                "data": []
+            },
+            "click_view": {
+                "name": "Durchklicks",
+                "tool_tip": "Prozentsatz des Öffnungs-zu-Klick-Verhältnisses.",
+                "data": []
+            },
+            "top_post": "Beliebteste Beiträge",
+            "post_click": "Post-Klicks",
+            "click_cta": "CTA-Klicks",
+            "popular_product": "Beliebte Produkte",
+            "product_view": "Produktansichten",
+            "cta_through": "CTA-Durchklicks",
+            "no_data": "Keine Daten verfügbar"
+        }
     },
     "content_gallery": {
         "heading": "Inhalte",

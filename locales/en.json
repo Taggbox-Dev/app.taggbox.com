@@ -1381,8 +1381,8 @@
         "copy_code": "Copy Code",
         "share_code": "Share Code",
         "code_copied": "Code Copied",
-        "message_copied" : "Message Copied",
-        "copy_message" : "Copy Message",
+        "message_copied": "Message Copied",
+        "copy_message": "Copy Message",
         "collect_label": "Collect and show shared content.",
         "collect_desc1": "Feel free to share this URL with your audience, enabling them to upload visual user-generated content (UGC) and reviews.",
         "collect_desc2": "Get creative with the UGC on your marketing touchpoints to delight your audience.",
@@ -1603,8 +1603,8 @@
         "accountDisconnect": "Account Disconnect",
         "confirm": "Confirm",
         "disconnect_msg": "Do you want to disconnect account?",
-        "connectAccount":{
-            "tiktok_msg" : "Connect your TikTok Business Account for Better Experience"
+        "connectAccount": {
+            "tiktok_msg": "Connect your TikTok Business Account for Better Experience"
         },
         "twitter_advance": {
             "instruction": "Use the table below to construct your query.",
@@ -1963,7 +1963,7 @@
         "total": "Total",
         "post": "Post",
         "posts": "Posts",
-        "followers": "Followers", 
+        "followers": "Followers",
         "follower": "Follower",
         "transaction": "Transaction",
         "gateway": "Gateway",
@@ -2225,7 +2225,9 @@
             "view_all": "View All",
             "empty_msg": "To identify the top performing posts, please embed a gallery on your website.",
             "btn_text": "Embed Now",
-            "no_data": "No Data Found"
+            "no_data": "No Data Found",
+            "clicks": "Clicks",
+            "views": "Views"
         },
         "active_creators": {
             "empty_title": "Discover Your Most Active Creators",
@@ -2303,7 +2305,36 @@
                 "description": "Number of social/reviews networks in your account.",
                 "type": "Total Feeds"
             }
-        ]
+        ],
+        "shopon_tab": {
+            "page_view": {
+                "name": "Page views",
+                "tool_tip": "Total no. of times your Shopon.bio page was viewed.",
+                "data": []
+            },
+            "post_view": {
+                "name": "Post clicks",
+                "tool_tip": "Total number of posts clicked in your Shopon.bio page.",
+                "data": []
+            },
+            "button_view": {
+                "name": "Button clicks",
+                "tool_tip": " Total number of times the cta button was clicked.",
+                "data": []
+            },
+            "click_view": {
+                "name": "Clicks through",
+                "tool_tip": "Percentage of open-to-click ratio.",
+                "data": []
+            },
+            "top_post": "Top posts",
+            "post_click": "Post clicks",
+            "click_cta": "CTA clicks",
+            "popular_product": "Popular products",
+            "product_view": "Product View",
+            "cta_through": "CTA Through",
+            "no_data": "Data not available"
+        }
     },
     "content_gallery": {
         "heading": "Content",

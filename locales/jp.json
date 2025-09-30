@@ -2225,7 +2225,9 @@
             "view_all": "すべて表示",
             "empty_msg": "トップ投稿を確認するには、ウェブサイトにギャラリーを埋め込んでください。",
             "btn_text": "今すぐ埋め込む",
-            "no_data": "データが見つかりません"
+            "no_data": "データが見つかりません",
+            "clicks": "クリック数",
+            "views": "閲覧数"
         },
         "active_creators": {
             "empty_title": "最もアクティブなクリエイターを発見",
@@ -2303,7 +2305,36 @@
                 "description": "アカウント内のソーシャル／レビュー ネットワークの数",
                 "type": "Total Feeds"
             }
-        ]
+        ],
+        "shopon_tab": {
+            "page_view": {
+                "name": "ページビュー",
+                "tool_tip": "あなたの Shopon.bio ページが閲覧された総回数。",
+                "data": []
+            },
+            "post_view": {
+                "name": "投稿クリック",
+                "tool_tip": "あなたの Shopon.bio ページでクリックされた投稿の総数。",
+                "data": []
+            },
+            "button_view": {
+                "name": "ボタンクリック",
+                "tool_tip": "CTA ボタンがクリックされた総回数。",
+                "data": []
+            },
+            "click_view": {
+                "name": "クリック率",
+                "tool_tip": "開封からクリックまでの割合。",
+                "data": []
+            },
+            "top_post": "トップ投稿",
+            "post_click": "投稿クリック",
+            "click_cta": "CTAクリック",
+            "popular_product": "人気商品",
+            "product_view": "商品ビュー",
+            "cta_through": "CTA経由",
+            "no_data": "データはありません"
+        }
     },
     "content_gallery": {
         "heading": "コンテンツ",
