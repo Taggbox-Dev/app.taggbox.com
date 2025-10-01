@@ -275,6 +275,8 @@
         "api_limit": "APIの制限により、LinkedInフィードの更新には最大48時間かかる場合があります。一方、Twitterフィードは4〜6時間ごとに更新されます。",
         "switch_yearly": "年次プランに切り替え (最大 #{{save}}% 節約)",
         "annually_save": "年間で #{{save}}% 節約",
+        "save_per": "#{{save}}% 節約",
+        "limited_time_offer": "期間限定オファー ⏰",
         "free_plan_txt": "機能制限付きの無料プランもご用意しています。",
         "switch_to_free_plan": "無料プランに切り替え",
         "compare_all_plans": "すべてのプランを比較",
