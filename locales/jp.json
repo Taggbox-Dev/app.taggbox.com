@@ -342,7 +342,7 @@
         "downgrade_msg": "本当にダウングレードしますか？",
         "pending_msg": "支払いがまだ保留中です: '#{{planName}}'",
         "enjoy_access": "サブスクリプションに切り替えて、#{{upgradedPlanName}} のすべての高度な機能を利用しましょう。",
-        "switch_plan": "#{{upgradedPlanName}} プランに切り替えると、現在 {{currentPlanName}} プランで使用している一部の強力な機能が制限されます。",
+        "switch_plan": "#{{upgradedPlanName}} プランに切り替えると、現在 #{{currentPlanName}} プランで使用している一部の強力な機能が制限されます。",
         "go_ahead": "はい、進める",
         "pay_now": "今すぐ支払う",
         "no_changed_des": "いいえ、気が変わりました",

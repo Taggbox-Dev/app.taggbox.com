@@ -342,7 +342,7 @@
         "downgrade_msg": "Are you sure you want to downgrade?",
         "pending_msg": "Your payment is still pending for '#{{planName}}'",
         "enjoy_access": "Enjoy access to all the advanced features #{{upgradedPlanName}} offers by switching to subscription.",
-        "switch_plan": "Switching to the #{{upgradedPlanName}} Plan will limit some of the powerful features you're currently using on the {{currentPlanName}} Plan.",
+        "switch_plan": "Switching to the #{{upgradedPlanName}} Plan will limit some of the powerful features you're currently using on the #{{currentPlanName}} Plan.",
         "go_ahead": "Yes, Go ahead",
         "pay_now": "Complete Payment Now",
         "no_changed_des": "No, I have changed my mind",

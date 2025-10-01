@@ -342,7 +342,7 @@
         "downgrade_msg": "Sind Sie sicher, dass Sie ein Downgrade durchführen möchten?",
         "pending_msg": "Ihre Zahlung für '#{{planName}}' steht noch aus",
         "enjoy_access": "Genießen Sie den Zugriff auf alle erweiterten Funktionen, die #{{upgradedPlanName}} bietet, indem Sie auf ein Abonnement wechseln.",
-        "switch_plan": "Der Wechsel zum #{{upgradedPlanName}}-Plan wird einige der leistungsstarken Funktionen einschränken, die Sie derzeit im {{currentPlanName}}-Plan nutzen.",
+        "switch_plan": "Der Wechsel zum #{{upgradedPlanName}}-Plan wird einige der leistungsstarken Funktionen einschränken, die Sie derzeit im #{{currentPlanName}}-Plan nutzen.",
         "go_ahead": "Ja, fortfahren",
         "pay_now": "Zahlung jetzt abschließen",
         "no_changed_des": "Nein, ich habe meine Meinung geändert",
