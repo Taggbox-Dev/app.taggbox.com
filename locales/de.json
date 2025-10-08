@@ -3606,5 +3606,26 @@
                 "text": "Suchen Sie eine Integration, die hier nicht verfügbar ist? Teilen Sie uns Ihre Anforderungen mit, und wir prüfen, wie wir diese passend für Ihre Bedürfnisse umsetzen können."
             }
         ]
+    },
+    "sideBar": {
+        "home": "Startseite",
+        "networkManager": "Netzwerk-Manager",
+        "contentGallery": "Inhaltsgalerie",
+        "productCatalog": "Produktkatalog",
+        "publish": "Anpassen & Veröffentlichen",
+        "appsMore": "Apps & mehr",
+        "analytics": "Analysen",
+        "publish_": "Veröffentlichen",
+        "autopilot": "Autopilot",
+        "addFeed": "Feed hinzufügen",
+        "manageFeed": "Feeds verwalten",
+        "reviewHub": "Bewertungszentrum",
+        "content": "Inhalt",
+        "referEarn": "Empfehlen & Verdienen",
+        "profile": "Profil",
+        "plan_details": "Plandetails",
+        "social_accounts": "Soziale Konten",
+        "collaborator": "Mitarbeiter",
+        "mfa_authenticator": "MFA Authentifikator"
     }
 }

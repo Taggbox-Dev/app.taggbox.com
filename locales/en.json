@@ -3606,5 +3606,26 @@
                 "text": "Looking for an integration that’s not here? Let us know your requirements, and we’ll explore how we can make it happen to suit your needs."
             }
         ]
+    },
+    "sideBar":{
+        "home":"Home",
+        "networkManager": "Network Manager",
+        "contentGallery":"Content Gallery",
+        "productCatalog":"Product Catalog",
+        "publish":"Customize & Publish",
+        "appsMore":"Apps & more",
+        "analytics":"Analytics",
+        "publish_":"Publish",
+        "autopilot":"Autopilot",
+        "addFeed":"Add feed",
+        "manageFeed":"Manage feeds",
+        "reviewHub":"Review Hub",
+        "content": "content",
+        "referEarn": "Refer & Earn",
+        "profile": "Profile",
+        "plan_details": "Plan Details",
+        "social_accounts": "Social accounts",
+        "collaborator": "Collaborator",
+        "mfa_authenticator": "MFA Authenticator"
     }
 }

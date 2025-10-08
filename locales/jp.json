@@ -3606,5 +3606,26 @@
                 "text": "ここにない統合をお探しですか？ご要望をお知らせください。ニーズに合わせて実現方法を検討します。"
             }
         ]
+    },
+    "sideBar": {
+        "home": "ホーム",
+        "networkManager": "ネットワークマネージャー",
+        "contentGallery": "コンテンツギャラリー",
+        "productCatalog": "商品カタログ",
+        "publish": "カスタマイズと公開",
+        "appsMore": "アプリ & その他",
+        "analytics": "分析",
+        "publish_": "公開",
+        "autopilot": "オートパイロット",
+        "addFeed": "フィードを追加",
+        "manageFeed": "フィードを管理",
+        "reviewHub": "レビュー ハブ",
+        "content": "コンテンツ",
+        "referEarn": "紹介して獲得",
+        "profile": "プロフィール",
+        "plan_details": "プランの詳細",
+        "social_accounts": "ソーシャルアカウント",
+        "collaborator": "コラボレーター",
+        "mfa_authenticator": "MFA認証"
     }
 }
