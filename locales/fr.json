@@ -1,0 +1,3638 @@
+{
+    "login": {
+        "welcome_msg": "Bon retour",
+        "google_btn": "Se connecter avec Google",
+        "pass_upd_sucss": "Vous avez mis à jour votre mot de passe avec succès. Vous pouvez maintenant vous connecter avec votre nouveau mot de passe.",
+        "link_expire": "Lien expiré, veuillez réessayer.",
+        "with_email": "Se connecter avec un e-mail",
+        "not_mbr": "Pas encore membre ?"
+    },
+    "signup": {
+        "welcome_msg": "Inscrivez-vous pour un essai gratuit",
+        "carsosel_msg": [
+            "Toutes les fonctionnalités Premium",
+            "Aucune carte requise",
+            "Essai gratuit de 14 jours"
+        ],
+        "google_btn": "S'inscrire avec Google",
+        "sign_up_with_email": "S'inscrire avec un e-mail",
+        "already_have_an_account": "Vous avez déjà un compte ?",
+        "think_email_valid": "Si vous pensez que votre adresse e-mail est valide, veuillez ",
+        "existing_t_mbr": "Vous êtes déjà membre de Taggbox. Comme Tagembed fait partie du groupe d'entreprises Taggbox, utilisez les mêmes identifiants que pour Taggbox pour vous connecter.",
+        "existing_t_emb_mbr": "Vous êtes déjà membre de Tagembed (la plateforme partenaire de Taggbox). Pour vous connecter, utilisez simplement vos identifiants Tagembed ou essayez une autre adresse e-mail.",
+        "go_to_login_page": "Aller à la page de connexion",
+        "pass_length": {
+            "strong": "Fort",
+            "good": "Bon",
+            "weak": "Faible",
+            "too_short": "Trop court"
+        }
+    },
+    "forgot_pass": {
+        "welcome_msg": "Mot de passe oublié ?",
+        "enter_email": "Saisissez votre adresse e-mail pour réinitialiser votre mot de passe.",
+        "success_msg": "Succès ! Veuillez vérifier votre e-mail pour réinitialiser votre mot de passe."
+    },
+    "login_layout": {
+        "tag_line": "Pourquoi les gens aiment #{{replace_text}} ?",
+        "t_testml_desc": "Taggbox est une excellente plateforme pour présenter le contenu généré par les utilisateurs sur notre site web et engager les visiteurs grâce à la promotion croisée pour une expérience améliorée.",
+        "t_emb_testml_desc": "Il est devenu facile d’intégrer des publications de réseaux sociaux sur notre site avec une excellente expérience utilisateur en arrière-plan ! Le support par chat a été rapide et très utile.",
+        "t_author": "Tvisha Sharma",
+        "t_emb_author": "Devon H.",
+        "t_position": "Responsable MarComm, The Leela",
+        "t_emb_position": "Spécialiste du marketing numérique",
+        "review_sum": "Basé sur plus de 110 avis de nos utilisateurs"
+    },
+    "mfa": {
+        "welcome_msg": "Vérification supplémentaire requise",
+        "acc_protected_with": "Votre compte est protégé par ",
+        "mfa_text": "Authentification multi-facteurs (MFA).",
+        "mfa_desc": "Pour compléter le processus de connexion, veuillez entrer le code généré par votre application d'authentification ci-dessous.",
+        "code": "Code",
+        "backup": "Sauvegarde",
+        "mfa": "MFA",
+        "enter_mfa_code": "Entrez le code #{{method}}",
+        "code_not_wrkng": "Le code #{{method}} ne fonctionne pas ? ",
+        "use_code": "Utiliser le code #{{method}}",
+        "still_trbls": "Toujours des problèmes ?",
+        "valid_mfa": "Veuillez entrer un code MFA valide",
+        "valid_backup": "Veuillez entrer un code de sauvegarde valide",
+        "enhance_acc": "Renforcez la sécurité de votre compte en activant la 2FA.",
+        "enhance_acc_desc": "Cela aide à prévenir l'accès non autorisé même si votre mot de passe est compromis.",
+        "set_up_app": "Configurez votre application d'authentification",
+        "set_up_app_desc": "Utilisez une application d'authentification (comme Google Authenticator, Microsoft Authenticator ou Authy) pour scanner ce code QR. Une fois scanné, votre application générera un code à 6 chiffres à utiliser lors de la connexion.",
+        "backup_key": "Clé de sauvegarde",
+        "backup_key_desc": "Utilisez cette clé de sauvegarde si vous ne pouvez pas accéder à votre application d'authentification ou si le code 2FA généré ne fonctionne pas",
+        "backup_key_important": "💾 Important : Conservez cette clé dans un endroit sûr sur votre ordinateur ou appareil.",
+        "reset_qr": "Réinitialiser QR et clé",
+        "mfa_success": "MFA réinitialisée avec succès"
+    },
+    "newfeaturePopup": {
+        "1": {
+            "title": "🎉 Présentation de #{{companyName}} 2.0 — Conçu pour de meilleures performances",
+            "content": "Nous avons repensé #{{companyName}} pour rendre la gestion de votre contenu UGC plus fluide, rapide et puissante. Découvrez les nouveautés dans la vidéo de présentation ci-dessous 👇"
+        },
+        "2": {
+            "title": "Nous avons déménagé ! Tagshop a une nouvelle maison : #{{companyName}}.com 🚀",
+            "content": "Nous avons tout amélioré pour rendre la gestion de votre contenu UGC plus fluide, rapide et puissante. 🎥 Découvrez les nouveautés dans la vidéo de présentation ci-dessous 👇"
+        },
+        "3": {
+            "title": "Du UGC au Checkout 🛍️",
+            "content": "Transformez votre contenu UGC en galeries achetables pour votre boutique en ligne, shop sur bio, campagnes e-mail et autres canaux. 🎥 Découvrez les nouveautés dans la vidéo de présentation ci-dessous 👇"
+        }
+    },
+    "referal": {
+        "welcome_msg": "💸 Transformez les recommandations en revenus !",
+        "join": "Rejoignez le programme de parrainage #{{company}} et gagnez ",
+        "commission": "jusqu'à 30 % de commission récurrente",
+        "by": "en partageant simplement l'outil que vous aimez.",
+        "how_work": "Comment ça fonctionne :",
+        "join_in_sec": "Rejoignez notre programme de parrainage en quelques secondes",
+        "share": "Partagez votre lien",
+        "promote_tagbox": "Promouvez #{{company}} avec votre lien affilié unique",
+        "earn": "Gagnez des commissions",
+        "paid": "Recevez un paiement pour chaque parrainage réussi",
+        "spread": "Que vous soyez marketeur, agence ou créateur — commencez à gagner en diffusant le mot !",
+        "join_pg": "Rejoindre le programme de parrainage"
+    },
+    "profile": {
+        "user_key_lbl": "Clé API utilisateur",
+        "user_key_err_msg": "Cette fonctionnalité n'est pas disponible pour votre plan",
+        "email_verify_msg": "Votre e-mail doit être vérifié !",
+        "email_verify_desc": "Nous vous avons envoyé un e-mail avec le lien de vérification à ",
+        "email_verify_desc_2": ". Veuillez cliquer sur le lien de vérification présent dans l’e-mail pour commencer à explorer la suite UGC.",
+        "edit_profile": "Modifier le profil",
+        "greeting": "Salut #{{username}} 👋",
+        "personalized_experience_heading": "Vous voulez une expérience plus personnalisée ?",
+        "personalized_experience_subtext": "Complétez votre profil maintenant !",
+        "label_industry": "Secteur",
+        "label_organization": "Organisation",
+        "label_designation": "Fonction",
+        "placeholder_add_designation": "Ajouter une fonction",
+        "btn_add_designation": "Ajouter",
+        "label_contact": "N° de contact",
+        "btn_later": "Je le ferai plus tard",
+        "btn_submit": "Soumettre",
+        "industry_list": [
+            {
+                "value": "Automotive",
+                "label": "Automotive"
+            },
+            {
+                "value": "Agency",
+                "label": "Agency"
+            },
+            {
+                "value": "E-Commerce",
+                "label": "E-Commerce"
+            },
+            {
+                "value": "Education",
+                "label": "Education"
+            },
+            {
+                "value": "Entertainment",
+                "label": "Entertainment"
+            },
+            {
+                "value": "Non-Profit",
+                "label": "Non-Profit"
+            },
+            {
+                "value": "Government",
+                "label": "Government"
+            },
+            {
+                "value": "Food & Beverage",
+                "label": "Food & Beverage"
+            },
+            {
+                "value": "Retail",
+                "label": "Retail"
+            },
+            {
+                "value": "Sports",
+                "label": "Sports"
+            },
+            {
+                "value": "Travel",
+                "label": "Travel"
+            },
+            {
+                "value": "Venues",
+                "label": "Venues"
+            }
+        ],
+        "designation_list": [
+            {
+                "label": "CEO",
+                "value": "CEO"
+            },
+            {
+                "label": "Developer",
+                "value": "Developer"
+            },
+            {
+                "label": "Digital Marketing Manager",
+                "value": "Digital Marketing Manager"
+            },
+            {
+                "label": "Social Media Manager",
+                "value": "Social Media Manager"
+            },
+            {
+                "label": "Product Manager",
+                "value": "Product Manager"
+            },
+            {
+                "label": "Others",
+                "value": "Others"
+            }
+        ]
+    },
+    "plan": {
+        "back_to_feature": "Retour à la fonctionnalité",
+        "feature_usage": "Utilisation de la fonctionnalité",
+        "plan_cancelled": "Votre plan a été annulé.",
+        "plan_name": "Nom du plan",
+        "change_plan": "Changer de plan",
+        "remove_sub": "Supprimer l'abonnement",
+        "pricing": "Tarification",
+        "expires_at": "Expire le",
+        "show_all_inv": "Afficher toutes les factures",
+        "card_info": "Informations sur la carte",
+        "update_sub": "Mettre à jour l'abonnement",
+        "no_inv_title": "Aucune facture trouvée.",
+        "no_inv_msg": "Découvrez le contenu premium ! Achetez un plan et commencez votre parcours dès aujourd'hui.",
+        "plan_expire_msg": "Oups ! Votre plan a expiré",
+        "plan_expire_desc": "Nous avons temporairement suspendu l'accès à votre compte. Pas d’inquiétude, l'accès reprendra dès que vous mettrez à niveau votre plan",
+        "plan_expire_confirm": "Vous hésitez encore à mettre à niveau ? Vous pouvez prolonger votre essai gratuit ou réserver une démo rapide avec nous",
+        "switch_forever": "Passer au plan gratuit à vie"
+    },
+    "social_account": {
+        "title": "Comptes sociaux",
+        "share_social_link": "Vous voulez ajouter un compte social sans demander les identifiants ? Partagez simplement le lien avec le propriétaire.",
+        "no_social_acc": "Rien à voir ici !",
+        "no_social_acc_desc": "Oups ! Aucun réseau social connecté. Liez vos comptes et collectez plus de contenu !",
+        "connect_info": "#{{company}} ne peut pas accéder, stocker ou voir les informations personnelles ou mots de passe que vous utilisez pour connecter vos comptes sociaux.",
+        "send_url_desc": "Envoyez l'URL de connexion au propriétaire du compte. Saisissez l’e-mail pour partager le lien directement avec lui",
+        "send_url": "Partager l'URL de connexion par e-mail",
+        "connectAccount": "Connectez-vous à #{{network}} pour récupérer le contenu de ce flux.",
+        "connectButton": "Continuer avec",
+        "add_social_network": "Ajouter un réseau social"
+    },
+    "upgrad_plan": {
+        "heading": "Oups !",
+        "message": "Mettez à niveau votre plan pour commencer à utiliser #{{company_name}} en collaboration avec vos équipes",
+        "button": "Explorer les tarifs"
+    },
+    "collab": {
+        "title": "Panneau des collaborateurs",
+        "invite": "Inviter un collaborateur",
+        "no_collab": "Oups ! Rien à voir ici.",
+        "no_collab_desc": "Vous pouvez commencer à ajouter de nouveaux collaborateurs ici.",
+        "admin_desc": "Le rôle d’administrateur dispose d’un accès complet à #{{company}}, lui permettant d’exécuter toutes les fonctionnalités et d’ajouter d’autres gestionnaires.",
+        "manager_desc": "Le rôle de gestionnaire, en revanche, a un accès limité à #{{company}} et à ses fonctionnalités. Son accès est déterminé par les autorisations qui lui ont été accordées.",
+        "content_gallery": "Galerie de contenu",
+        "content_gallery_desc": "Collectez des publications depuis vos réseaux sociaux préférés dans une galerie de contenu organisée. Modérez et modifiez le contenu, rendez-le achetable et demandez les droits directement à #{{company}} pour l’utiliser sur vos points de contact marketing.",
+        "product_catalog": "Catalogue de produits",
+        "product_catalog_desc": "Il s'agit d'une liste de produits que vous pouvez synchroniser sur différentes plateformes (Shopify, WooCommerce, Magento), incluant les détails essentiels tels que descriptions, images et prix pour aider les clients dans leurs décisions d'achat.",
+        "publish_touch": "Points de publication",
+        "publish_touch_desc": "Publiez sans effort vos ressources organisées, telles que des galeries UGC achetables, sur des sites web, pages produits, campagnes e-mail et bios sociaux via Shopon.bio.",
+        "network_manager": "Gestionnaire de réseau",
+        "network_manager_desc": "Le gestionnaire de réseau, accessible via l’onglet Mon profil, vous permet d’explorer les comptes sociaux. Vous pouvez ajouter jusqu'à 5 réseaux sociaux pour élargir votre réseau professionnel.",
+        "add_manage_acc": "Ajouter & gérer les comptes",
+        "create_feed": "Créer & gérer les flux",
+        "additional_features": "Fonctionnalités supplémentaires",
+        "additional_features_desc": "Les fonctionnalités supplémentaires incluent Style Studio pour le branding, Auto-Modération, Créateurs et Insights pour la gestion de contenu. Pour une suite complète, vous trouverez également All Access, Apps et Plus, et Analytics.",
+        "view_all_gallery": "Voir toute la galerie",
+        "edit_all_gallery": "Modifier toute la galerie",
+        "create_new_gallery": "Créer une nouvelle galerie",
+        "heading_create": "Créer un mot de passe",
+        "desc_create": "Créez un mot de passe pour accéder au collaborateur.",
+        "button_submit": "Commencer !",
+        "button_progress": "Veuillez patienter...",
+        "heading_access_revoked": "Accès révoqué"
+    },
+    "notification": {
+        "tabAll": "Tout",
+        "tabUnread": "Non lu",
+        "msgall": "Aucune notification",
+        "msgUnread": "Aucune notification non lue",
+        "markAll": "Tout marquer comme lu"
+    },
+    "help": {
+        "chat": "Chat",
+        "call": "Appeler",
+        "email": "E-mail",
+        "knowledgeBase": "Base de connaissances"
+    },
+    "pricing": {
+        "auto_update": "Temps de mise à jour automatique du contenu",
+        "auto_update_desc": "Le temps de mise à jour indique la rapidité avec laquelle le nouveau contenu sera automatiquement mis à jour sur vos flux sociaux.",
+        "plans": "Plans",
+        "update_time": "Temps de mise à jour",
+        "api_limit": "En raison des limites de l'API, les flux LinkedIn peuvent mettre jusqu'à 48 heures pour se mettre à jour, tandis que les flux Twitter se rafraîchissent toutes les 4 à 6 heures",
+        "switch_yearly": "Passer à l'abonnement annuel (Économisez jusqu'à #{{save}}%)",
+        "annually_save": "Économisez annuellement #{{save}}%",
+        "save_per": "Économisez #{{save}}%",
+        "limited_time_offer": "Offre limitée ⏰",
+        "free_plan_txt": "Nous proposons également un plan gratuit à vie avec des fonctionnalités limitées. ",
+        "switch_to_free_plan": "Passer au plan gratuit",
+        "compare_all_plans": "Comparer tous les plans",
+        "compare_plans": "Comparer les plans",
+        "billed_monthly": "Facturé mensuellement",
+        "billed_annually": "Facturé annuellement",
+        "twitter_feed": "Flux Twitter",
+        "twitter_feed_desc": "Rechargez votre flux Twitter en achetant un module complémentaire",
+        "all_other_feeds": "Tous les autres flux",
+        "all_other_feeds_desc": "Rechargez votre flux en achetant un module complémentaire",
+        "end_ugc_title": "Gestion complète des campagnes UGC",
+        "end_ugc_1": "UGC achetable avec étiquetage automatique",
+        "end_ugc_2": "Galeries sur page produit",
+        "end_ugc_3": "E-mails dynamiques & paniers abandonnés",
+        "end_ugc_4": "Réseaux sociaux & campagnes",
+        "end_ugc_5": "Gestion automatisée des droits",
+        "end_ugc_6": "Plus de 100 intégrations",
+        "tailored_plan": "Plan sur mesure",
+        "tailored_plan_desc": "Plans personnalisés conçus pour les besoins uniques de votre entreprise. Personnalisation, options évolutives, support dédié, intégration transparente et solutions axées sur la croissance pour garantir le succès.",
+        "enterprises_features": [
+            {
+                "key": "Flux personnalisés"
+            },
+            {
+                "key": "Accès API"
+            },
+            {
+                "key": "Collaborateur"
+            },
+            {
+                "key": "Évaluation de la sécurité & DPA"
+            },
+            {
+                "key": "Mise à jour en temps réel"
+            },
+            {
+                "key": "Marque blanche"
+            }
+        ],
+        "just_pay": "Payer simplement",
+        "payment": "Paiement",
+        "payment_method": "Choisissez votre méthode de paiement préférée.",
+        "for_credit": "Pour tous les utilisateurs de cartes de crédit",
+        "for_amex": "Pour les utilisateurs Amex et PayPal",
+        "switch_plan_msg": "Vous êtes en train de changer de plan",
+        "switch_plan_desc": "Nous tenterons de débiter votre carte existante liée pour la mise à niveau. Si vous souhaitez mettre à jour votre carte, ",
+        "switch_click": "Cliquez ici",
+        "have_coup_code": "Vous avez un code promo ? ",
+        "apply": "Appliquer",
+        "enter_coup": "Saisissez le code ici",
+        "paid_note": "Le montant déjà payé sera automatiquement ajusté dans le montant à payer sur une base prorata.",
+        "plan_amount": "Montant du plan",
+        "unused_amount": "Montant non utilisé du plan actuel",
+        "discount_amount": "Montant de la remise",
+        "pay_amount": "Montant à payer",
+        "share_link": "Partager le lien de paiement",
+        "share_link_desc": "Envoyez le lien de paiement au propriétaire du compte. Saisissez l’e-mail pour partager le lien directement avec lui",
+        "share_link_by_email": "Partager le lien de paiement par e-mail",
+        "action_req": "Action supplémentaire requise ",
+        "payment_suc": "Paiement réussi !",
+        "payment_fail_desc": "Il semble que nous n'ayons pas pu traiter votre paiement automatiquement. Une action supplémentaire est requise pour compléter le paiement.",
+        "payment_suc_desc": "Merci pour votre paiement ! Votre transaction a été traitée avec succès.",
+        "share_link_desc_by_email": "Vous souhaitez recevoir le lien de paiement par e-mail ? ",
+        "level_up": "Améliorez votre site avec plus de fonctionnalités !",
+        "downgrade_msg": "Êtes-vous sûr de vouloir rétrograder ?",
+        "pending_msg": "Votre paiement est toujours en attente pour '#{{planName}}'",
+        "enjoy_access": "Profitez de l'accès à toutes les fonctionnalités avancées offertes par #{{upgradedPlanName}} en passant à l'abonnement.",
+        "switch_plan": "Passer au plan #{{upgradedPlanName}} limitera certaines des fonctionnalités puissantes que vous utilisez actuellement dans le plan #{{currentPlanName}}.",
+        "go_ahead": "Oui, continuez",
+        "pay_now": "Effectuer le paiement maintenant",
+        "no_changed_des": "Non, j'ai changé d'avis",
+        "already_paid": "Le montant déjà payé sera automatiquement ajusté dans votre facturation.",
+        "continue_with": "Continuer avec '#{{upgradedPlanName}}'"
+    },
+    "moderation": {
+        "no_posts": "Aucun message !",
+        "create_gallery": "Créez une galerie pour ajouter un flux ! ⌛",
+        "deleted_gallery_desc": "Oups ! Il semble que vous ayez supprimé votre galerie. Créez-en une en cliquant simplement sur le bouton ci-dessous.",
+        "btn_create_gallery": "Créer une galerie",
+        "no_feed": "Aucun flux",
+        "no_feed_desc": "Il semble que vous n’ayez encore ajouté aucun flux. Connectez votre plateforme préférée pour commencer à afficher du contenu.",
+        "btn_add_feed": "Ajouter un flux",
+        "meta_limit": "Limitations du contenu Meta",
+        "meta_limit_desc": "Seules les mentions à venir depuis Instagram apparaîtront ici. Les publications existantes ne peuvent pas être récupérées en raison des directives de Meta.",
+        "btn_add_feed2": "Ajouter un autre flux",
+        "no_posts_avail": "Aucun message disponible",
+        "no_posts_avail_desc": "Aucun message n’est actuellement disponible à partir de vos sources connectées. Le nouveau contenu apparaîtra ici une fois publié. Vous pouvez également ajouter un autre flux pour afficher plus de contenu.",
+        "btn_add_feed3": "Ajouter un autre flux",
+        "private_posts": "🔒 Tout est privé !",
+        "private_posts_desc": "Passez certains messages en public ou créez un autre flux pour voir plus.",
+        "btn_add_feed4": "Ajouter un autre flux",
+        "no_posts_yet": "Aucun message pour le moment !",
+        "no_posts_yet_desc": "Il semble qu’il n’y ait rien à voir ici pour le moment. Modérez les messages que vous ne souhaitez pas afficher !",
+        "tab_all": "Tous les messages",
+        "tab_public": "Public",
+        "tab_private": "Privé",
+        "tab_upcoming": "À venir",
+        "ph_search": "Que recherchez-vous ?",
+        "lbl_selected": " Sélectionné",
+        "lbl_select_all": "Tout sélectionner",
+        "tt_refresh": "Rafraîchir",
+        "btn_delete": "Supprimer",
+        "btn_get_rights": "Obtenir les droits",
+        "btn_add_tag": "Ajouter un tag",
+        "ugc_right_error": "Vous n’avez pas accès aux droits UGC selon votre plan actuel. Veuillez mettre à niveau votre plan pour débloquer cette fonctionnalité.",
+        "ugc_right_error_2": "Pour envoyer une demande de droits UGC en masse, assurez-vous de choisir des publications d’un seul utilisateur.",
+        "filter_add": "Ajouter un filtre",
+        "filter_tags": "Tags des publications",
+        "filter_feeds": "Flux sociaux",
+        "filter_language": "Langue des publications",
+        "filter_type": "Type de publication",
+        "filter_ai": "Recommandation AI",
+        "filter_sentiment": "Sentiment",
+        "filter_rating": "Évaluation par étoiles",
+        "filter_other": "Autre",
+        "type_text": "Texte seulement",
+        "type_image": "Avec image",
+        "type_video": "Avec vidéo",
+        "type_ugc": "UGC avec produits tagués",
+        "ai_recom": "Recommandé",
+        "ai_consider": "À considérer",
+        "ai_not_recom": "Non recommandé",
+        "sent_pos": "Positif",
+        "sent_neut": "Neutre",
+        "sent_neg": "Négatif",
+        "other_pin": "Épinglé en haut",
+        "other_recent": "Récent",
+        "other_retweets": "Retweets",
+        "btn_upgrade": "Mettre à niveau maintenant",
+        "btn_reset": "Réinitialiser les résultats",
+        "ugc_request": "Demande UGC",
+        "highlight_post": "Mettre en avant le message",
+        "reset": "Réinitialiser",
+        "filter_by": "Filtrer par ",
+        "modal_pending_title": "Demande en attente",
+        "modal_pending_oops": "Oups ! Votre demande UGC est en attente",
+        "btn_url_copied": "URL copiée",
+        "btn_copy_url": "Copier l'URL",
+        "steps_title": "Étapes à suivre",
+        "steps_1": "Vous avez généré avec succès une \"Demande UGC\" pour ce message.",
+        "steps_2": "Vérifiez rapidement votre demande avant de l’envoyer au propriétaire.",
+        "steps_3": "Cliquez sur le bouton \"Soumettre la demande\" situé en bas à droite de l’écran puis vous serez redirigé vers la publication originale de l’utilisateur.",
+        "steps_4": "Collez le lien de la \"Demande UGC\" dans la section commentaires de la publication originale.",
+        "steps_5": "Vous recevrez les droits UGC dès que le propriétaire de la publication acceptera votre demande et vous permettra d’utiliser son message.",
+        "btn_done": "Terminé",
+        "modal_rejected_title": "Message rejeté",
+        "modal_rejected_oops": "Désolé ! Votre demande UGC a été rejetée",
+        "btn_close": "Fermer",
+        "guideline_1": "Gardez la demande personnalisée",
+        "guideline_2": "Soyez clair sur vos intentions avec la publication",
+        "guideline_3": "Appréciez les efforts du propriétaire de la publication",
+        "guideline_4": "Offrez des récompenses aux utilisateurs",
+        "guideline_5": "Ajoutez les T&C à votre demande",
+        "modal_access_title": "Accéder à l'image",
+        "modal_access_approved": "Votre demande UGC a été approuvée",
+        "section_info": "Informations",
+        "section_comment": "Commentaire de l'utilisateur",
+        "info_handle": "Pseudo utilisateur",
+        "info_name": "Nom de l'utilisateur",
+        "info_device": "Appareil",
+        "info_ip": "Adresse IP",
+        "info_location": "Localisation",
+        "info_date": "Date d'approbation de la publication",
+        "info_timezone": "Fuseau horaire",
+        "info_terms": "Termes et conditions",
+        "info_certificate": "Certificat d'approbation",
+        "info_rights_mgmt": "Gestion des droits",
+        "btn_download": "Télécharger",
+        "general_request": "Demande générale",
+        "social_account": "Compte social",
+        "preview": "Aperçu",
+        "mode_title": "Sélectionnez le mode pour la demande de droits",
+        "mode_desc": "#{{company}} propose deux modes distincts pour demander des droits : demande par commentaire et demande par DM.",
+        "mode_comment_title": "Demande par commentaire",
+        "mode_comment_desc": "Demandez le consentement des créateurs via un commentaire sur leur publication.",
+        "mode_dm_title": "Demande par DM",
+        "mode_dm_desc": "Envoyez une demande de droits directement dans le DM des créateurs !",
+        "btn_next": "Étape suivante",
+        "ready_title": "Votre demande UGC est prête",
+        "ready_enter_hashtag": "Entrez un hashtag pour les droits UGC",
+        "ready_steps_title": "Étapes à suivre",
+        "btn_back": "Retour",
+        "btn_raise_request": "Soumettre la demande",
+        "step_1": "Vous avez généré avec succès une \"Demande UGC\" pour ce message.",
+        "step_2": "Vérifiez rapidement votre demande avant de l’envoyer au propriétaire.",
+        "step_3": "Cliquez sur le bouton \"Soumettre la demande\" situé en bas à droite de l’écran puis vous serez redirigé vers la publication originale de l’utilisateur.",
+        "step_4": "Collez le lien de la \"Demande UGC\" dans la section commentaires de la publication originale.",
+        "step_5": "Vous recevrez les droits UGC dès que le propriétaire de la publication acceptera votre demande et vous permettra d’utiliser son message.",
+        "copy_msg": "#{{custom_msg}} Répondez simplement avec ##{{hash}} si cela vous convient, et vous trouverez tous les détails dans notre bio. Merci beaucoup !",
+        "tmpl_edit": "Modifier",
+        "tmpl_create": "Créer nouveau",
+        "tmpl_title": "Modèle",
+        "tmpl_name_label": "Nom du modèle",
+        "tmpl_name_ph": "entrez le nom de votre modèle",
+        "tmpl_name_error": "Le nom est requis",
+        "tmpl_msg_label": "Message personnalisé",
+        "tmpl_msg_error": "Le message personnalisé est requis",
+        "tmpl_logo_label": "Logo de la marque",
+        "tmpl_logo_upload": "Télécharger le logo",
+        "tmpl_logo_remove": "Supprimer",
+        "tmpl_logo_error": "Le logo de la marque est requis",
+        "tmpl_tnc_label": "Termes et conditions",
+        "tmpl_tnc_attach": "Joindre un fichier",
+        "tmpl_tnc_error": "Les termes & conditions sont requis",
+        "btn_save": "Enregistrer le modèle",
+        "tmpl_choose": "Choisir parmi les modèles",
+        "msg_label": "Message",
+        "accept_tc": "Accepter nos ",
+        "msg_default": "Nous avons adoré votre créativité ! Pouvons-nous présenter votre travail incroyable et vous donner la reconnaissance que vous méritez ? ✨📸🙌 Veuillez approuver notre demande afin que nous puissions utiliser votre contenu dans notre campagne marketing.",
+        "tnc_predefined": "Utiliser notre contenu prédéfini",
+        "tnc_download_title": "Télécharger les termes & conditions",
+        "tnc_click": " Cliquez sur Générer la demande pour passer à l'étape suivante.",
+        "tnc_error": "Veuillez accepter les termes et conditions",
+        "acct_select": "Sélectionner un compte ",
+        "acct_add_another": "Ajouter un autre compte",
+        "acct_add": "Ajouter un compte",
+        "acct_error": "Veuillez connecter un compte",
+        "modal_edit": "Modifier la publication",
+        "modal_info": "Informations générales",
+        "btn_refresh": "Rafraîchir la publication",
+        "btn_tags": "Tags",
+        "btn_more": "Plus",
+        "menu_delete": "Supprimer la publication",
+        "menu_block": "Bloquer l'utilisateur",
+        "menu_view": "Voir la publication",
+        "tab_tag": "Taguer les produits",
+        "tab_details": "Détails",
+        "field_author": "Auteur",
+        "field_network": "Réseau",
+        "field_feed": "Nom du flux",
+        "field_rights": "Droits",
+        "field_rating": "Évaluation",
+        "manual_upload": "Téléversement manuel",
+        "rights_approved": "Demande approuvée",
+        "rights_pending": "Demande en attente",
+        "rights_rejected": "Demande rejetée",
+        "switch_hotspot": "Activer le hotspot",
+        "ph_search_products": "Rechercher des produits par nom, catégorie, SKU, tags",
+        "ph_search_tags": "Rechercher avec plusieurs tags",
+        "label_category": "Catégorie ",
+        "btn_upload_products": "Téléverser de nouveaux produits",
+        "empty_products": "Aucun produit tagué pour le moment",
+        "ai_banner": "Éliminez le tag manuel des produits avec l'IA",
+        "modal_title": "Appel à l'action",
+        "label_btn_text": "Texte du bouton ",
+        "ph_btn_text": "Entrez le texte du bouton",
+        "error_required": "Ce champ est requis.",
+        "label_text_color": "Couleur du texte ",
+        "label_btn_color": "Couleur du bouton ",
+        "error_url": "L'URL du bouton doit contenir une URL valide (ex : https://google.com)",
+        "label_status": "Statut ",
+        "single_post_embed": "Intégration d’un seul message",
+        "btn_litecode": "Litecode",
+        "btn_iframe": "Iframe",
+        "iframe_note": "Note*: Pour éviter que le widget ne se replie ou soit masqué, assurez-vous que le conteneur parent (où l’iframe est placé) a une hauteur ou une hauteur minimale explicite définie.",
+        "tooltip_copy": "Copier le code",
+        "tooltip_copied": "Code copié",
+        "label_caption": "Inclure la légende",
+        "label_header": "Inclure l'en-tête",
+        "btn_copy_code": "Copier le code d'intégration",
+        "btn_copied": "Copié",
+        "tooltip_pin": "Épingler en haut",
+        "tooltip_highlight": "Mettre en avant",
+        "tooltip_more": "Plus d’actions",
+        "action_edit_cta": "Modifier CTA",
+        "action_add_cta": "Ajouter CTA",
+        "action_change_order": "Changer l’ordre",
+        "status_pending": "En attente",
+        "status_approved": "Approuvé",
+        "status_rejected": "Rejeté",
+        "status_expired": "Expiré",
+        "label_author_profile": "Profil de l’auteur",
+        "label_author_name": "Nom de l’auteur",
+        "label_author_handle": "Pseudo de l’auteur",
+        "label_add_tag": "Ajouter un tag",
+        "label_content": "Contenu",
+        "label_edit_thumbnail": "Modifier la miniature",
+        "label_edit_image": "Modifier l’image",
+        "label_edit_video": "Modifier la vidéo",
+        "ph_author_name": "Entrez le nom de l’auteur",
+        "ph_author_handle": "Entrez le pseudo de l’auteur",
+        "ph_tag": "Entrez votre tag",
+        "ph_content": "Entrez le contenu",
+        "ugc_auth_prompt": "Veuillez autoriser votre compte pour vérifier la propriété de la publication.",
+        "ugc_auth_button": "Vérifier le compte",
+        "status_reject": "Rejeter",
+        "status_approve": "Approuver",
+        "connect_acc_msg": "Veuillez vous assurer de connecter le compte source correct.",
+        "comments": "Commentaires",
+        "optional": "Optionnel",
+        "submit": "Soumettre",
+        "search": "Rechercher",
+        "carousel_btn": "Carrousel",
+        "require_ph": "Veuillez mentionner toute exigence spécifique/condition pour l’approbation/le rejet. (optionnel)…",
+        "modal": {
+            "generalInfo": {
+                "heading": "Informations générales",
+                "button": "Aller à la Modération",
+                "clicks": "Clics",
+                "views": "Vues",
+                "sentiment": "Sentiment",
+                "gallery": "Galerie"
+            }
+        }
+    },
+    "onboarding": {
+        "welcome_to": "Bienvenue sur #{{company}}",
+        "skip": "Passer",
+        "step_select_source": "Sélectionner la source",
+        "intro_welcome": "Bienvenue sur #{{company}} ! Vous avez pris une excellente décision en affichant les flux des réseaux sociaux sur votre site web.",
+        "toggle_show_less": "Afficher moins de réseaux",
+        "toggle_show_all": "Cliquez ici pour voir tous les réseaux",
+        "step": "Étape #{{step}}",
+        "add_content": "Ajouter du contenu",
+        "fb_exclusive_msg": "Cette fonctionnalité est sur demande ! Contactez-nous pour intégrer des hashtags Facebook sur votre site web.",
+        "fb_single_album": "Album unique",
+        "fb_all_album": "Tous les albums de la page Facebook",
+        "connect_profile_title": "Connecter le profil",
+        "connect_profile_subtitle": "Sélectionnez le profil #{{networkName}} que vous souhaitez connecter",
+        "rss_display_name": "Nom affiché",
+        "rss_feed_url": "URL du flux",
+        "business_page_url_err": "Veuillez entrer l’URL de la page professionnelle.",
+        "yelp_location_err": "Veuillez sélectionner un lieu dans le menu déroulant puis remplir le mot-clé",
+        "yelp_keyword_err": "Le mot-clé n’est pas disponible pour cette adresse",
+        "select_channel": "Sélectionner le canal",
+        "tiktok_connect_err": "Veuillez ajouter un compte TikTok d'abord !!!",
+        "tiktok_handle_msg": "Initialement, 32 publications seront agrégées via le pseudo, après quoi toutes les publications à venir seront agrégées.",
+        "tiktok_mention_msg": "Vous ne recevrez que les publications à venir après avoir créé un flux de mentions.",
+        "select_place": "Sélectionner le lieu",
+        "select_account": "Sélectionner un compte",
+        "demo_data_msg": "Il s'agit de données de démonstration. Les données réelles apparaîtront une fois que vous aurez ajouté un flux.",
+        "posts": "publications",
+        "post": "publication",
+        "reviews": "avis",
+        "review": "avis",
+        "feed_success": "Vous avez créé votre flux avec succès !",
+        "feed_collected": "#{{post_count}} #{{count_msg}} collectés. Vérifiez l’aperçu à droite",
+        "feed_next_options": "Découvrez ce que vous pouvez faire de plus avec votre collection en vérifiant les options suivantes.",
+        "connectedMsgs": {
+            "1": [
+                "Sélectionnez une option dans la liste ci-dessous pour continuer."
+            ],
+            "2": [
+                "Choisissez parmi les options ci-dessous et laissez-moi gérer le reste !"
+            ],
+            "3": [
+                "Rassemblez le contenu Facebook et préparez-vous à afficher un flux sur les sites web. Sélectionnez une source ci-dessous pour lancer votre premier flux."
+            ],
+            "4": [
+                "Entrez simplement les détails ci-dessous pour spécifier vos préférences de recherche."
+            ],
+            "5": [
+                "Collectez des publications depuis Pinterest pour afficher son contenu sur les sites web. Choisissez une source ci-dessous pour commencer votre premier flux."
+            ],
+            "6": [
+                "Continuez et sélectionnez une option pour saisir les détails."
+            ],
+            "7": [
+                "Agrégerez le contenu YouTube. Choisissez une source ci-dessous pour démarrer votre flux initial."
+            ],
+            "8": [
+                "Procédez à la saisie des détails en sélectionnant une option."
+            ],
+            "10": [
+                "Veuillez saisir les détails dans la case ci-dessous en choisissant une option."
+            ],
+            "11": [
+                "Entrez votre compte Tumblr et récupérez le meilleur contenu."
+            ],
+            "12": [
+                "RSS, suivez facilement l’actualité et gagnez du temps en recevant directement les mises à jour."
+            ],
+            "15": [
+                "Workplace by Meta est une plateforme de communication professionnelle sécurisée et riche en fonctionnalités, similaire à Facebook."
+            ],
+            "18": [
+                "Choisissez parmi les options ci-dessous et laissez-moi gérer le reste !"
+            ],
+            "19": [
+                "Sélectionnez une option et saisissez les détails."
+            ],
+            "20": [
+                "Continuez et choisissez une option pour fournir les détails."
+            ],
+            "23": [
+                "Veuillez entrer l’URL de la liste pour extraire du contenu authentique généré par les utilisateurs ayant réservé un séjour."
+            ],
+            "28": [
+                "Sélectionnez parmi les options ci-dessous et générez votre flux à partir de la source choisie."
+            ],
+            "33": [
+                "Entrez votre URL ci-dessous pour collecter les avis."
+            ],
+            "34": [
+                "Entrez les détails ci-dessous pour récupérer les meilleurs avis que vous souhaitez."
+            ],
+            "35": [
+                "Entrez votre URL ci-dessous pour collecter les avis."
+            ],
+            "36": [
+                "Entrez l’URL de votre boutique ci-dessous pour collecter les avis."
+            ],
+            "37": [
+                "Ajoutez l’URL du produit ci-dessous pour obtenir les avis depuis AliExpress."
+            ],
+            "38": [
+                "Entrez l’URL de l’hôtel sur Booking.com et choisissez les meilleurs avis."
+            ]
+        },
+        "feedCreationBtnMsg": {
+            "1": "Tout est prêt. Cliquez sur Suivant pour prévisualiser et explorer d'autres options.",
+            "2": "Parfait. Vous êtes prêt à démarrer. Cliquez sur Suivant pour voir l’aperçu et les autres options.",
+            "3": "Super ! Tout est prêt. Cliquez sur \"Suivant\" pour prévisualiser et explorer les fonctionnalités supplémentaires.",
+            "4": "Vous êtes prêt. Cliquez sur \"Suivant\" pour prévisualiser et explorer les autres options disponibles.",
+            "5": "Vous êtes prêt à continuer. Cliquez sur \"Suivant\" pour voir l’aperçu et explorer d’autres options.",
+            "6": "Bien joué ! Cliquez ici pour prévisualiser votre flux et passer à l’étape suivante.",
+            "7": "Prêt à démarrer ! Cliquez sur \"Suivant\" pour prévisualiser et voir plus d’options.",
+            "8": "Tout est configuré. Cliquez sur \"Suivant\" pour voir l’aperçu et accéder à des options supplémentaires.",
+            "10": "Cliquez sur \"Suivant\" pour vérifier l’aperçu et les autres fonctionnalités disponibles.",
+            "12": "Vous êtes prêt à partir. Cliquez sur \"Suivant\" pour voir l’aperçu et accéder aux fonctionnalités supplémentaires.",
+            "15": "Bon travail, cliquez ici pour voir à quoi ressemble votre flux et passer à l’étape suivante.",
+            "18": "Parfait. Vous êtes prêt à démarrer. Cliquez sur Suivant pour voir l’aperçu et les autres options.",
+            "19": "Vous pouvez continuer. Cliquez sur \"Suivant\" pour un aperçu et découvrir plus d’options.",
+            "20": "Tout est prêt ! Cliquez sur \"Suivant\" pour un aperçu et explorez d’autres choix.",
+            "23": "Vous êtes entièrement préparé. Cliquez sur \"Suivant\" pour prévisualiser et explorer des choix supplémentaires.",
+            "28": "Vous êtes prêt à continuer. Cliquez sur \"Suivant\" pour voir l’aperçu et explorer d’autres options.",
+            "11": "Vous êtes prêt à continuer. Cliquez sur \"Suivant\" pour voir l’aperçu et explorer d’autres options.",
+            "33": "Parfait. Vous êtes prêt à démarrer. Cliquez sur Suivant pour voir l’aperçu et les autres options.",
+            "34": "Parfait. Vous êtes prêt à démarrer. Cliquez sur Suivant pour voir l’aperçu et les autres options.",
+            "35": "Vous êtes prêt à continuer. Cliquez sur \"Suivant\" pour voir l’aperçu et explorer d’autres options.",
+            "36": "Vous êtes prêt à continuer. Cliquez sur \"Suivant\" pour voir l’aperçu et explorer d’autres options.",
+            "37": "Parfait. Vous êtes prêt à démarrer. Cliquez sur Suivant pour voir l’aperçu et les autres options.",
+            "38": "Parfait. Vous êtes prêt à démarrer. Cliquez sur Suivant pour voir l’aperçu et les autres options."
+        },
+        "filterMsg": {
+            "1": {
+                "2": "Indiquez-nous le hashtag que vous souhaitez rechercher.",
+                "1": "Veuillez fournir le pseudo pour la collecte de UGC.",
+                "7": "Entrez la mention pour commencer à rassembler du contenu.",
+                "5": null
+            },
+            "18": {
+                "26": "Veuillez entrer le hashtag à partir duquel vous souhaitez collecter des UGC.",
+                "23": "Donnez-moi le nom du compte et je m’occupe du reste.",
+                "34": null,
+                "24": "Autorisez votre compte Instagram ci-dessous. Remarque : Seules les publications à venir seront récupérées pour les mentions Instagram.",
+                "25": "Connectez-vous à Instagram pour commencer votre collecte de UGC.",
+                "88": "Connectez-vous à Instagram Business pour commencer votre collecte de UGC.",
+                "66": null,
+                "1": "Assurez-vous que votre compte professionnel est connecté et procédez à la revue du flux sélectionné."
+            },
+            "28": {
+                "1": "Veuillez connecter votre compte personnel pour continuer.",
+                "70": "Veuillez entrer l’URL de la publication pour collecter les UGC",
+                "72": "Indiquez-nous le hashtag que vous souhaitez rechercher.",
+                "71": "Donnez le nom du compte et nous nous occupons du reste",
+                "73": "Liez votre compte personnel TikTok pour afficher tout le contenu de votre profil."
+            },
+            "4": {
+                "33": "Mentionnez l’adresse et nous collecterons les avis pour vous.",
+                "29": "Assurez-vous que votre compte est connecté pour rassembler le contenu."
+            },
+            "3": {
+                "8": "Veuillez entrer le nom de la page pour collecter les UGC.",
+                "1": "Connectez-vous à votre profil et collectez vos publications.",
+                "67": "Liez votre compte Facebook personnel pour afficher tout le contenu de votre profil.",
+                "55": "Liez votre page pour rassembler les avis.",
+                "62": "Tapez les mentions pour rassembler le contenu.",
+                "66": null
+            },
+            "7": {
+                "1": "Veuillez entrer l’URL du canal pour collecter les UGC.",
+                "75": "Entrez le pseudo du canal pour collecter les shorts.",
+                "11": "Saisissez l’URL de la playlist pour continuer.",
+                "4": "Ajoutez simplement le mot-clé que vous souhaitez que nous recherchions.",
+                "32": "Tapez l’adresse et le pseudo pour rassembler le contenu."
+            },
+            "5": {
+                "1": "Fournissez-nous le pseudo complet et nous vous donnerons son flux.",
+                "71": "Fournissez-nous le pseudo complet et nous vous donnerons son flux.",
+                "12": "Donnez-nous le lien à partir duquel vous souhaitez que nous rassemblions le contenu."
+            },
+            "10": {
+                "16": "Veuillez entrer l’URL de la publication pour collecter le contenu.",
+                "18": "Tapez les URLs en masse pour collecter le contenu.",
+                "1": "Veuillez fournir l’URL du pseudo pour la collecte de UGC.",
+                "2": "Indiquez-nous le hashtag que vous souhaitez rechercher.",
+                "17": "Veuillez entrer l’URL de la page entreprise pour collecter les UGC.",
+                "86": "Pour connecter une page entreprise LinkedIn, vous devez avoir un accès Admin à la page."
+            },
+            "11": {
+                "2": "Spécifiez le hashtag pour commencer la collecte de UGC.",
+                "1": "Partagez le pseudo pour collecter le contenu."
+            },
+            "12": {
+                "13": "Veuillez entrer l’URL du flux RSS."
+            },
+            "19": {
+                "27": "Saisissez la page entreprise pour rassembler du contenu généré par les utilisateurs (UGC).",
+                "28": "Veuillez entrer le nom et l’adresse de la page pour collecter le contenu."
+            },
+            "23": {
+                "56": "Veuillez entrer l’URL de la liste pour collecter les UGC",
+                "57": "Veuillez entrer l’URL de l’expérience pour collecter les UGC"
+            },
+            "8": {
+                "2": "Spécifiez le hashtag pour commencer la collecte de UGC.",
+                "1": "Partagez le hashtag pour collecter le contenu."
+            },
+            "15": "Veuillez entrer le token d’accès et l’ID du groupe.",
+            "6": {
+                "2": "Partagez le hashtag complet afin que nous puissions collecter le contenu avec.",
+                "1": "Donnez-nous le pseudo pour continuer."
+            },
+            "20": {
+                "2": "Veuillez entrer le canal pour collecter les UGC",
+                "1": "Veuillez entrer le canal et le mot-clé pour collecter les UGC"
+            },
+            "33": null,
+            "34": null,
+            "35": {
+                "78": null,
+                "80": null
+            },
+            "36": null,
+            "37": null,
+            "38": null
+        },
+        "verificationEmail": {
+            "signOut": "Se Déconnecter",
+            "heading": "Vous n’êtes plus qu’à un pas.",
+            "msgBefor": "Nous avons envoyé un email à",
+            "msgAfter": "avec le lien de vérification. Veuillez accéder à votre compte email pour vérifier. Si vous ne voyez pas l’email dans votre boîte de réception ou dans le dossier spam, essayez de renvoyer l’email ici :",
+            "resendEmail": "Renvoyer l’Email",
+            "verifiedHeading": "Email Vérifié",
+            "verifiedMsg": "Votre compte a été vérifié avec succès. Il est temps d’explorer votre compte #{{company_name}} !",
+            "verifiedBtn": "Allons-y"
+        },
+        "selectedNetworkMsg": {
+            "1": {
+                "msg": "Vous ne pouvez jamais vous tromper avec X (Twitter).",
+                "btnText": "Procédez pour personnaliser votre collecte de contenu X (Twitter)."
+            },
+            "2": {
+                "msg": "Instagram ! C’est un bon choix.",
+                "btnText": "Cliquez sur suivant pour sélectionner ce que vous souhaitez que je collecte depuis Instagram."
+            },
+            "3": {
+                "msg": "Créons un peu de contenu Facebook pour vous.",
+                "btnText": "Cliquez sur Suivant pour choisir ce que vous souhaitez que je collecte depuis Facebook."
+            },
+            "4": {
+                "msg": "Bien sûr, je peux récupérer quelques avis Google pour vous.",
+                "btnText": "Cliquez simplement sur Suivant pour choisir ce que vous souhaitez que je recherche."
+            },
+            "5": {
+                "msg": "Pinterest a été sélectionné avec succès pour récupérer du contenu.",
+                "btnText": "Cliquez sur Suivant pour choisir ce que vous souhaitez que je recherche sur Pinterest."
+            },
+            "6": {
+                "msg": "Choisissez comment collecter le contenu de Flickr à l’étape suivante.",
+                "btnText": "Cliquez sur Suivant pour choisir ce que vous souhaitez que je recherche sur Flickr."
+            },
+            "7": {
+                "msg": "Collectons du contenu vidéo YouTube pour vous immédiatement !",
+                "btnText": "Cliquez maintenant sur Suivant pour sélectionner ce que vous souhaitez que je collecte depuis YouTube."
+            },
+            "8": {
+                "msg": "Procédez à l’assemblage du flux de contenu depuis votre source sélectionnée.",
+                "btnText": "Cliquez sur Suivant pour choisir ce que vous souhaitez que je recherche sur Vimeo."
+            },
+            "10": {
+                "msg": "Parfait, nous allons collecter du contenu professionnel LinkedIn à intégrer sur votre site web.",
+                "btnText": "Cliquez sur Suivant pour choisir ce que vous souhaitez que je recherche sur LinkedIn."
+            },
+            "11": {
+                "msg": "Tumblr !! C’est un bon choix.",
+                "btnText": "Cliquez sur Suivant pour choisir ce que vous souhaitez que je recherche sur Tumblr."
+            },
+            "12": {
+                "msg": "Super, remplissez les informations supplémentaires pour vous rapprocher de votre contenu.",
+                "btnText": "Cliquez sur Suivant pour entrer les détails requis."
+            },
+            "15": {
+                "msg": "Vous avez sélectionné Workplace, avancez pour récupérer le contenu.",
+                "btnText": "Excellent ! Ajoutez simplement vos informations Workplace et c’est parti !!"
+            },
+            "18": {
+                "msg": "Instagram !! C’est un bon choix.",
+                "btnText": "Cliquez sur Suivant pour sélectionner ce que vous souhaitez que je collecte depuis Instagram."
+            },
+            "19": {
+                "msg": "Rassemblez des avis depuis Yelp pour les afficher sur le site. Choisissez une source dans les options ci-dessous pour démarrer votre flux initial.",
+                "btnText": "Cliquez sur Suivant pour sélectionner ce que vous souhaitez que je collecte depuis Yelp."
+            },
+            "20": {
+                "msg": "Accédez à la section des détails pour rassembler le contenu de votre flux depuis Slack.",
+                "btnText": "Cliquez sur Suivant pour sélectionner ce que vous souhaitez que je collecte depuis Slack."
+            },
+            "23": {
+                "msg": "Airbnb a été choisi avec succès, procédez pour entrer les détails et vous rapprocher du contenu collecté.",
+                "btnText": "Cliquez sur Suivant pour choisir ce que vous souhaitez que je collecte depuis Airbnb."
+            },
+            "28": {
+                "msg": "Bien sûr, choisissez d’où vous souhaitez que je collecte depuis TikTok.",
+                "btnText": "Cliquez sur Suivant pour sélectionner ce que vous souhaitez que je collecte depuis TikTok."
+            },
+            "33": {
+                "msg": "TrustPilot !! C’est un bon choix.",
+                "btnText": "Cliquez sur Suivant pour sélectionner ce que vous souhaitez que je collecte depuis TrustPilot."
+            },
+            "34": {
+                "msg": "Amazon !! C’est un bon choix.",
+                "btnText": "Cliquez sur Suivant pour sélectionner ce que vous souhaitez que je collecte depuis les avis Amazon."
+            },
+            "35": {
+                "msg": "Tripadvisor !! C’est un bon choix.",
+                "btnText": "Cliquez sur Suivant pour sélectionner ce que vous souhaitez que je collecte depuis Tripadvisor."
+            },
+            "36": {
+                "msg": "Etsy !! C’est un bon choix.",
+                "btnText": "Cliquez sur Suivant pour sélectionner ce que vous souhaitez que je collecte depuis Etsy."
+            },
+            "37": {
+                "msg": "Aliexpress !! C’est un bon choix.",
+                "btnText": "Cliquez sur Suivant pour sélectionner ce que vous souhaitez que je collecte depuis Aliexpress."
+            },
+            "38": {
+                "msg": "Booking !! C’est un bon choix.",
+                "btnText": "Cliquez sur Suivant pour sélectionner ce que vous souhaitez que je collecte depuis Booking."
+            }
+        }
+    },
+    "cancel_plan": {
+        "reasons": [
+            {
+                "title": "Trouvé une meilleure alternative",
+                "type": "Found a better alternative",
+                "desc": "Avez-vous trouvé un produit avec de meilleures fonctionnalités ou un meilleur prix que le nôtre ?",
+                "icon": "right-left"
+            },
+            {
+                "title": "Trop cher",
+                "type": "Too expensive",
+                "desc": "Le prix que nous proposons ne correspondait-il pas à vos attentes ?",
+                "icon": "circle-dollar"
+            },
+            {
+                "title": "Problèmes techniques",
+                "type": "Technical issues",
+                "desc": "Avez-vous du mal à éviter les problèmes techniques ?",
+                "icon": "headset"
+            },
+            {
+                "title": "Difficile à configurer et à utiliser",
+                "type": "Hard to setup and use",
+                "desc": "Avez-vous besoin d'aide pour configurer la Galerie afin d'en tirer le meilleur parti ?",
+                "icon": "circle-question"
+            },
+            {
+                "title": "Autres (veuillez préciser)",
+                "type": "Others (please specify)",
+                "desc": "Y a-t-il autre chose qui vous dérange ?",
+                "icon": "circle-ellipsis"
+            }
+        ],
+        "cancel_heading": "Veuillez nous indiquer la raison pour laquelle vous souhaitez annuler votre abonnement #{{company_name}}.",
+        "cancel": "Annuler",
+        "cancel_back": "J'ai changé d'avis, revenir en arrière",
+        "cancel_keep": "Conserver mon abonnement",
+        "cancel_continue": "Continuer l'annulation",
+        "subscription_not_found": "Abonnement non trouvé",
+        "some_error_occured": "Une erreur est survenue !",
+        "cancel_feedback_intro": "Nous apprécions vos retours. Pourrions-nous savoir quelle alternative vous semble plus appropriée ? Vos remarques nous aident à nous améliorer !",
+        "cancel_alternative_placeholder": "Entrez le nom de l'alternative",
+        "cancel_feedback_placeholder": "Entrez votre retour",
+        "cancel_error_required": "Ce champ est requis.",
+        "offer_info": "Nous comprenons que le coût est important et nous voulons nous assurer que nos services sont bénéfiques pour le parcours de tous nos clients.",
+        "offer_text": "Par conséquent, nous souhaitons vous offrir une remise exclusive de 10 % sur votre prochaine facture. Profitez-en maintenant !",
+        "offer_btn": "Accepter cette offre",
+        "issue_prompt": "Pouvez-vous préciser le problème que vous rencontrez avec #{{companyName}} ?",
+        "issue_alert": "Nous nous excusons pour tout inconvénient ! Nous voulons garantir une expérience fluide. Pouvez-vous nous donner plus de détails sur les problèmes techniques rencontrés ? Notre équipe est là pour vous aider.",
+        "chat_btn": "Discuter maintenant",
+        "call_btn": "Réserver un appel",
+        "technical_issues": [
+            "Les fonctionnalités n'ont pas été utiles ?",
+            "Des inquiétudes concernant la sécurité et la conformité.",
+            "L'interface n'était pas attrayante.",
+            "Bugs et erreurs fréquents.",
+            "Autre chose."
+        ],
+        "call_prompt": "Nous comprenons que la facilité d'utilisation est cruciale. Souhaitez-vous réserver un appel gratuit avec nos experts qui vous guideront dans la configuration et répondront à toutes vos questions ?",
+        "tech_alert": "Nous nous excusons pour tout inconvénient ! Nous voulons garantir une expérience fluide. Pouvez-vous nous donner plus de détails sur les problèmes techniques rencontrés ? Notre équipe est là pour vous aider.",
+        "other_feedback_prompt": "Veuillez nous indiquer les problèmes afin que nous puissions essayer de les résoudre au mieux.",
+        "feedback_response": [
+            {
+                "type": 1,
+                "heading": "Merci de nous avoir informés.",
+                "text": "Votre annulation a été traitée avec succès. Si vous avez d'autres questions ou préoccupations, n'hésitez pas à nous contacter.",
+                "icon": "check"
+            },
+            {
+                "type": 2,
+                "heading": "Nous sommes désolés de vous voir partir.",
+                "text": "Votre annulation a été traitée avec succès. Si vous avez d'autres questions ou préoccupations, n'hésitez pas à nous contacter.",
+                "icon": ""
+            },
+            {
+                "type": 3,
+                "heading": "Votre prix effectif sera ",
+                "text": "Super ! Votre remise est maintenant active. Vous serez facturé 10 % de moins sur votre prochaine facture.",
+                "icon": "badge-percent"
+            }
+        ],
+        "go_to_home": "Aller à l'accueil"
+    },
+    "auto_pilot": {
+        "title": "Pilotage Automatique",
+        "msg": "Sélectionnez la plateforme sociale depuis laquelle vous souhaitez ajouter les flux",
+        "here_all": "Voici tout ce que vous pouvez faire",
+        "manage_rules": "Gérer les règles",
+        "default_rules_msg": "Voici la liste des règles par défaut",
+        "read_to_use_ai_rules": "Règles IA prêtes à l'emploi",
+        "rule_name_ph": "Entrez le nom de la règle",
+        "rule_status_label": "Statut de la règle",
+        "add_trigger": "Ajouter un déclencheur",
+        "ai_note": "Remarque*: Les règles pilotées par l'IA peuvent prendre un certain temps pour s'activer. Pendant cette période, les publications concernées seront temporairement déplacées dans un onglet privé. Une fois activées, les règles respecteront les directives établies.",
+        "autopilot_help": "Besoin d'aide avec le Pilotage Automatique ?",
+        "talk_us": "Parlez-nous !",
+        "create_btn": "Créer une règle",
+        "update_btn": "Mettre à jour la règle",
+        "language_title": "Langue",
+        "rating_title": "Évaluation",
+        "network_title": "Réseau",
+        "feed_title": "Flux",
+        "media_title": "Type de média",
+        "duplicate_assets": "Ressources dupliquées",
+        "posts": "Publications",
+        "ai_recommendation": "Recommandation IA",
+        "add_tags": "Ajouter des tags",
+        "choose_ai_recommendation": "Choisissez la recommandation IA.",
+        "select_preferred_tag": "Sélectionnez le tag préféré",
+        "search_or_create_tag": "Rechercher ou créer un tag...",
+        "posts_visibility": "Visibilité des publications",
+        "choose_the_visibility": "Choisissez la visibilité des publications",
+        "opt_desc": "Choisissez le #{{section}} requis",
+        "recommended": "Recommandé",
+        "considerable": "Considérable",
+        "not_recommended": "Non recommandé",
+        "type": "Type",
+        "image": "Image",
+        "video": "Vidéo",
+        "text": "Texte",
+        "public": "Public",
+        "private": "Privé",
+        "sentiment": "Sentiment",
+        "choose_sentiment_analysis": "Choisissez l'analyse des sentiments.",
+        "positive": "Positif",
+        "neutral": "Neutre",
+        "negative": "Négatif",
+        "profanity": "Filtre de grossièretés",
+        "profanity_desc": "Appliquer le filtre de grossièretés",
+        "predefined_csv": "CSV prédéfini",
+        "upload_csv": "Importer CSV",
+        "download_csv": "Télécharger CSV",
+        "upload_your_file": "Importez votre fichier",
+        "selected_count": "#{{count}} sélectionné",
+        "opt_select": "Sélectionner #{{section}}",
+        "opt_select_all": "Tout sélectionner",
+        "opt_search_ph": "Recherchez votre #{{section}}",
+        "opt_no_results": "Aucun #{{section}} disponible",
+        "min_length": "Minimum de #{{length}} lettres requis.",
+        "by_name": "Par #{{name}}",
+        "enter_name": "Entrez #{{name}}",
+        "add_action": "Ajouter une action",
+        "delete": "Supprimer",
+        "upgrade_popup": {
+            "title": "Pilotage Automatique",
+            "dics": "Vous voulez créer des widgets impressionnants sans passer des heures ? Le pilotage automatique est exactement la fonctionnalité dont vous avez besoin pour filtrer toutes les publications non pertinentes en quelques minutes ! ⚡ Prêt à explorer ? Passez à un plan supérieur.",
+            "btn_text": "Mettre à niveau maintenant"
+        },
+        "default_rules": [
+            {
+                "class": "primary",
+                "icon": "clone",
+                "title": "Adieu les doublons",
+                "type": "Bye-bye Duplicates",
+                "text": "Activez cette règle IA pour identifier automatiquement et supprimer les publications en double grâce à la fonction de détection des doublons TruSense AI. Tous les doublons détectés seront rendus privés, garantissant une expérience plus propre et organisée."
+            },
+            {
+                "class": "primary",
+                "icon": "face-frown-slight",
+                "title": "Neutralisateur de négativité",
+                "type": "Negativity Neutralizer",
+                "text": "Activez cette règle IA pour détecter les publications à sentiment négatif et les rendre automatiquement privées, en gardant votre flux concentré et positif."
+            },
+            {
+                "class": "primary",
+                "icon": "square-check",
+                "title": "Spotlight contenu IA",
+                "type": "AI Content Spotlight",
+                "text": "Activez cette règle pour rendre automatiquement publiques les publications avec un score élevé de recommandation IA, mettant en valeur votre meilleur contenu."
+            }
+        ],
+        "rule_steps": [
+            {
+                "icon": "pen-to-square",
+                "title": "Nommez votre règle :",
+                "text": "Donnez un nom à votre règle"
+            },
+            {
+                "icon": "plus",
+                "title": "Sélectionnez le déclencheur :",
+                "text": "Sélectionnez le déclencheur sur lequel vous souhaitez effectuer une action, comme le flux, le réseau ou le hashtag."
+            },
+            {
+                "icon": "plus",
+                "title": "Choisissez une action",
+                "text": "Sélectionnez l'action que vous souhaitez exécuter en fonction du déclencheur choisi, par exemple public, privé ou supprimer."
+            }
+        ],
+        "rule_list": [
+            {
+                "heading": "Nom de la règle"
+            },
+            {
+                "heading": "Statut"
+            },
+            {
+                "heading": "Dernière exécution"
+            },
+            {
+                "heading": "Action"
+            }
+        ],
+        "rule_filters": [
+            {
+                "name": "Réseau",
+                "desc": "Sélectionnez votre réseau préféré",
+                "icon": "chart-network",
+                "propName": "networks"
+            },
+            {
+                "name": "Flux",
+                "desc": "Sélectionnez le type de flux",
+                "icon": "image-portrait",
+                "propName": "feeds"
+            },
+            {
+                "name": "Type de média",
+                "desc": "Choisissez le type de média",
+                "icon": "image",
+                "propName": "assetsType"
+            },
+            {
+                "name": "Recommandation IA",
+                "desc": "Choisissez la recommandation IA",
+                "icon": "sparkles",
+                "propName": "recommend"
+            },
+            {
+                "name": "Tag",
+                "desc": "Sélectionnez le tag préféré",
+                "icon": "tags",
+                "propName": "tags"
+            },
+            {
+                "name": "Sentiment",
+                "desc": "Choisissez l'analyse des sentiments",
+                "icon": "face-smile",
+                "propName": "sentiment"
+            },
+            {
+                "name": "Public/Privé",
+                "desc": "Sélectionnez la visibilité des publications",
+                "icon": "users",
+                "propName": "showHide"
+            },
+            {
+                "name": "Par handle",
+                "desc": "Entrez le handle",
+                "icon": "at",
+                "propName": "handle"
+            },
+            {
+                "name": "Par hashtag",
+                "desc": "Entrez le hashtag",
+                "icon": "hashtag",
+                "propName": "hashtag"
+            },
+            {
+                "name": "Par mot-clé",
+                "desc": "Entrez le mot-clé",
+                "icon": "text",
+                "propName": "keyword"
+            },
+            {
+                "name": "Grossièretés",
+                "desc": "Appliquer le filtre de grossièretés",
+                "icon": "ban",
+                "propName": "profanity"
+            },
+            {
+                "name": "Publication en double",
+                "desc": "Sélectionnez les publications",
+                "icon": "clone",
+                "propName": "duplicateAsset"
+            },
+            {
+                "name": "Langue",
+                "desc": "Sélectionnez votre langue préférée",
+                "icon": "chart-network",
+                "propName": "language"
+            },
+            {
+                "name": "Évaluation par étoiles",
+                "desc": "Sélectionnez l'évaluation",
+                "icon": "image",
+                "propName": "rating"
+            }
+        ],
+        "rule_actions": [
+            {
+                "name": "Public",
+                "icon": "eye",
+                "propName": "public"
+            },
+            {
+                "name": "Privé",
+                "icon": "eye-slash",
+                "propName": "private"
+            },
+            {
+                "name": "Attribuer un tag",
+                "icon": "tag",
+                "propName": "addTag"
+            },
+            {
+                "name": "Supprimer",
+                "icon": "trash-can",
+                "propName": "delete"
+            }
+        ],
+        "media_assets": [
+            {
+                "id": "image_assets",
+                "val": "2,4",
+                "icon": "image",
+                "name": "Image"
+            },
+            {
+                "id": "video_assets",
+                "val": "3,5",
+                "icon": "video",
+                "name": "Vidéo"
+            },
+            {
+                "id": "text_assets",
+                "val": "1",
+                "icon": "text",
+                "name": "Texte"
+            }
+        ]
+    },
+    "manage_feed": {
+        "manage_feeds_title": "Gérer les flux",
+        "empty_gallery_title": "Créez une galerie pour ajouter un flux ! ⌛",
+        "empty_gallery_desc": "Oups ! On dirait que vous avez supprimé votre galerie. Créez-en une en cliquant simplement sur le bouton ci-dessous.",
+        "empty_gallery_button": "Créer une galerie",
+        "add_feed_button": "Ajouter un flux",
+        "add_gallery_button": "Ajouter une galerie",
+        "feed_post_count": "#{{feed_post_count}} #{{post_label}} approuvés",
+        "post": "publication",
+        "posts": "publications",
+        "table_header": [
+            {
+                "name": "Nom",
+                "minWidth": 150
+            },
+            {
+                "name": "Compte",
+                "minWidth": 150
+            },
+            {
+                "name": "Publications",
+                "minWidth": 120
+            },
+            {
+                "name": "Modération",
+                "minWidth": 50
+            },
+            {
+                "name": "Statut",
+                "minWidth": 50
+            },
+            {
+                "name": "Actions",
+                "minWidth": 70,
+                "align": "text-end"
+            }
+        ],
+        "disable_status": "Désactiver ce statut masquera toutes les publications collectées de ce flux, affectant la visibilité et l'accès au contenu.",
+        "enable_moderation": "Activer la modération rendra toutes les nouvelles publications privées jusqu'à ce qu'elles soient examinées et approuvées.",
+        "tooltip_disconnect": "Flux déconnecté car le nom d'utilisateur du compte social a été modifié depuis votre dernière connexion avec #{{company}}. Veuillez cliquer sur le bouton ci-dessous pour vous reconnecter."
+    },
+    "no_page_found": {
+        "title": "Accès interdit ! 👀",
+        "desc": "Il semble que vous n'ayez pas accès à cette page.",
+        "button": "Retour à l'accueil"
+    },
+    "manual_upload": {
+        "page_title": "Importations manuelles",
+        "manual_upload_products": "Produits importés manuellement",
+        "upload_csv_file": "Importer un fichier CSV",
+        "add_single_product": "Ajouter un produit",
+        "page_desc": "Importez du contenu directement dans le flux via votre appareil ou en ajoutant une URL de publication depuis Instagram ou TikTok",
+        "option_my_device": "Mon appareil",
+        "option_back": "Retour",
+        "btn_choose_network": "Choisir un autre réseau",
+        "header_add_post": "Ajoutez votre publication #{{network_name}}",
+        "input_ph": "Entrez l'URL pour importer la publication",
+        "alert_title_pro_tip": "Astuce pro",
+        "alert_desc_pro_tip": "Importez du contenu directement dans le flux en ajoutant une URL de publication.",
+        "btn_back": "Retour",
+        "btn_import": "Importer",
+        "post_created": "Publication créée avec succès.",
+        "post_exist": "La publication existe déjà.",
+        "label_author_image": "Image de l'auteur",
+        "label_author_name": "Nom de l'auteur",
+        "placeholder_author_name": "Entrez le nom de l'auteur",
+        "label_select_network": "Sélectionner un réseau",
+        "label_caption": "Légende",
+        "error_caption_limit": "Limite dépassée ! Maximum 500 caractères autorisés.",
+        "caption_char_count": "#{{count}}/500",
+        "drag_and_drop": "Glisser-déposer image/vidéo (facultatif)",
+        "media_size": "Taille vidéo : Max 100 Mo | Taille image : Max 50 Mo",
+        "media_remove": "Supprimer",
+        "media_edit": "Modifier"
+    },
+    "upgrade_plan": {
+        "modal_title": "Accédez au contenu #{{network_name}} avec notre plan payant ! 🎯",
+        "modal_desc": "Vous essayez de connecter #{{network_name}}, une source premium disponible dans notre plan payant. Débloquez-la pour augmenter l'engagement et ajouter une dynamique fraîche à votre site !",
+        "features": "Fonctionnalités",
+        "integration": "Intégration #{{network_name}}",
+        "feeds": "Flux",
+        "views": "Vues/mois",
+        "branding": "Marque",
+        "customer_support": "Support client",
+        "plans": {
+            "free": {
+                "title": "Plan gratuit",
+                "items": [
+                    "Non disponible",
+                    "1 flux",
+                    "500 vues/mo",
+                    "Avec pub",
+                    "Basique"
+                ]
+            },
+            "starter": {
+                "title": "Plan Starter",
+                "items": [
+                    "Disponible",
+                    "2 flux",
+                    "10 000 vues/mo",
+                    "Sans pub",
+                    "Support prioritaire"
+                ],
+                "btn_upgrade": "Mettre à niveau pour #{{price}}"
+            }
+        },
+        "link_all_plans": "*voir tous les plans"
+    },
+    "snapup": {
+        "review": "Avis",
+        "visual_ugc": "UGC visuel",
+        "download_data": "Télécharger les données",
+        "form": "Formulaire",
+        "qr_code": "Code QR",
+        "menu": "Menu",
+        "back": "Retour",
+        "create_feed": "Créer un flux",
+        "update_feed": "Mettre à jour le flux",
+        "generate_code": "Générer le code",
+        "downlod_desc": "Vous pouvez télécharger les détails des utilisateurs, tels que noms, adresses e-mail et URL d'images, directement depuis la collection du hub d'avis.",
+        "button_download": "Télécharger",
+        "enable": "Activer",
+        "title_label": "Titre",
+        "title_ph": "Entrez le titre...",
+        "sub_title_label": "Sous-titre",
+        "sub_title_ph": "Entrez le sous-titre...",
+        "language_label": "Choisir la langue",
+        "logo_label": "Logo",
+        "bg_color_label": "Couleur de fond",
+        "bg_img_label": "Image de fond",
+        "submit_btn_label": "Texte du bouton soumettre",
+        "submit_btn_ph": "Entrez le texte du bouton...",
+        "ty_msg_label": "Message de remerciement",
+        "moderation_label": "Approuvez manuellement les publications avant de les rendre publiques.",
+        "btn_text_label": "Texte du bouton",
+        "btn_text_ph": "Entrez le titre du bouton...",
+        "btn_bg_color_label": "Couleur de fond",
+        "btn_text_color_label": "Couleur de police",
+        "btn_fs_label": "Taille de police",
+        "qr_status_label": "Afficher le QR",
+        "field_req": "Ce champ est requis",
+        "copy_code": "Copier le code",
+        "share_code": "Partager le code",
+        "code_copied": "Code copié",
+        "message_copied": "Message copié",
+        "copy_message": "Copier le message",
+        "collect_label": "Collecter et afficher le contenu partagé.",
+        "collect_desc1": "N'hésitez pas à partager cette URL avec votre audience pour leur permettre de télécharger du contenu généré par les utilisateurs (UGC) et des avis.",
+        "collect_desc2": "Soyez créatif avec l'UGC sur vos points de contact marketing pour ravir votre audience.",
+        "share_label": "Partagez votre URL de campagne ici :",
+        "share_desc": "Partagez facilement cette URL sur plusieurs plateformes comme Facebook, Twitter, LinkedIn ou par e-mail pour engager votre audience avec du contenu visuel généré par les utilisateurs (UGC) et des avis.",
+        "share_placeholder": "ShareURL",
+        "qr_label": "Télécharger ou intégrer le QR :",
+        "qr_desc": "Téléchargez facilement ce code QR ou copiez le code d'intégration pour le partager sur vos plateformes.",
+        "embed_label": "Partager le code d'intégration",
+        "embed_desc": "Partagez ce code d'intégration avec votre équipe. Entrez l'e-mail pour envoyer le code directement.",
+        "download_qr": "Télécharger le QR",
+        "embed_qr": "Intégrer le QR"
+    },
+    "limit_exceed": {
+        "upgrade_button": "Mettre à niveau pour débloquer",
+        "book_call_button": "Réserver un appel",
+        "limit_desc": {
+            "1": {
+                "type": "tag",
+                "title": "Vous avez atteint votre limite de tags produits",
+                "desc": "Ne laissez pas votre chiffre d'affaires diminuer — mettez à niveau maintenant pour débloquer plus de tags produits et continuer à stimuler les conversions.",
+                "accordionTitle": "Pas prêt à mettre à niveau ?",
+                "accordionDesc": "Vous pouvez retirer des tags de certains produits pour continuer à utiliser le plan dans les limites autorisées."
+            },
+            "2": {
+                "type": "network",
+                "title": "Vous avez atteint une limite sur votre plan gratuit",
+                "desc": "Vous avez ajouté un flux provenant d'un réseau non inclus dans votre plan actuel. Pour continuer à afficher du contenu depuis ce réseau, veuillez mettre à niveau votre plan.",
+                "accordionTitle": "Préférez ne pas mettre à niveau ?",
+                "accordionDesc": "Vous pouvez supprimer le(s) flux provenant de réseaux non pris en charge pour continuer à utiliser le plan gratuit."
+            },
+            "3": {
+                "type": "feed",
+                "title": "Vous avez dépassé la limite de flux de votre plan",
+                "desc": "Vous avez ajouté #{{added}}, mais votre plan actuel ne permet que #{{allowed}}. Pour continuer à utiliser Taggbox sans interruption, veuillez mettre à niveau votre plan.",
+                "accordionTitle": "Préférez gérer manuellement ?",
+                "accordionDesc": "Pour rester dans les limites de votre plan, vous pouvez supprimer les flux supplémentaires ci-dessous."
+            },
+            "4": {
+                "type": "post",
+                "title": "Limite de publications atteinte - Galerie en pause",
+                "desc": "Aucune nouvelle publication ne sera récupérée et votre galerie ne sera pas mise à jour avec du contenu frais. Pour continuer à afficher du contenu depuis ce réseau, veuillez mettre à niveau votre plan.",
+                "accordionTitle": "Pas prêt à mettre à niveau ?",
+                "accordionDesc": "Vous pouvez supprimer certaines publications de votre galerie pour continuer à utiliser le plan gratuit."
+            },
+            "5": {
+                "type": "view",
+                "title": "Limite de vues atteinte - Galerie en pause",
+                "desc": "Votre galerie a atteint la limite de vues et les visiteurs ne voient plus de contenu récent. Pour continuer à afficher du contenu frais, veuillez mettre à niveau votre plan.",
+                "accordionTitle": "",
+                "accordionDesc": ""
+            }
+        },
+        "tag": "Tag",
+        "feed": "Flux",
+        "post": "Publication",
+        "view": "Vue",
+        "widget": "Widget",
+        "out_of": "Sur #{{total}}",
+        "extraWidgetsText": "Widgets supplémentaires",
+        "extraFeedsText": "Flux supplémentaires",
+        "loadingText": "Chargement...",
+        "titleFree": "Vous accédez à un réseau non approuvé dans votre flux !",
+        "titleExtra": "Vous utilisez des widgets/flux supplémentaires !",
+        "descFree": "Pour élargir vos options, nous vous recommandons de mettre à niveau votre plan ou de supprimer des flux pour continuer avec votre plan actuel.",
+        "descExtra": "Pour profiter d’un service ininterrompu, veuillez révoquer les murs/flux supplémentaires ou mettre à niveau votre plan.",
+        "btnUpgrade": "Mettre à niveau maintenant",
+        "btnRevoke": "Révoquer",
+        "btnSkip": "Passer",
+        "error_msg": {
+            "full_limit": {
+                "heading": "Votre limite de vues de galerie et de revenus assistés a été atteinte !",
+                "text": "Vous avez atteint la limite maximale de vues de galerie et de revenus assistés pour votre plan. Mettez à niveau maintenant pour que votre contenu reste en ligne et continue à générer de l'engagement et des opportunités commerciales.",
+                "isSkip": false
+            },
+            "near_limit": {
+                "heading": "Votre limite de vues de galerie et de revenus assistés approche !",
+                "text": "Vous avez utilisé 90% de votre quota de vues de galerie et atteint la limite maximale de revenus assistés pour votre plan. Mettez à niveau vers un plan supérieur pour continuer à afficher votre contenu engageant sans interruption et obtenir des résultats sur votre site.",
+                "isSkip": true
+            },
+            "gallery_full": {
+                "heading": "La limite de vues de votre galerie a été atteinte !",
+                "text": "Vous avez atteint la limite maximale de vues de galerie pour votre plan. Mettez à niveau maintenant pour que votre contenu reste en ligne et continue à générer de l'engagement et des opportunités commerciales.",
+                "isSkip": false
+            },
+            "assisted_full": {
+                "heading": "La limite de revenus assistés a été atteinte !",
+                "text": "Vous avez atteint la limite maximale de revenus assistés pour votre plan. Mettez à niveau maintenant pour que votre contenu reste en ligne et continue à générer de l'engagement et des opportunités commerciales.",
+                "isSkip": false
+            },
+            "gallery_near": {
+                "heading": "Votre limite de vues de galerie approche !",
+                "text": "Vous avez utilisé 90% de votre quota de vues de galerie. Mettez à niveau vers un plan supérieur pour continuer à afficher votre contenu engageant sans interruption et obtenir des résultats sur votre site.",
+                "isSkip": true
+            },
+            "assisted_near": {
+                "heading": "Votre limite de revenus assistés approche !",
+                "text": "Vous avez utilisé 90% de votre limite de revenus assistés. Mettez à niveau vers un plan supérieur pour continuer à afficher votre contenu engageant sans interruption et obtenir des résultats sur votre site.",
+                "isSkip": true
+            }
+        }
+    },
+    "plan_success": {
+        "congratulations_title": "Félicitations 🎉 🎉",
+        "transition_text_free": "Vous êtes passé à ",
+        "upgrade_text": "Vous avez réussi à passer à ",
+        "plan_placeholder": "#{{plan}}",
+        "transaction_id_label": "Id de transaction :",
+        "amount_label": "Montant :",
+        "explore_prompt": "Découvrez de nouvelles possibilités et fonctionnalités maintenant",
+        "explore_button": "Explorer maintenant",
+        "payment_failed": "Votre paiement a échoué",
+        "back_to_dashboard": "Retour au tableau de bord"
+    },
+    "add_feed": {
+        "title_header": "Choisissez le réseau source",
+        "desc_header": "Sélectionnez la plateforme sociale à partir de laquelle vous souhaitez ajouter des flux",
+        "btn_all_network": "Tous les réseaux",
+        "btn_social_network": "Réseau social",
+        "btn_review_network": "Réseau d'avis",
+        "request_network_title": "Demander un réseau",
+        "new": "Nouveau",
+        "help_badge": "Besoin d'aide pour ajouter des flux ?",
+        "connect_support": "Connecter au support",
+        "btn_back": "Retour",
+        "btn_create_feed": "Créer un flux",
+        "request_facebook": "Cette fonctionnalité est sur demande ! Contactez-nous pour intégrer les hashtags Facebook sur votre site.",
+        "feed_limit": "Oups, il semble que vous ayez atteint la limite de flux pour ce plan. Mettez à niveau pour plus de flux",
+        "networks": {
+            "0": "Téléversements manuels",
+            "1": "Twitter",
+            "2": "Instagram",
+            "3": "Facebook",
+            "4": "Google",
+            "5": "Pinterest",
+            "6": "Flickr",
+            "7": "YouTube",
+            "8": "Vimeo",
+            "10": "LinkedIn",
+            "11": "Tumblr",
+            "12": "RSS",
+            "13": "Star",
+            "15": "Workplace",
+            "18": "Instagram",
+            "19": "Yelp",
+            "20": "Slack",
+            "21": "Yammer",
+            "23": "Airbnb",
+            "25": "Soundcloud",
+            "26": "Giphy",
+            "27": "TikTok Business",
+            "28": "Tiktok Personnel",
+            "29": "Review Hub",
+            "30": "Vkontakte",
+            "32": "Extension Chrome",
+            "33": "Collaboration avec créateurs",
+            "34": "Amazon",
+            "35": "Tripadvisor",
+            "36": "Etsy",
+            "37": "Aliexpress",
+            "38": "Booking",
+            "45": "Bluesky",
+            "46": "Threads"
+        },
+        "alert_msg": {
+            "26": "Instagram n'autorise que les publications des dernières 24 heures. S'il n'y a pas de publications récentes dans les dernières 24 heures, alors les 50 meilleures publications seront agrégées. De plus, toutes vos prochaines publications seront agrégées. Les publications collectées via hashtags n’incluront aucune information sur l'utilisateur.",
+            "34": "Les stories des dernières 24 heures seront affichées initialement, puis toutes les prochaines stories seront agrégées.",
+            "24": "Vous ne recevrez que les publications à venir après avoir créé un flux de mentions.",
+            "25": "Initialement, les 32 dernières publications taguées sur Instagram seront agrégées, puis toutes les prochaines publications taguées seront agrégées.",
+            "66": "Initialement 25 vidéos seront agrégées via le handle, puis toutes les prochaines vidéos seront agrégées.",
+            "1_default": "Initialement 32 publications téléchargées sur des comptes personnels seront agrégées, puis toutes les prochaines publications seront agrégées.",
+            "1_twitter": "Initialement, les 100 dernières publications du compte Twitter seront agrégées, puis toutes les prochaines publications seront agrégées.",
+            "2_default": "Initialement, les publications avec hashtag des 30 derniers jours seront agrégées, puis toutes les prochaines publications seront agrégées.",
+            "7": "Initialement, les mentions des 7 derniers jours seront agrégées, puis toutes les prochaines mentions seront agrégées.",
+            "28_special": "Initialement, 20 publications téléchargées sur des comptes seront agrégées, puis toutes les prochaines publications seront agrégées.",
+            "33": "Initialement, les 5 derniers avis des utilisateurs sur Place seront agrégés, puis tous les prochains avis seront agrégés.",
+            "29": "Initialement, les 50 derniers avis utilisateurs seront agrégés, puis tous les prochains avis seront agrégés.",
+            "71": "Initialement 32 publications seront agrégées via handle, puis toutes les prochaines publications seront agrégées.",
+            "73": "Vous ne recevrez que les publications à venir après avoir créé un flux de mentions."
+        },
+        "add_network": "Ajouter le réseau #{{networkName}}",
+        "place_holders": {
+            "23": "Entrez l'URL de la chambre : https://www.airbnb.co.in/rooms/50158480",
+            "11": "Entrez l'URL de la playlist",
+            "8": "Entrez l'URL de la page Facebook",
+            "13": "Entrez le nom d'affichage RSS",
+            "27": "Entrez l'URL de la page entreprise",
+            "65": "Entrez l'URL de l'album",
+            "67": "Entrez l'URL de la page Facebook",
+            "28": "Entrez un mot-clé",
+            "78": "Entrez l'URL - https://www.tripadvisor.co.za/Restaurant_Review-g196538-d1082778-Reviews.....",
+            "80": "Entrez l'URL - https://www.tripadvisor.co.za/Hotel_Review-g2539271-d4428120-Reviews....",
+            "default": "Entrez #{{feedType}}"
+        },
+        "hashtagCaption": "Obtenez les publications contenant uniquement le hashtag dans la légende.",
+        "hashtagIGTV": "Exclure les vidéos.",
+        "onlyReels": "Uniquement Reels. <span class=\"badge badge-primary ms-1 m-0 py-1\">Nouveau</span>",
+        "moderation": "Approuver manuellement les publications avant de les rendre publiques ?",
+        "excludeRetweet": "Exclure les retweets.",
+        "excludeReplies": "Exclure les réponses",
+        "selectAccountLabel": "Sélectionnez un compte :",
+        "addAnotherAccount": "Ajouter un autre compte",
+        "albumOptions": [
+            {
+                "value": "65",
+                "label": "Album unique"
+            },
+            {
+                "value": "67",
+                "label": "Tous les albums de la page Facebook"
+            }
+        ],
+        "enter_access_token": "Entrez le token d'accès",
+        "enter_rss_feed_url": "Entrez l'URL du flux RSS",
+        "enter_keyword": "Entrez les mots-clés",
+        "list_name": "Nom de la liste",
+        "type_address": "Saisir l'adresse",
+        "accountDisconnect": "Compte déconnecté",
+        "confirm": "Confirmer",
+        "disconnect_msg": "Voulez-vous déconnecter le compte ?",
+        "connectAccount": {
+            "tiktok_msg": "Connectez votre compte TikTok Business pour une meilleure expérience"
+        },
+        "twitter_advance": {
+            "instruction": "Utilisez le tableau ci-dessous pour construire votre requête.",
+            "th_filter": "Filtrer par :",
+            "th_example": "Exemple",
+            "th_targets": "Cibles des Tweets :",
+            "filter_keywords": "Mots-clés",
+            "ex_keywords_1": "grapes banana",
+            "target_keywords_1": "contenant à la fois « grapes » et « banana ».",
+            "ex_keywords_2": "\"good time\"",
+            "target_keywords_2": "contenant la phrase exacte « good time »",
+            "ex_keywords_3": "die OR alive",
+            "target_keywords_3": "contenant « die » ou « alive » (ou les deux)",
+            "ex_keywords_4": "food -drink",
+            "target_keywords_4": "contenant « food » mais pas « drink »",
+            "ex_keywords_5": "#soul",
+            "target_keywords_5": "contenant le hashtag « #soul »",
+            "ex_keywords_6": "service :)",
+            "target_keywords_6": "contenant « service » et avec une attitude positive.",
+            "ex_keywords_7": "service :(",
+            "target_keywords_7": "contenant « service » et avec une attitude négative.",
+            "filter_questions": "Questions",
+            "ex_questions": "weather ?",
+            "target_questions": "contenant « weather » et posant une question.",
+            "filter_user": "Utilisateur",
+            "ex_user_1": "from:@#{{handle}}",
+            "target_user_1": "envoyé par l'utilisateur @#{{handle}}",
+            "ex_user_2": "to:@#{{handle}}",
+            "target_user_2": "envoyé à l'utilisateur @#{{handle}}",
+            "ex_user_3": "@#{{handle}}",
+            "target_user_3": "mentionnant @#{{handle}}",
+            "filter_location": "Localisation",
+            "ex_location": "#dogs geocode:34.0522342,-118.2436849,10km",
+            "target_location": "contenant le hashtag « #dogs » dans Los Angeles (coordonnées, rayon de 10 km)",
+            "link_coordinates": "ici",
+            "filter_devices": "Appareils / Applications",
+            "ex_devices": "news source:instagramfeed",
+            "target_devices": "contenant « news » et entré via InstagramFeed",
+            "filter_content": "Contenu",
+            "ex_content": "funny filter:links",
+            "target_content": "contenant « funny » et avec une URL.",
+            "filter_dates": "Dates",
+            "ex_dates_1": "champion since:2012-12-24",
+            "target_dates_1": "contenant « champion » et envoyé depuis la date « 2012-12-24 » (année-mois-jour).",
+            "ex_dates_2": "champion until:2012-12-24",
+            "target_dates_2": "contenant « champion » et envoyé avant la date « 2012-12-24 »."
+        }
+    },
+    "page_title": {
+        "paths": [
+            {
+                "path": "/accounts/login",
+                "title": "Connectez-vous à votre compte pour collecter et organiser les publications sociales - #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/accounts/register",
+                "title": "Créez un compte pour collecter du contenu sur les réseaux sociaux - #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/accounts/verify",
+                "title": "Vérifier le compte | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/accounts/otherinfo",
+                "title": "Autres informations | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/price",
+                "title": "Sélectionnez un plan | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/accounts/forgotpassword",
+                "title": "Mot de passe oublié | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/accounts/temp-pwd",
+                "title": "Définir le mot de passe | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/accounts/resetpassword",
+                "title": "Réinitialiser le mot de passe | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/accounts/verifyemail",
+                "title": "Vérifier l'email | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/home",
+                "title": "Tableau de bord | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/content/moderation",
+                "title": "Galerie de contenu | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/content/addfeed",
+                "title": "Ajouter un flux | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/content/managefeed",
+                "title": "Gérer les flux | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/content/products",
+                "title": "Produits | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/content",
+                "title": "Galerie | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/publish",
+                "title": "Publier | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/more-apps",
+                "title": "Applications & plus | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/website",
+                "title": "Site Web | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/email-campaign",
+                "title": "Campagne email | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/shopon-bio",
+                "title": "Shop On Bio | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/creators",
+                "title": "Créateur | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/transactions",
+                "title": "Mon compte - #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/analytics",
+                "title": "Analytique | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/profile",
+                "title": "Profil | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/notifications",
+                "title": "Notifications | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/onboarding",
+                "title": "Intégration | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/steps",
+                "title": "Intégration | #{{COMPANY_NAME}}"
+            },
+            {
+                "path": "/autopilot",
+                "title": "Pilote automatique | #{{COMPANY_NAME}}"
+            }
+        ],
+        "descriptions": {
+            "tagembed": "Simplifiez votre expérience sur les réseaux sociaux ! Collectez, organisez, gérez et intégrez toutes vos publications sur votre site web grâce à notre agrégateur social.",
+            "taggbox": "Collectez facilement vos publications sociales provenant de multiples sources en un seul endroit. Inscrivez-vous maintenant et gardez tous vos flux à jour et connectés !"
+        }
+    },
+    "network_manager": {
+        "title": "Gestionnaire de réseaux",
+        "table_headers": [
+            {
+                "name": "Nom",
+                "minWidth": 150
+            },
+            {
+                "name": "Compte",
+                "minWidth": 150
+            },
+            {
+                "name": "Publications",
+                "minWidth": 120
+            },
+            {
+                "name": "Galerie",
+                "minWidth": 300
+            }
+        ],
+        "show": "Afficher",
+        "no_gallery_title": "Créez une galerie pour ajouter un flux ! ⌛",
+        "no_gallery_desc": "Oups ! Il semble que vous ayez supprimé votre galerie. Créez-en une simplement en cliquant sur le bouton ci-dessous.",
+        "no_gallery_btn": "Créer une galerie",
+        "no_feed_title": "Pas encore de flux ? ⌛",
+        "no_feed_desc": "Ajoutez votre premier flux à cette galerie en cliquant simplement sur le bouton ci-dessous.",
+        "no_feed_btn": "Ajouter un flux",
+        "action_messages": {
+            "0": "Cela supprimera le flux de toutes les galeries que vous n'avez pas sélectionnées.",
+            "1": "Cela dupliquera le flux dans toutes les galeries sélectionnées.",
+            "2": "Cette action changera le statut du flux dans les galeries sélectionnées."
+        },
+        "confirm": "Confirmer",
+        "current_gallery": "Galerie actuelle",
+        "select_all": "Tout sélectionner",
+        "search_ph": "Recherchez votre flux...",
+        "no_gallery": "Aucune galerie disponible",
+        "confirm_choices": "Confirmer les choix",
+        "posts": " Publications"
+    },
+    "init": {
+        "description": "Choisissez l'expérience qui correspond aux objectifs de votre marque",
+        "products": [
+            {
+                "id": 6,
+                "title": "Flux sociaux sur les sites web",
+                "productMediaKey": "social-init",
+                "tags": [
+                    "Gestionnaires de réseaux sociaux",
+                    "Marketeur digital",
+                    "Développeur"
+                ],
+                "content": "Affichez du contenu social en temps réel pour instaurer confiance et engagement."
+            },
+            {
+                "id": 2,
+                "title": "Flux achetables sur les sites web",
+                "productMediaKey": "shoppable-init",
+                "tags": [
+                    "Marketeur e-commerce",
+                    "Responsable de marque",
+                    "Marketeur performance"
+                ],
+                "content": "Transformez le contenu client en conversions avec des galeries UGC interactives."
+            },
+            {
+                "id": 4,
+                "title": "Afficher les flux sociaux sur écran",
+                "productMediaKey": "display-init",
+                "tags": [
+                    "Marketeurs événementiels",
+                    "Planificateurs d'événements",
+                    "Responsables d'événements"
+                ],
+                "content": "Engagez et convertissez les participants grâce à des affichages sociaux lors d'événements, signalétique, etc."
+            }
+        ],
+        "product_help_text": "Vous ne savez pas quel produit vous convient ?",
+        "product_help_link": "Discutons-en",
+        "getting_started_text": "Vous ne savez pas par où commencer ?",
+        "getting_started_link": "Nous vous guiderons.",
+        "title": "Personnalisons votre parcours #{{COMPANY_NAME}} !",
+        "industry_label": "Choisissez votre secteur :",
+        "phone_label": "Numéro de téléphone",
+        "submit_button": "Soumettre",
+        "skip_button": "Je le ferai plus tard",
+        "other_industries": "Saisissez votre secteur"
+    },
+    "header": {
+        "profile_link": "Profil",
+        "profile_button": "Mon profil",
+        "collaborator_account": "Compte collaborateur",
+        "switch_account": "Changer de compte",
+        "role_admin": "Administrateur",
+        "role_manager": "Manager",
+        "role_current": "Actuel",
+        "my_account": "Mon compte",
+        "my_account_desc": "Informations sur le compte et détails du plan",
+        "back_to_admin": "Retour à l'admin",
+        "social_accounts": "Comptes sociaux",
+        "social_accounts_desc": "Informations sur le compte et détails du plan",
+        "sign_out": "Se déconnecter",
+        "already_login": "Compte déjà connecté.",
+        "account_switched": "Compte changé avec succès",
+        "some_error_occured": "Une erreur est survenue, veuillez réessayer plus tard.",
+        "payment_incomplete_message": "🚨 Paiement incomplet ! Terminez votre mise à niveau pour débloquer l'accès complet à votre plan.",
+        "payment_failed_message": "🚨 Paiement échoué ! Mettez à jour vos informations de facturation pour garder votre widget actif.",
+        "payment_incomplete_button": "Payer maintenant",
+        "payment_failed_button": "Mettre à jour maintenant"
+    },
+    "common": {
+        "save": "Enregistrer",
+        "copy": "Copier",
+        "lbl_select_all": "Tout sélectionner",
+        "btn_back": "Retour",
+        "home": "Accueil",
+        "email": "Email",
+        "enter_email": "Veuillez saisir l'email",
+        "valid_email": "Entrez un email valide.",
+        "req_email": "L'email est requis.",
+        "email_not_found": "Impossible de trouver votre compte avec cet email",
+        "password": "Mot de passe",
+        "enter_pass": "Veuillez saisir le mot de passe.",
+        "req_pass": "Le mot de passe est requis.",
+        "valid_pass": "Entrez un mot de passe valide.",
+        "pwd_str": "Le mot de passe doit contenir au moins 8 caractères et inclure une combinaison de lettres, chiffres et symboles spéciaux (ex: @, #, $, %).",
+        "rembr_me": "Se souvenir de moi",
+        "forgot_pass": "Mot de passe oublié ?",
+        "wait": "Veuillez patienter...",
+        "sign_up": "S'inscrire",
+        "sign_in": "Se connecter",
+        "sign_agree": "En cliquant sur Connexion/Inscription, vous acceptez nos ",
+        "term_txt": "Conditions générales",
+        "and": " et ",
+        "priv_pol": " Politique de confidentialité",
+        "copy_right": " Copyright @ ",
+        "full_name": "Nom complet",
+        "special_char_full_name": "Les caractères spéciaux ne sont pas autorisés.",
+        "length_full_name": "Le nom complet doit contenir au moins 3 caractères.",
+        "fill_full_name": "Veuillez remplir ce champ.",
+        "valid_name": "Veuillez saisir un nom valide",
+        "business_address": "Adresse professionnelle",
+        "swap_email": "Échangez les emails personnels avec des emails professionnels pour une meilleure expérience",
+        "verify_robot": "Veuillez vérifier que vous n'êtes pas un robot.",
+        "talk_to_us": "Parlez-nous !",
+        "try_another_email": "Essayez un autre email",
+        "back_to": "Retour à",
+        "login": "Connexion",
+        "some_error_occured": "Une erreur est survenue, veuillez réessayer plus tard.",
+        "lbl_enter_pass": "Saisir le mot de passe",
+        "lbl_re_pass": "Répéter le mot de passe",
+        "pwd_not_match": "Les mots de passe ne correspondent pas",
+        "submit": "Soumettre",
+        "new_password": "Nouveau mot de passe",
+        "reset_password": "Réinitialiser le mot de passe",
+        "confirm_password": "Confirmer le mot de passe",
+        "confirm_new_password": "Confirmer le nouveau mot de passe",
+        "enter_cnf_pass": "Veuillez saisir le mot de passe de confirmation",
+        "update_pass": "Mettre à jour le mot de passe",
+        "cancel": "Annuler",
+        "personal_info": "Informations personnelles",
+        "industry": "Secteur",
+        "organization": "Organisation",
+        "designation": "Poste",
+        "contact_number": "Numéro de contact",
+        "copied": "Copié",
+        "copy_key": "Copier la clé",
+        "edit_personal_info": "Modifier les informations personnelles",
+        "avatar": "Avatar",
+        "discard": "Annuler",
+        "save_changes": "Enregistrer les modifications",
+        "allowed_file_types": "Types de fichiers autorisés : #{{types}}",
+        "edit": "Modifier",
+        "remove": "Supprimer",
+        "upgrade_now": "Mettre à niveau maintenant",
+        "invoice": "Facture",
+        "date": "Date",
+        "plan": "Plan",
+        "amount": "Montant",
+        "status": "Statut",
+        "action": "Actions",
+        "paid": "Payé",
+        "view": "Voir",
+        "download": "Télécharger",
+        "description": "Description",
+        "enter_desc": "Saisir la description",
+        "next_renewal_date": "Prochaine date de renouvellement",
+        "total": "Total",
+        "post": "Publication",
+        "posts": "Publications",
+        "followers": "Abonnés",
+        "follower": "Abonné",
+        "transaction": "Transaction",
+        "gateway": "Passerelle",
+        "total_amount": "Montant total",
+        "talk_to_sales": "Parler aux ventes",
+        "share": "Partager",
+        "add_account": "Ajouter un compte",
+        "account": "Compte",
+        "network": "Réseau",
+        "account_validity": "Validité du compte",
+        "pages": "Pages",
+        "connected": "Connecté",
+        "reconnect": "Reconnecter",
+        "add": "Ajouter",
+        "share_success": "Partage réussi.",
+        "admin": "Administrateur",
+        "manager": "Manager",
+        "pending": "En attente",
+        "invited": "Invité",
+        "permission": "Permission",
+        "collaborator": "Collaborateur",
+        "invited_by": "Invité par",
+        "update": "Mettre à jour",
+        "create": "Créer",
+        "products": "Produits",
+        "are_you_sure": "Êtes-vous sûr ?",
+        "confirm_cancel": "Confirmer l'annulation",
+        "discard_txt": "Toutes les modifications seront annulées.",
+        "delete_prem_txt": "Toutes les sélections seront supprimées définitivement.",
+        "cancel_it": "Oui, annuler !",
+        "proceed": "Oui, continuer.",
+        "email_exists": "L'email existe déjà",
+        "select_1_gallery": "Veuillez sélectionner au moins une galerie.",
+        "copy_to_clipboard": "Copié dans le presse-papier",
+        "delete_item": "Voulez-vous continuer et supprimer ?",
+        "modifying_setting": "Modifier ce paramètre entraînera des changements dans les permissions.",
+        "yes_delete": "Oui, supprimer !",
+        "yes_change": "Oui, changer la permission !",
+        "note": "Note",
+        "upgrade_plan": "Mettre à niveau le plan",
+        "hours": "Heures",
+        "minutes": "Minutes",
+        "seconds": "Secondes",
+        "days": "Jours",
+        "weekly": "Hebdomadaire",
+        "monthly": "Mensuel",
+        "yearly": "Annuel",
+        "know_more": "En savoir plus",
+        "current_plan": "Plan actuel",
+        "select_plan": "Sélectionner un plan",
+        "new": "Nouveau",
+        "get_in_touch": "Entrer en contact",
+        "key_features": "Fonctionnalités clés",
+        "checkout": "Passer à la caisse",
+        "item_selected": "Élément sélectionné",
+        "contact_us": "Contactez-nous",
+        "downgrade_plan_txt": "Êtes-vous sûr de vouloir rétrograder votre plan ?",
+        "more": "Plus",
+        "contact_sales": "Contacter les ventes",
+        "powered_by": "Propulsé par ",
+        "confirm": "Confirmer",
+        "upgrade_to": "Mettre à niveau vers",
+        "book_demo": "Réserver une démo",
+        "OK": "OK",
+        "btn_show_more": "Afficher plus",
+        "btn_show_less": "Afficher moins",
+        "field_req": "Ce champ est requis",
+        "connect": "Connecter #{{networkName}}",
+        "select_option": "Veuillez sélectionner une option",
+        "need_to_connect": "Besoin de connecter le compte #{{networkName}}",
+        "type_address": "Saisir l'adresse",
+        "valid_url": "Veuillez entrer une URL valide",
+        "valid_page_url": "Veuillez entrer une URL valide pour #{{section}}",
+        "no_company_found": "Aucune page entreprise trouvée !",
+        "no_results_found": "Aucun résultat trouvé.",
+        "skip": "Passer",
+        "publish": "Publier",
+        "next": "Suivant",
+        "yes": "Oui",
+        "no": "Non",
+        "thumbs_down": "Pouce vers le bas",
+        "delete": "Supprimer",
+        "upload": "Téléverser",
+        "book_call_btn": "Réserver un appel",
+        "hash_hand_not_allowed": "@ et # non autorisés",
+        "need_help": "Besoin d'aide ? Nous sommes là pour vous !",
+        "set_password": "Définir le mot de passe",
+        "set_pass_desc": "Créez un nouveau mot de passe pour accéder à la plateforme.",
+        "upload_file": "Téléverser un fichier",
+        "request_feature": "Demander une nouvelle fonctionnalité",
+        "delete_item_msg": "Êtes-vous sûr de vouloir supprimer définitivement ce modèle #{{tempType}} ?",
+        "auth_failed": "Échec du processus d'authentification !",
+        "attach_image": "Joindre une image",
+        "attach_video": "Joindre une vidéo",
+        "changes_not_saved": "Modifications non enregistrées !",
+        "save_continue": "Enregistrer & Continuer",
+        "countine_net_msg": "Connectez-vous à #{{networkName}} pour récupérer le contenu de ce flux.",
+        "countine_net_btn": "Continuer avec #{{networkName}}",
+        "moderation_select_post_msg": "Voulez-vous #{{actionType}} approuver la publication sélectionnée ?",
+        "delete_selected_post": "Voulez-vous supprimer la publication sélectionnée ?",
+        "recover_msg": "Vous ne pourrez pas récupérer cette publication.",
+        "confirm_user": "Confirmer l'utilisateur",
+        "user_post": "Publication de #{{username}}",
+        "invalid_phone_number": "Numéro de téléphone invalide !",
+        "pass_upd_success": "Mot de passe mis à jour avec succès",
+        "disapprove": "désapprouver",
+        "out_of_count": "Sur #{{count}}",
+        "language_change_msg": "Cette action changera la langue de l'application en #{{lang}}.",
+        "language_primary_btn": "Oui, passer à #{{lang}}",
+        "language_secondary_btn": "Conserver la langue actuelle",
+        "language_change_website": "Cette action changera la langue de l'application en #{{lang}}.",
+        "refresh": "Rafraîchir"
+    },
+    "Analytics": {
+        "case_study": {
+            "welcome_msg": "Bon retour !",
+            "chat_btn": "Discuter maintenant",
+            "call_btn": "Réserver un appel"
+        },
+        "gallery": {
+            "heading": "Galeries les plus performantes",
+            "table_text": {
+                "content_gallery": "Galerie de contenu",
+                "total_posts": "Total des publications",
+                "network": "Réseau",
+                "action": "Action"
+            },
+            "add_btn": "Ajouter une galerie",
+            "view_all": "Voir tout",
+            "edit_btn": "Modifier",
+            "empty_msg": "",
+            "brand_win_msg": "Les marques remportent l'engagement",
+            "brand_win_desc": "CLeela a obtenu plus de 15M d'impressions et 80K stories sur un widget de site web. Pourquoi perdez-vous de l'engagement ?",
+            "brand_cta": "Collecter du contenu"
+        },
+        "channels": {
+            "heading": "Canaux les plus performants",
+            "table_text": {
+                "channels": "Canaux",
+                "views": "Vues",
+                "clicks": "Clics",
+                "action": "Action"
+            },
+            "add_btn": "Ajouter un canal",
+            "view_all": "Voir tout",
+            "edit_btn": "Modifier",
+            "brand_win_msg": "Les marques remportent l'engagement",
+            "brand_win_desc": "CLeela a obtenu plus de 15M d'impressions et 80K stories sur un widget de site web. Pourquoi perdez-vous de l'engagement ?"
+        },
+        "recent_posts": {
+            "heading": "Publications récentes",
+            "all_btn": "Toutes",
+            "aggregated_btn": "Agrégées",
+            "collected_btn": "Collectées",
+            "public_btn": "Publiques",
+            "private_btn": "Privées",
+            "gallery_name": "Galerie",
+            "empty_msg": "",
+            "empty_title": "Aucune publication disponible",
+            "empty_btn": "Ajouter un flux maintenant"
+        },
+        "creators": {
+            "tab1": "Créateurs les plus actifs",
+            "tab2": "Meilleurs créateurs",
+            "btn": "Connecter",
+            "empty_msg": ""
+        },
+        "sentiment": {
+            "sentiments": {
+                "heading": "Sentiments",
+                "heading_first": "Statistiques de sentiment",
+                "heading_second": "Publications par sentiment",
+                "talk_to_sales": "Parler aux ventes",
+                "upgrade_now": "Mettre à niveau maintenant",
+                "msg": "Débloquez l'analyse des sentiments alimentée par l'IA et découvrez ce que votre audience pense de votre contenu !",
+                "empty_msg": "",
+                "posts": "Publications",
+                "no_data": "Aucune donnée trouvée",
+                "no_data_Btn": "Collaborer avec les créateurs",
+                "sentiments_table": [
+                    {
+                        "name": "Positif",
+                        "icon": "/emojis/emoji2.svg",
+                        "value": 25,
+                        "color": "#50dca1"
+                    },
+                    {
+                        "name": "Neutre",
+                        "icon": "/emojis/emoji3.svg",
+                        "value": 19,
+                        "color": "#ffb143"
+                    },
+                    {
+                        "name": "Négatif",
+                        "icon": "/emojis/emoji4.svg",
+                        "value": 29,
+                        "color": "#ff6c7c"
+                    }
+                ]
+            },
+            "reputation": {
+                "heading": "Réputation",
+                "talk_to_sales": "Parler aux experts marketing",
+                "msg": "Vous avez du mal à construire votre réputation ?",
+                "empty_msg": "Découvrez ce que pensent vos clients !",
+                "empty_desc": "Votre réputation en ligne façonne-t-elle correctement votre marque ? Créez un flux d'avis pour vérifier maintenant !",
+                "empty_btn": "Créer un flux d'avis !",
+                "out_of_count": "Sur #{{count}}",
+                "based_on_reviews": "Basé sur #{{count}} avis",
+                "star_count": "#{{count}} étoile"
+            },
+            "sentiment_posts": {
+                "heading": "Publications par sentiment",
+                "tab_first": "Positif",
+                "tab_second": "Négatif",
+                "no_data": "Aucune donnée trouvée",
+                "no_data_btn": "Collaborer avec les créateurs"
+            }
+        },
+        "recommendation": {
+            "heading": "Recommandation IA",
+            "powered_by": "Propulsé par",
+            "no_data_title": "Découvrez ce que pense votre audience !",
+            "no_data_desc": "Analysez votre contenu et comprenez le sentiment de l'audience en temps réel.",
+            "upgrade": "Mettre à niveau maintenant !",
+            "recommendation_data": [
+                {
+                    "name": "Recommandé",
+                    "count": 239,
+                    "details": "Parfait pour votre campagne ! Ce contenu visuel correspond à votre marque et à vos objectifs."
+                },
+                {
+                    "name": "Considérable",
+                    "count": 6,
+                    "details": "Examinez de plus près ! Ce contenu visuel pourrait fonctionner avec quelques ajustements."
+                },
+                {
+                    "name": "Non recommandé",
+                    "count": 23,
+                    "details": "Attendez pour l'instant. Ce contenu visuel pourrait ne pas convenir à votre campagne actuelle."
+                }
+            ]
+        },
+        "headings": {
+            "overview": "Aperçu",
+            "ai_recommendation": "Recommandation IA",
+            "post_overview": "Aperçu des publications",
+            "post_overview_info": "Multipliez votre UGC social en collaborant avec vos créateurs les plus performants",
+            "word_cloud": "Nuage de mots",
+            "top_language": "Langues principales",
+            "powered_by": "Propulsé par",
+            "trusense": "TruSense",
+            "post_network": "Réseau de publication",
+            "post_type": "Type de publication",
+            "no_data_found": "Aucune donnée trouvée",
+            "no_data_btn": "Collaborer avec les créateurs",
+            "loading": "Chargement..."
+        },
+        "top_performing_posts": {
+            "heading": "Publications les plus performantes",
+            "view_all": "Voir tout",
+            "empty_msg": "Pour identifier les publications les plus performantes, veuillez intégrer une galerie sur votre site web.",
+            "btn_text": "Intégrer maintenant",
+            "no_data": "Aucune donnée trouvée",
+            "clicks": "Clics",
+            "views": "Vues"
+        },
+        "active_creators": {
+            "empty_title": "Découvrez vos créateurs les plus actifs",
+            "empty_desc": "Pour identifier les créateurs les plus actifs pour votre marque, créez un flux en utilisant le hashtag de votre marque (#).",
+            "empty_btn": "Créer un flux",
+            "connect": "Connecter"
+        },
+        "demo_msg": "Il s'agit de données de démonstration. Vous verrez les données réelles dès que vous ajouterez du contenu.",
+        "user_modal": {
+            "general_information": "Informations générales",
+            "clicks": "Clics",
+            "views": "Vues",
+            "sentiment": "Sentiment",
+            "gallery": "Galerie",
+            "go_to_moderation": "Aller à la modération"
+        },
+        "overview_content": [
+            {
+                "name": "Total des publications",
+                "tooltip": "Nombre total de publications sur tous vos flux",
+                "description": "Nombre total de publications sur tous vos flux",
+                "type": "Total Posts"
+            },
+            {
+                "name": "Total des visiteurs",
+                "tooltip": "Nombre de personnes ayant visité votre site après l'ajout du mur",
+                "description": "Nombre total de publications sur tous vos flux",
+                "type": "Total Visitors"
+            },
+            {
+                "name": "Total des clics",
+                "tooltip": "Nombre de fois où le widget a été cliqué",
+                "description": "Nombre total de publications sur tous vos flux",
+                "type": "Total Clicks"
+            },
+            {
+                "name": "Afficher plus de clics",
+                "tooltip": "Ratio des clics 'Afficher plus' sur le nombre total de visiteurs",
+                "description": "Nombre total de publications sur tous vos flux",
+                "type": "Show More Clicks"
+            },
+            {
+                "name": "CTR",
+                "tooltip": "Ratio du total des clics sur le total des visiteurs",
+                "description": "Nombre total de publications sur tous vos flux",
+                "type": "CTR"
+            },
+            {
+                "name": "Score moyen de recommandation",
+                "tooltip": "Score moyen de recommandation de tout le contenu collecté",
+                "description": "Nombre total de publications sur tous vos flux",
+                "type": "Avg. Recommendation Score"
+            },
+            {
+                "name": "Clic sur CTA",
+                "tooltip": "Nombre de fois où les visiteurs ont cliqué sur votre bouton CTA.",
+                "description": "Nombre de fois où les visiteurs ont cliqué sur votre bouton CTA.",
+                "type": "CTA Click"
+            },
+            {
+                "name": "Clics sur les publications",
+                "tooltip": "Nombre total de clics reçus par vos publications.",
+                "description": "Nombre total de clics reçus par vos publications.",
+                "type": "Post Clicks"
+            },
+            {
+                "name": "Vues du widget",
+                "tooltip": "Nombre de personnes ayant visité votre site après l'ajout du mur",
+                "description": "Nombre total de publications sur tous vos flux",
+                "type": "Widget Views"
+            },
+            {
+                "name": "Total des flux",
+                "tooltip": "Nombre de réseaux sociaux/avis dans votre compte.",
+                "description": "Nombre de réseaux sociaux/avis dans votre compte.",
+                "type": "Total Feeds"
+            }
+        ],
+        "shopon_tab": {
+            "page_view": {
+                "name": "Vues de page",
+                "tool_tip": "Nombre total de fois où votre page Shopon.bio a été vue.",
+                "data": []
+            },
+            "post_view": {
+                "name": "Clics sur les publications",
+                "tool_tip": "Nombre total de publications cliquées sur votre page Shopon.bio.",
+                "data": []
+            },
+            "button_view": {
+                "name": "Clics sur le bouton",
+                "tool_tip": "Nombre total de fois où le bouton CTA a été cliqué.",
+                "data": []
+            },
+            "click_view": {
+                "name": "Clics totaux",
+                "tool_tip": "Pourcentage du ratio ouvert-vers-clic.",
+                "data": []
+            },
+            "top_post": "Publications populaires",
+            "post_click": "Clics sur les publications",
+            "click_cta": "Clics sur CTA",
+            "popular_product": "Produits populaires",
+            "product_view": "Vues produit",
+            "cta_through": "CTA effectué",
+            "no_data": "Données non disponibles"
+        }
+    },
+    "content_gallery": {
+        "heading": "Contenu",
+        "sub_heading": "Choisissez et gérez votre contenu à publier, ou créez-en un nouveau pour commencer.",
+        "filter": "Trier par",
+        "btn": "Ajouter une nouvelle galerie",
+        "empty_msg": "Oups ! Rien à voir ici.",
+        "empty_sub_msg": "Vous pouvez commencer à ajouter une nouvelle galerie ici.",
+        "empty_btn": "Ajouter une galerie",
+        "pop": {
+            "title": "Galerie",
+            "create": "Créer",
+            "edit": "Modifier",
+            "update": "Mettre à jour",
+            "palceholder": "Zara UGC, Contenu de marque Puma",
+            "btn": "Enregistrer",
+            "auto_update": "Mise à jour automatique",
+            "status": "Statut",
+            "rename": "Renommer",
+            "delete": "Supprimer",
+            "publish": "Publier",
+            "msg_auto_update_off": "Désactiver la mise à jour automatique empêchera la récupération des nouveaux posts, limitant le contenu tout en conservant l'accès aux posts existants.",
+            "msg_status_off": "Désactiver ce statut masquera toutes les publications collectées de ce flux, affectant la visibilité et l'accès au contenu.",
+            "msg_delete": "Vous êtes sur le point de supprimer une galerie utilisée dans Publier. Supprimer la galerie supprimera également les sections correspondantes de Publier.",
+            "gallery_already": "Le nom de la galerie existe déjà.",
+            "field_req": "Le nom de #{{title}} est requis"
+        },
+        "subheader_crumbs": {
+            "name": "Galerie de contenu",
+            "home": "Accueil"
+        },
+        "card": {
+            "post": "Publications",
+            "feed": "Flux",
+            "add_feeds": "Ajouter des flux",
+            "publish": "Publier",
+            "edit": "Modifier",
+            "options": "Options"
+        }
+    },
+    "product_catalog": {
+        "heading": "Liste du catalogue de produits",
+        "btn_import": "Importer la liste des produits",
+        "btn_sync": "Synchroniser le catalogue de produits",
+        "success_msg": "Produit synchronisé avec succès !",
+        "btn_add": "Ajouter un produit",
+        "placeholder_search": "Rechercher par nom de produit, SKU ou URL",
+        "btn_tag": "Taguer les produits",
+        "edit": "Modifier",
+        "delete": "Supprimer",
+        "no_product": "Aucun produit trouvé",
+        "no_product_desc": "Nous ne trouvons aucun article correspondant à votre recherche.",
+        "sync_products_title": "Synchroniser le catalogue de produits",
+        "sync_products_desc": "Sélectionnez l'application à partir de laquelle vous souhaitez taguer les produits",
+        "request_platform": "Demander une plateforme",
+        "are_you_sure": "Êtes-vous sûr ?",
+        "are_you_sure_msg": "Êtes-vous sûr de vouloir supprimer définitivement les #{{count}} produits sélectionnés ?",
+        "success_deleted": "Supprimé avec succès !",
+        "safe_deleted": "Vos #{{count}} produits sont en sécurité.",
+        "safe_delete": "Votre produit est en sécurité.",
+        "delete_pro_catalog": "<p>Êtes-vous sûr de vouloir supprimer le catalogue de produits de #{{COMPANY_NAME}} ?</p><p class='text-danger fs-10 mb-0'>Attention ! Les produits tagués de ce catalogue seront également supprimés.</p>",
+        "delete_all": "Tout supprimer",
+        "delete_selected": "Supprimer #{{count}}",
+        "cancel": "Annuler",
+        "delete_pro": "Supprimer",
+        "table_text": {
+            "product": "Produit",
+            "price": "Prix",
+            "discounted_price": "Prix réduit",
+            "product_url": "URL du produit",
+            "product_id": "ID du produit",
+            "category": "Catégorie",
+            "sku": "SKU",
+            "tags": "Tags",
+            "actions": "Actions",
+            "tooltip_discount": "Représente le prix après déduction de la remise."
+        },
+        "pop_import": {
+            "heading": "Importer des produits via CSV",
+            "sub_heading1": "Téléchargez le ",
+            "sub_heading2": "modèle CSV exemple ",
+            "sub_heading3": "pour voir un exemple du format requis",
+            "btn_cancel": "Annuler",
+            "btn_upload": "Télécharger et continuer",
+            "your_file": "Nom de fichier sélectionné",
+            "loading": "Veuillez patienter..."
+        },
+        "pop_sync": {
+            "heading": "Synchroniser le produit",
+            "google_merchant": "Google Merchant",
+            "btn_google": "Se connecter avec Google",
+            "plc_google": "ID marchand Google",
+            "shopify": "Shopify",
+            "btn_shopify": "Connecter la boutique",
+            "plc_shopify": "example.myshopify.com",
+            "bigcommerce": "BigCommerce",
+            "btn_bigcommerce": "Installer l'application",
+            "plc_bigcommerce": "Installez notre application BigCommerce pour synchroniser les produits.",
+            "sync_products": "Synchroniser les produits",
+            "magento": "Magento",
+            "plc_magento": "Entrez l'URL de votre boutique \"magento\"",
+            "text_magento": "Remarque : Compatible uniquement avec Magento 2.x",
+            "woocommerce": "Woocommerce",
+            "plc_woocommerce": "Entrez l'URL de votre boutique \"woocommerce\"",
+            "btn_req": "Demander une plateforme",
+            "heading_shopify": "Synchroniser les produits depuis Shopify",
+            "last_synced": "Dernière synchronisation #{{time}}",
+            "connect_shop": "Connecter la boutique",
+            "sync_product_other": "Synchroniser les produits depuis une autre source",
+            "add_product": "Ajouter un produit",
+            "import": "Importer la liste des produits",
+            "err_required": "Ce champ est requis",
+            "err_google_invalid": "Veuillez entrer un ID marchand valide",
+            "err_shopify_invalid": "Veuillez entrer une URL valide.",
+            "err_shopify_connected": "Boutique déjà connectée.",
+            "connected_shop": "Votre boutique connectée",
+            "label_store": "Boutique :"
+        },
+        "pop_add": {
+            "product_image": "Image du produit",
+            "product_preview": "Aperçu du produit",
+            "shop_now": "Acheter maintenant",
+            "heading": "Produit",
+            "update": "Mettre à jour",
+            "add": "Ajouter",
+            "btn_preview": "Aperçu",
+            "btn_submit": "Soumettre",
+            "btn_edit": "Mode édition",
+            "label_name": "Nom du produit",
+            "plc_name": "Entrez le nom du produit",
+            "label_price": "Prix",
+            "label_discount": "Prix réduit",
+            "label_url": "URL du produit",
+            "label_sku": "SKU",
+            "plc_sku": "Entrez le SKU du produit",
+            "label_id": "ID du produit",
+            "plc_id": "Entrez l'ID du produit",
+            "label_category": "Catégorie",
+            "plc_category": "Entrez la catégorie",
+            "label_tags": "Tags",
+            "plc_tags": "Entrez plusieurs tags séparés par des virgules",
+            "edit": "Modifier",
+            "remove": "Supprimer",
+            "click_here": "Cliquez ici",
+            "to_upload": "pour télécharger la nouvelle image",
+            "product_name_req": "Le nom du produit est requis",
+            "discount_tooltip": "Représente le prix après déduction de la remise.",
+            "discount_err": "Le prix réduit doit être inférieur au prix réel.",
+            "valid_url": "Veuillez entrer une URL valide."
+        },
+        "csm_options": [
+            {
+                "title": "Shopify",
+                "icon": "shopify",
+                "type": "shopify"
+            },
+            {
+                "title": "Google Merchant Center",
+                "icon": "google",
+                "type": "google"
+            },
+            {
+                "title": "BigCommerce",
+                "icon": "bigcommerce",
+                "type": "bmc"
+            },
+            {
+                "title": "Magento",
+                "icon": "magento",
+                "type": "magento"
+            },
+            {
+                "title": "Woocommerce",
+                "icon": "woocommerce",
+                "type": "woocommerce"
+            },
+            {
+                "title": "Téléchargement manuel",
+                "icon": "manual-upload",
+                "type": ""
+            }
+        ]
+    },
+    "channel": {
+        "heading": "Canal",
+        "sub_heading": "Choisissez un canal pour personnaliser et publier votre contenu — ou créez-en un nouveau.",
+        "btn_add": "Ajouter un canal",
+        "empty_msg": "Oups ! Rien à voir ici.",
+        "empty_sub_msg": "Vous pouvez commencer à ajouter de nouveaux canaux ici.",
+        "create_gallery_err": "Veuillez créer une Galerie de contenu avant de configurer votre site web.",
+        "channel_to_publish": "Canal à publier",
+        "cancel": "Annuler",
+        "popup": {
+            "options": "Options",
+            "rename": "Renommer",
+            "delete": "Supprimer",
+            "create_duplicate": "Créer un duplicata",
+            "publish": "Publier",
+            "create": "Créer",
+            "label_drop": "Sélectionnez où publier",
+            "label_name": "Entrez le nom du canal",
+            "label_gallery": "Quelle galerie publier",
+            "update": "Mettre à jour",
+            "edit": "Modifier",
+            "enter_name": "Veuillez entrer un nom",
+            "ph_default": "Page d'accueil, Mur d'amour, Page d'inspiration",
+            "ph_campaign": "Campagne de vacances, Campagne Halloween",
+            "ph_bio": "Bio TikTok, Bio Instagram",
+            "enter_name_error": "Le nom du canal est requis",
+            "gallery_error": "Veuillez sélectionner une galerie.",
+            "website": "Site web",
+            "email_campaign": "Campagne e-mail",
+            "shopon_bio": "Shopon Bio"
+        }
+    },
+    "apps_more": {
+        "heading": "Applications & plus",
+        "download": {
+            "title_upgrade": "Télécharger les images",
+            "dics_upgrade": "Téléchargez les images de votre flux et réutilisez-les sur d'autres points de contact marketing.",
+            "btn_upgrade": "Mettre à niveau maintenant",
+            "heading": "Télécharger",
+            "btn_download": "Télécharger les images",
+            "select_wall": "Sélectionnez un mur",
+            "back": "Retour",
+            "add_new": "Ajouter nouveau",
+            "tb_wall_name": "Nom du mur",
+            "tb_status": "Statut",
+            "tb_expire_one": "Expire le",
+            "tb_action": "Action",
+            "no_data": "Aucune donnée disponible",
+            "in_progress": "En cours",
+            "status_completed": "Terminé"
+        },
+        "menu": "Menu",
+        "shoppable": {
+            "title": "Shoppable",
+            "heading": "Inspirez & convertissez avec UGC",
+            "sub_heading": "Intégrez des galeries shoppable, diffusez des annonces alimentées par UGC et créez des expériences personnalisées via notre API",
+            "sub_heading_2": "Transformez votre contenu en conversions. Activez Shoppable et taguez les produits pour générer des ventes directement depuis votre galerie UGC.",
+            "btn": "Désactiver",
+            "btn_2": "Activer",
+            "btn_3": "Mettre à niveau maintenant",
+            "modal": {
+                "title": "Êtes-vous sûr de vouloir désactiver Shoppable UGC ?",
+                "yes": "Oui",
+                "no": "Non"
+            }
+        },
+        "api_access_title": "Accès API",
+        "api_access_desc": "Obtenez l'accès API avec notre plan amélioré pour intégrer la galerie Taggbox dans votre application et faire ressortir votre app.",
+        "talk_to_sales": "Parler aux ventes",
+        "features": [
+            {
+                "id": 10,
+                "icon": "bag-shopping",
+                "title": "Shoppable"
+            },
+            {
+                "id": 8,
+                "icon": "plug",
+                "title": "API"
+            },
+            {
+                "id": 9,
+                "icon": "arrow-down-to-line",
+                "title": "Télécharger"
+            },
+            {
+                "id": 11,
+                "icon": "language",
+                "title": "Langue de l'application"
+            }
+        ]
+    },
+    "shoponBio": {
+        "select_content": "Sélectionner le contenu",
+        "get_start": "Commencez avec ShopOn.bio",
+        "get_start_info": "Montrez vos valeurs, votre mission et votre unicité. Faites simple, clair et inspirant. Permettez à votre audience de se connecter ! (Votre marque, en 300 caractères)",
+        "inputBio": "Bio",
+        "userName": "Choisissez votre nom d'utilisateur ShopOn.bio",
+        "userNameError": "L'URL est déjà prise",
+        "urlValid": "L'URL est disponible",
+        "userNameErrorlength": "Le nombre de caractères du slug doit être d'au moins 4.",
+        "request_customize": "Demander une personnalisation",
+        "themeType": "Type de thème",
+        "themeDark": "Sombre",
+        "themeLight": "Clair",
+        "error": {
+            "emptyIcon": {
+                "text": "Ajouter du contenu",
+                "title": "Aperçu manquant ? 👀",
+                "desc": "Vous avez sauté l'étape préliminaire. Connectez votre compte social pour collecter du contenu et commencer à créer votre galerie."
+            },
+            "emptyVideo1": {
+                "text": "Ajouter du contenu",
+                "title": "Votre Shopon.bio a besoin de contenu ! 🤳",
+                "desc": "Oups ! Il semble que votre page de destination Shopon.Bio ne contienne pas de posts pour le moment. Pour créer une page captivante, ajoutez du contenu à votre galerie ou rendez certains posts publics."
+            },
+            "emptyVideo2": {
+                "text": "Créer ShopOn Bio",
+                "title": "Créez un ShopOn pour commencer",
+                "desc": "Oups ! Il semble que vous ayez supprimé votre ShopOn bio, créez-en un simplement en cliquant sur le bouton ci-dessous."
+            }
+        }
+    },
+    "platform": {
+        "homepage": "Page d'accueil & Landing Page",
+        "homepage_desc": "Publiez votre widget de médias sociaux sur la page d'accueil de votre site, vos landing pages, vos articles de blog et vos galeries UGC dédiées pour augmenter l'engagement et présenter du contenu authentique de manière fluide.",
+        "homepage_desc_shop": "Publiez votre galerie shoppable sur la page d'accueil de votre boutique en ligne, la page catégorie, la page d'inspiration, les lookbooks ou toute autre page pertinente pour stimuler les ventes.",
+        "product_page": "Galeries sur page produit",
+        "product_page_desc": "Affichez des galeries shoppable sur les pages produits de votre boutique en ligne, en filtrant les posts selon l'ID de chaque produit.",
+        "tag_based": "Widget basé sur des tags",
+        "tag_based_desc": "Filtrez votre galerie en utilisant des tags et intégrez facilement la galerie basée sur les tags sur n'importe quelle page de votre site.",
+        "tag_based_desc_shop": "Filtrez votre galerie en utilisant des tags et intégrez facilement la galerie basée sur les tags sur n'importe quelle page de votre boutique e-commerce.",
+        "rating_schema": "Schéma d'évaluation",
+        "rating_schema_desc": "Affichez les évaluations agrégées directement dans les résultats de recherche Google pour améliorer la visibilité, le classement SEO et générer plus de trafic sur vos pages web.",
+        "gallery_type": "Type de galerie",
+        "html": {
+            "heading": "Publier sur site HTML",
+            "step_two": "Copiez le code généré pour votre galerie HTML",
+            "fist_line_1": "Connectez-vous simplement à votre",
+            "fist_line_2": "site HTML",
+            "fist_line_3": "et sélectionnez la landing page où vous souhaitez publier votre galerie"
+        },
+        "shopify": {
+            "heading": "Galerie sur Shopify",
+            "step_two": "Copiez le code ci-dessous pour votre galerie Shopify"
+        },
+        "wordpress": {
+            "heading": "Publier sur site WordPress",
+            "step_two": "Copiez le code généré pour votre galerie WordPress"
+        },
+        "prestashop": {
+            "heading": "Publier sur site Prestashop",
+            "step_two": "Copiez le code généré pour votre galerie Prestashop"
+        },
+        "bigcommerce": {
+            "heading": "Galerie sur Bigcommerce",
+            "step_two": "Copiez le code généré pour votre galerie Bigcommerce"
+        },
+        "magento": {
+            "heading": "Publier sur site Magento",
+            "step_two": "Copiez le code généré pour votre galerie Magento"
+        },
+        "wix": {
+            "heading": "Publier sur site Wix",
+            "step_two": "Copiez le code généré pour votre galerie Wix"
+        },
+        "square_space": {
+            "heading": "Publier sur site SquareSpace",
+            "step_two": "Copiez le code généré pour votre galerie SquareSpace"
+        },
+        "other": {
+            "heading": "Publier sur votre site",
+            "step_two": "Copiez le code généré pour votre galerie"
+        }
+    },
+    "emailCampaign": {
+        "pageTitle": "Campagne e-mail",
+        "headerBreadcrumbHome": "Accueil",
+        "headerBreadcrumbPublish": "Publier",
+        "asideContentHeading": "Sélectionner le contenu",
+        "mainDescription": "Sélectionnez les posts à intégrer dans votre galerie e-mail",
+        "previewHeading": "Aperçu",
+        "mobileMenuButton": "Menu",
+        "saveAndPublishButton": "Enregistrer et publier",
+        "publishButton": "Publier",
+        "backButton": "Retour",
+        "editButton": "Modifier",
+        "noCampaignsTitle": "Créez un e-mail pour commencer ! 👀",
+        "noCampaignsDescription": "Oups ! Il semble que vous ayez supprimé votre campagne e-mail, créez-en une en cliquant simplement sur le bouton ci-dessous.",
+        "createEmailButton": "Créer un e-mail",
+        "noContentTitle": "Aperçu manquant ? 👀",
+        "noContentDescription": "Vous avez sauté l'étape préliminaire. Connectez votre compte social pour collecter du contenu et commencer à créer votre galerie.",
+        "addContentButton": "Ajouter du contenu",
+        "campaignNamePlaceholder": "Campagne e-mail",
+        "spacingLabel": "Espacement",
+        "chooseLayoutLabel": "Choisissez la mise en page",
+        "requestNewGridTitle": "Demander une nouvelle grille",
+        "requestNewGridText": "Demander une nouvelle grille",
+        "fillGridError": "*Veuillez sélectionner des posts et remplir la grille pour continuer",
+        "websiteLabel": "Site web",
+        "shoponBioLabel": "Shopon.bio",
+        "emailCampaignLabel": "Campagne e-mail",
+        "moreLabel": "Plus",
+        "step_first": "Ajustez la largeur et la hauteur de la galerie selon vos besoins",
+        "step_three": "Collez le code de publication dans le back-end de la page",
+        "codeTabLabel": "Code",
+        "previewTabLabel": "Aperçu",
+        "publishHtmlTitle": "Publier sur site HTML",
+        "copyCodeInstruction": "Copiez le code généré pour la campagne e-mail",
+        "copyCodeTooltip": "Copier le code",
+        "codeCopiedTooltip": "Code copié",
+        "shareCodeTooltip": "Partager le code",
+        "pasteCodeInstruction": "Collez le code généré dans le template e-mail",
+        "supportHelpText": "Vous ne savez pas comment installer le code ? Contactez notre support",
+        "helpText": "Aide",
+        "connectSupportButton": "Contacter le support",
+        "shareCodeModalText": "Partagez ce code d'intégration avec votre équipe. Entrez l'adresse e-mail pour envoyer le code directement.",
+        "shareCodeModalHeading": "Envoyer le code par e-mail",
+        "toastarMsg": {
+            "trackingId": "Veuillez remplir l'identifiant de suivi Google Analytics",
+            "valid_url": "Veuillez entrer une URL valide pour le popup",
+            "cta_url": "Veuillez entrer une URL valide pour le CTA."
+        },
+        "emailPlatformInstructions": {
+            "klaviyo": [
+                {
+                    "text": "Connectez-vous à votre",
+                    "link": {
+                        "href": "https://www.klaviyo.com/",
+                        "label": "compte Klaviyo",
+                        "title": "Klaviyo"
+                    },
+                    "afterText": " Account"
+                },
+                {
+                    "text": "Ensuite, choisissez le nom de la campagne et les destinataires"
+                },
+                {
+                    "text": "Créez un nouveau template ou choisissez un template dans la bibliothèque."
+                },
+                {
+                    "text": "Sélectionnez HTML et collez le code UGC dans le template."
+                },
+                {
+                    "text": "Enfin, vérifiez toutes les sections et cliquez sur",
+                    "bold": "Planifier",
+                    "afterText": " ou ",
+                    "bold2": "Envoyer"
+                }
+            ],
+            "omnisend": [
+                {
+                    "text": "Connectez-vous à votre",
+                    "link": {
+                        "href": "https://www.omnisend.com/",
+                        "label": "compte Omnisend",
+                        "title": "Omnisend"
+                    }
+                },
+                {
+                    "text": "Allez ensuite dans l'onglet",
+                    "bold": "Campagne",
+                    "afterText": " > cliquez sur + ",
+                    "bold2": "Nouvelle campagne",
+                    "afterText2": " > choisissez de créer la campagne e-mail"
+                },
+                {
+                    "text": "Décidez de l'apparence de la campagne dans la boîte mail des contacts"
+                },
+                {
+                    "text": "Sélectionnez le template de campagne e-mail"
+                },
+                {
+                    "text": "Dans l'onglet contenu, choisissez HTML et collez le code UGC généré."
+                },
+                {
+                    "text": "Enregistrez le template, choisissez les destinataires et envoyez la campagne"
+                }
+            ],
+            "hubspot": [
+                {
+                    "text": "Connectez-vous à votre compte",
+                    "link": {
+                        "href": "https://www.hubspot.com/",
+                        "label": "HubSpot",
+                        "title": "HubSpot"
+                    }
+                },
+                {
+                    "text": "Naviguez vers Marketing > E-mail"
+                },
+                {
+                    "text": "Cliquez ensuite sur Créer un e-mail"
+                },
+                {
+                    "text": "Dans l'onglet glisser-déposer, choisissez un template selon le type d'e-mail souhaité"
+                },
+                {
+                    "text": "Pour ajouter le contenu UGC, faites glisser un élément HTML depuis l'onglet Contenu dans l'éditeur"
+                },
+                {
+                    "text": "Collez maintenant le code de la campagne UGC généré"
+                },
+                {
+                    "text": "Appliquez les modifications nécessaires et voilà ! La campagne UGC est ajoutée avec succès"
+                }
+            ],
+            "active": [
+                {
+                    "text": "Connectez-vous à votre",
+                    "link": {
+                        "href": "http://activecampaign.com/",
+                        "label": "compte Active Campaign",
+                        "title": "Active Campaign"
+                    },
+                    "afterText": " ici, cliquez sur ",
+                    "bold": "Créer une campagne"
+                },
+                {
+                    "text": "Choisissez ensuite une liste et créez un segment"
+                },
+                {
+                    "text": "Sélectionnez un template pour votre campagne"
+                },
+                {
+                    "text": "Définissez ensuite",
+                    "bold": "les détails de l'expéditeur"
+                },
+                {
+                    "text": "Personnalisez votre campagne. Glissez-déposez le bloc HTML et collez le code UGC généré"
+                },
+                {
+                    "text": "Enfin, vérifiez le résumé de la campagne et envoyez votre e-mail"
+                }
+            ],
+            "mailchimp": [
+                {
+                    "text": "Connectez-vous à votre",
+                    "link": {
+                        "href": "http://mailchimp.com/",
+                        "label": "compte Mailchimp",
+                        "title": "Mailchimp"
+                    },
+                    "afterText": " Pour créer une campagne e-mail, cliquez sur l'",
+                    "bold": "icône Créer"
+                },
+                {
+                    "text": "Dans le menu déroulant, cliquez sur",
+                    "bold": "Régulier",
+                    "afterText": " et donnez un nom à votre campagne"
+                },
+                {
+                    "text": "Ajoutez ensuite les destinataires et saisissez l'objet de l'e-mail"
+                },
+                {
+                    "text": "Concevez votre e-mail en choisissant le template"
+                },
+                {
+                    "text": "Ajoutez un bloc HTML depuis le contenu et collez le code UGC copié"
+                },
+                {
+                    "text": "Appliquez les modifications nécessaires et voilà ! Votre campagne UGC est ajoutée avec succès"
+                }
+            ],
+            "getresponse": [
+                {
+                    "text": "Connectez-vous à votre",
+                    "link": {
+                        "href": "https://www.getresponse.com/",
+                        "label": "compte GetResponse",
+                        "title": "GetResponse"
+                    },
+                    "afterText": " Depuis le tableau de bord, sélectionnez ",
+                    "bold": "Créer une newsletter"
+                },
+                {
+                    "text": "Donnez un nom interne à votre message et sélectionnez la liste associée"
+                },
+                {
+                    "text": "Commencez à concevoir votre message en cliquant sur",
+                    "bold": "Concevoir",
+                    "afterText": " le message"
+                },
+                {
+                    "text": "Choisissez si vous souhaitez utiliser des templates prédéfinis, vos templates, des templates vierges ou concevoir avec l'éditeur HTML"
+                },
+                {
+                    "text": "Pour HTML, l'éditeur s'ouvrira. Collez-y le code généré de la campagne UGC"
+                },
+                {
+                    "text": "Enregistrez le message comme brouillon ou cliquez sur Envoyer / Planifier"
+                }
+            ],
+            "other": [
+                {
+                    "text": "Connectez-vous simplement à votre plateforme d’e-mail marketing et sélectionnez le template où vous souhaitez afficher la campagne UGC."
+                },
+                {
+                    "text": "Collez le code généré à l’emplacement souhaité dans le template"
+                },
+                {
+                    "text": "Appliquez les modifications nécessaires et voilà ! La campagne UGC est ajoutée avec succès"
+                }
+            ]
+        }
+    },
+    "publish": {
+        "title": "Sélectionnez la galerie",
+        "btn_generate": "Générer le code",
+        "save": "Enregistrer",
+        "btn_back": "Retour à l'édition",
+        "script": "Script",
+        "preview": "Aperçu",
+        "desktop": "Bureau",
+        "mobile": "Mobile",
+        "theme": {
+            "heading": "MISE EN PAGE DU THÈME",
+            "social": "Social",
+            "review": "Avis",
+            "banner_layout": "MISE EN PAGE DU BANNIÈRE"
+        },
+        "customization": {
+            "recommended": "Utiliser les paramètres de votre site web (Recommandé)",
+            "recommended_tooltip": "Les propriétés de votre site web seront automatiquement appliquées au widget une fois que vous l’aurez intégré.",
+            "font_family": "Police",
+            "weight": "Épaisseur",
+            "font_color": "Couleur de la police",
+            "card_heading": "Style de la carte",
+            "banner_heading": "Style de la bannière",
+            "more_actions_heading": "Plus d’actions",
+            "background_heading": "Arrière-plan",
+            "custom_css_heading": "CSS personnalisé",
+            "hash_highlighter_heading": "Surligneur de hashtag",
+            "google_analytics_heading": "Google Analytics",
+            "snap_up_heading": "Paramètres du hub d'avis",
+            "website_title": "Sprache auswählen",
+            "localization": "Lokalisierung",
+            "localization_info": "Verwenden Sie die auf der Plattform verfügbaren Sprachen, um das Widget für Ihre Webseitenbesucher zu lokalisieren.",
+            "website_desc": "Die Übersetzung der Sprache startet sofort, benötigt jedoch einen kurzen Moment, um verarbeitet zu werden und auf Ihrem Live-Widget aktualisiert zu werden.",
+            "we_here": "Nous sommes là",
+            "connect_to_support": "Se connecter au support",
+            "need_help": "Besoin d’aide pour personnaliser ?",
+            "cta_heading": "CTA",
+            "transparent_background": "Arrière-plan transparent",
+            "color": "Couleur",
+            "background_image": "Image de fond",
+            "recommended_size": "Taille recommandée : image de 1920px x 1080px avec le ratio et la résolution adaptés à l’affichage prévu.",
+            "custom_css_status": "Statut",
+            "custom_css_tooltip": "Ajoutez votre CSS personnalisé pour personnaliser l’apparence de votre galerie.",
+            "feed_hashtag": "Hashtag du feed",
+            "all_hashtag": "Tous les hashtags",
+            "font_size": "Taille de la police",
+            "text": "Texte",
+            "button": "Bouton",
+            "hotspot": "Point d’intérêt",
+            "products": "Produits",
+            "catalog_name": "Nom du catalogue",
+            "title": "Titre",
+            "price": "Prix",
+            "background_color": "Couleur de fond",
+            "hotspot_icon": "Icône du point d’intérêt",
+            "dot": "Point",
+            "number": "Nombre",
+            "card_style": {
+                "general_style": "Style général",
+                "font_size": "Taille de la police",
+                "card_radius": "Rayon de la carte",
+                "card_color": "Couleur de la carte",
+                "card_position": "Position de la carte",
+                "post_position": "Position (Mise en avant du post)",
+                "card_size": "Taille de la carte",
+                "label_text": "Texte de l'étiquette",
+                "label_color": "Couleur de l'étiquette",
+                "label_font_color": "Couleur de la police de l'étiquette",
+                "text_alignment": "Alignement du texte",
+                "line_trim": "Nombre de lignes à tronquer",
+                "aspect_ratio": "Ratio d'image",
+                "social_status": "Statut de l'icône sociale",
+                "social_status_tooltip": "Afficher/masquer l'icône sociale",
+                "default_color": "Couleur par défaut de l'icône sociale",
+                "default_color_tooltip": "Les couleurs personnalisées des icônes ne sont pas prises en charge pour les avis Google.",
+                "author_style": "Style de l'auteur",
+                "author_color": "Couleur de l'auteur",
+                "time": "Temps",
+                "author_detail": "Détails de l'auteur",
+                "share_options": "Options de partage",
+                "hide_text": "Masquer le texte",
+                "hide_text_tooltip": "Masquer le texte est disponible uniquement pour les posts contenant des médias.",
+                "social_actions": "Actions sociales",
+                "trim_options": [
+                    {
+                        "label": "Par défaut",
+                        "value": 0
+                    },
+                    {
+                        "label": "Deux",
+                        "value": 2
+                    },
+                    {
+                        "label": "Trois",
+                        "value": 3
+                    },
+                    {
+                        "label": "Quatre",
+                        "value": 4
+                    },
+                    {
+                        "label": "Cinq",
+                        "value": 5
+                    }
+                ],
+                "image_ratios": [
+                    {
+                        "label": "Par défaut",
+                        "value": 0
+                    },
+                    {
+                        "label": "1:1 Carré",
+                        "value": 100
+                    },
+                    {
+                        "label": "3:2 Standard",
+                        "value": 66.66
+                    },
+                    {
+                        "label": "2:3 Standard (Vertical)",
+                        "value": 150
+                    },
+                    {
+                        "label": "4:3 Quatre-Trois",
+                        "value": 75
+                    },
+                    {
+                        "label": "3:4 Quatre-Trois Vertical",
+                        "value": 133.33
+                    },
+                    {
+                        "label": "16:9 Écran large",
+                        "value": 56.25
+                    },
+                    {
+                        "label": "9:16 Écran large (Vertical)",
+                        "value": 177.77
+                    }
+                ],
+                "card_positions": [
+                    {
+                        "label": "Bas gauche",
+                        "value": 1
+                    },
+                    {
+                        "label": "Haut gauche",
+                        "value": 2
+                    },
+                    {
+                        "label": "Haut droite",
+                        "value": 3
+                    },
+                    {
+                        "label": "Bas droite",
+                        "value": 4
+                    }
+                ],
+                "card_sizes": [
+                    {
+                        "label": "Petit",
+                        "value": 1
+                    },
+                    {
+                        "label": "Moyen",
+                        "value": 2
+                    },
+                    {
+                        "label": "Grand",
+                        "value": 3
+                    }
+                ],
+                "post_highlight_position": [
+                    {
+                        "label": "Gauche",
+                        "value": "left"
+                    },
+                    {
+                        "label": "Droite",
+                        "value": "right"
+                    }
+                ]
+            },
+            "banner_style": {
+                "overall_settings": "Paramètres généraux",
+                "background_color": "Couleur de fond",
+                "other_settings": "Autres paramètres",
+                "select_network": "Sélectionner le réseau",
+                "title": "Titre",
+                "subtitle": "Sous-titre",
+                "profile_image": "Image de profil",
+                "button_text": "Texte du bouton",
+                "button_text_color": "Couleur du texte du bouton",
+                "button_color": "Couleur du bouton",
+                "follow_us": "Suivez-nous",
+                "heading": "En-tête",
+                "font_size": "Taille de la police",
+                "star_color": "Couleur des étoiles",
+                "review_button": "Bouton d'avis"
+            },
+            "more_actions": {
+                "carousel_post": "Post en carrousel",
+                "carousel_post_tooltip": "Activer pour refléter les posts en carrousel.",
+                "shuffle_post": "Mélanger les posts",
+                "shuffle_post_tooltip": "Mélange les posts dans un ordre aléatoire indépendamment de la date/heure.",
+                "hide_duplicate_post": "Masquer les posts en double",
+                "hide_duplicate_post_tooltip": "Cette fonctionnalité permet de masquer les posts affichés plus d'une fois.",
+                "web_embed_filter": "Filtre d'intégration web",
+                "web_embed_filter_tooltip": "Active les filtres de réseau pour les flux multi-réseaux. L'effet sera visible après sauvegarde.",
+                "auto_slide": "Diapositive automatique",
+                "auto_slide_tooltip": "Permet à la galerie de défiler automatiquement.",
+                "video_autoplay": "Lecture automatique des vidéos",
+                "video_autoplay_tooltip": "Active la lecture automatique des vidéos dans les miniatures.",
+                "show_more_button": "Bouton 'Voir plus'",
+                "show_more_button_tooltip": "Afficher/Masquer le bouton 'Voir plus'.",
+                "auto_load": "Chargement automatique",
+                "auto_load_tooltip": "Profitez d'un flux infini de posts.",
+                "hide_posts": "Masquer les posts 'texte uniquement'",
+                "hide_posts_tooltip": "Masquer les posts 'Texte uniquement'",
+                "trim_content": "Tronquer le contenu",
+                "trim_content_tooltip": "Coupe le texte des posts après une limite.",
+                "mobile_popup": "Popup mobile",
+                "mobile_popup_tooltip": "Active la popup pour les posts lorsqu'on clique sur la version mobile de l'intégration web.",
+                "best_fit": "Meilleur ajustement",
+                "best_fit_tooltip": "Permet de charger les images de manière fluide.",
+                "on_click": "Au clic",
+                "custom_url": "URL personnalisée",
+                "ai_summarizer": "Résumé AI",
+                "ai_summarizer_tooltip": "Vos avis, résumés en quelques secondes grâce à l'IA.",
+                "number_of_posts": "Nombre total de posts à afficher",
+                "number_of_posts_tooltip": "Nombre maximum de posts affichés sur la galerie en direct.",
+                "slider_speed": "Vitesse du slider",
+                "time_per_slide": "Temps par diapositive",
+                "column_desktop": "Colonnes (bureau)",
+                "column_mobile": "Colonnes (mobile)",
+                "no_of_row": "Nombre de lignes",
+                "hide_old_posts": "Masquer les anciens posts",
+                "hide_old_posts_tooltip": "Masque les anciens posts sur votre galerie en direct.",
+                "min_post_w": "Largeur minimale du post",
+                "post_spacing": "Espacement des posts",
+                "hide_post_range": [
+                    {
+                        "label": "Il y a un jour",
+                        "value": 1
+                    },
+                    {
+                        "label": "Il y a deux jours",
+                        "value": 2
+                    },
+                    {
+                        "label": "Il y a trois jours",
+                        "value": 3
+                    },
+                    {
+                        "label": "Il y a quatre jours",
+                        "value": 4
+                    },
+                    {
+                        "label": "Il y a cinq jours",
+                        "value": 5
+                    },
+                    {
+                        "label": "Il y a six jours",
+                        "value": 6
+                    },
+                    {
+                        "label": "Il y a sept jours",
+                        "value": 7
+                    },
+                    {
+                        "label": "Un mois",
+                        "value": 30
+                    },
+                    {
+                        "label": "Sélection personnalisée",
+                        "value": 8
+                    }
+                ],
+                "rows_options": [
+                    {
+                        "label": "1 ligne",
+                        "value": 1
+                    },
+                    {
+                        "label": "2 lignes",
+                        "value": 2
+                    }
+                ],
+                "pop_up_actions": [
+                    {
+                        "label": "Ne rien faire",
+                        "value": 0
+                    },
+                    {
+                        "label": "Ouvrir popup",
+                        "value": 1
+                    },
+                    {
+                        "label": "Aller à la source",
+                        "value": 2
+                    },
+                    {
+                        "label": "URL personnalisée",
+                        "value": 3
+                    }
+                ],
+                "ai_summary_styles": [
+                    {
+                        "label": "Désactivé",
+                        "value": 0
+                    },
+                    {
+                        "label": "Liste",
+                        "value": 1
+                    },
+                    {
+                        "label": "Texte",
+                        "value": 2
+                    }
+                ],
+                "ticker_slider_speed": [
+                    {
+                        "label": "Plus lent",
+                        "value": 5
+                    },
+                    {
+                        "label": "Lent",
+                        "value": 10
+                    },
+                    {
+                        "label": "Normal",
+                        "value": 15
+                    },
+                    {
+                        "label": "Rapide",
+                        "value": 20
+                    },
+                    {
+                        "label": "Plus rapide",
+                        "value": 30
+                    }
+                ],
+                "column_options": [
+                    {
+                        "label": "Responsive",
+                        "value": 0
+                    },
+                    {
+                        "label": "1 colonne",
+                        "value": 1
+                    },
+                    {
+                        "label": "2 colonnes",
+                        "value": 2
+                    },
+                    {
+                        "label": "3 colonnes",
+                        "value": 3
+                    },
+                    {
+                        "label": "4 colonnes",
+                        "value": 4
+                    },
+                    {
+                        "label": "5 colonnes",
+                        "value": 5
+                    },
+                    {
+                        "label": "6 colonnes",
+                        "value": 6
+                    },
+                    {
+                        "label": "7 colonnes",
+                        "value": 7
+                    },
+                    {
+                        "label": "8 colonnes",
+                        "value": 8
+                    },
+                    {
+                        "label": "9 colonnes",
+                        "value": 9
+                    }
+                ]
+            },
+            "google_analytics": {
+                "google_analytics_tooltip": "Autoriser le suivi Google Analytics pour ce site web.",
+                "error_msg": "Veuillez renseigner l'identifiant de suivi"
+            },
+            "cta": {
+                "btn_text": "Texte du bouton",
+                "text_color": "Couleur du texte",
+                "button_color": "Couleur du bouton",
+                "button_url": "URL du bouton",
+                "btn_url_error": "Veuillez saisir une URL valide."
+            },
+            "review_hub": {
+                "btn_content": "Contenu du bouton",
+                "btn_text": "Texte du bouton",
+                "qr": "QR (Masquer/Afficher)",
+                "bg_color": "Couleur de fond"
+            },
+            "product_cta": {
+                "click_redirect": [
+                    {
+                        "label": "Ouvrir dans un nouvel onglet",
+                        "value": "1"
+                    },
+                    {
+                        "label": "Continuer dans le même onglet",
+                        "value": "2"
+                    }
+                ]
+            }
+        },
+        "galleryTypeObj": {
+            "landingPage": {
+                "dropDownTitle": "Page d'accueil & Landing Page",
+                "dropDownDescShoppable": "Publiez votre galerie shoppable sur la page d'accueil de votre boutique en ligne, page catégorie, page inspiration, lookbooks ou toute autre page pertinente pour stimuler les ventes.",
+                "dropDownDesc": "Publiez votre widget de médias sociaux sur la page d'accueil, les landing pages, les articles de blog et les galeries UGC dédiées de votre site pour augmenter l'engagement et présenter du contenu authentique de manière fluide."
+            },
+            "productPage": {
+                "dropDownTitle": "Galeries des pages produits",
+                "dropDownDesc": "Affichez des galeries shoppable sur les pages produits de votre boutique en ligne, en filtrant les publications en fonction de l'ID de chaque produit.",
+                "publishCodeId": "Ajoutez votre variable d'identifiant de produit après la section Data Filter ID dans le code de publication à l'étape 3",
+                "publishCodeIdExample": "Par exemple : data-filter-id=\"{{product-id}}\""
+            },
+            "tagBased": {
+                "dropDownTitle": "Widget basé sur les tags",
+                "dropDownDescShoppable": "Filtrez votre galerie à l'aide de tags et intégrez facilement la galerie tag-based sur votre boutique e-commerce.",
+                "dropDownDesc": "Filtrez votre galerie à l'aide de tags et intégrez facilement la galerie tag-based sur votre site web.",
+                "selectTag": "Sélectionnez vos tags",
+                "selectTagPlaceholder": "Rechercher des options...",
+                "tagList": "Liste de tags",
+                "generatecode": "Générer le code"
+            },
+            "rattingSchema": {
+                "dropDownTitle": "Schéma d'évaluation",
+                "dropDownDesc": "Affichez les évaluations agrégées directement dans les résultats de recherche Google pour améliorer la visibilité, votre SEO et générer plus de trafic sur vos pages.",
+                "selectFeed": "Sélectionner les flux",
+                "copyCode": "Copiez et collez le code schema dans la section <head> </head> de votre site.",
+                "rattingInfo": "Voici à quoi ressemble votre marque dans les SERP",
+                "sideBar": {
+                    "1": "Étapes pour ajouter le Schéma d'évaluation sur votre site",
+                    "2": "Copiez et collez le code schema dans la section head de votre page.",
+                    "3": "Allez sur votre console Google et re-crawl l'URL du site.",
+                    "4": "Afficher les étoiles dans les résultats de recherche",
+                    "5": "Un Schéma d'évaluation dans les SERP correspond aux balises de données structurées qui permettent aux moteurs de recherche d'afficher des étoiles et des avis.",
+                    "6": "<strong> Augmente le taux de clics (CTR) - </strong> Les étoiles et extraits d'avis rendent votre listing plus visible et peuvent augmenter le CTR jusqu'à 30%.",
+                    "7": "<strong> Renforce la confiance et la crédibilité - </strong> Les utilisateurs font confiance aux pages avec évaluations vérifiées, augmentant les chances de clic et conversion.",
+                    "8": "<strong> Améliore le SEO local - </strong> Les évaluations des entreprises améliorent le classement dans les recherches locales et attirent plus de clients."
+                },
+                "popup": {
+                    "heading": "Envoyer le code par email",
+                    "text": "Partagez ce code embed avec votre équipe. Entrez l'email pour envoyer le code directement."
+                },
+                "nofeed": "Aucun flux disponible",
+                "selectfeed": "Sélectionner un flux"
+            },
+            "plateform": {
+                "1": {
+                    "plateform": "html",
+                    "text": "Copiez le code de publication généré pour votre galerie HTML",
+                    "0": {
+                        "1": "Site HTML",
+                        "2": "et sélectionnez la page où vous souhaitez publier votre galerie"
+                    },
+                    "dics": {
+                        "1": "Connectez-vous simplement à votre",
+                        "2": "Collez le code de publication dans le backend de la page",
+                        "3": "Appliquez les modifications nécessaires et voilà ! Vous avez publié avec succès la galerie #{{replace_text}} sur votre site"
+                    }
+                },
+                "2": {
+                    "plateform": "shopify",
+                    "text": "Copiez le code de publication ci-dessous pour votre galerie Shopify",
+                    "publish_heading": "Publier la galerie sur Shopify via le code HTML",
+                    "steps": "Galerie sur Shopify",
+                    "publishDesc": "Collez le code de publication dans le HTML de votre page Shopify"
+                },
+                "3": {
+                    "plateform": "wordpress",
+                    "text": "Copiez le code de publication généré pour votre galerie WordPress",
+                    "steps": "Publier sur site WordPress",
+                    "dics": {
+                        "1": "Connectez-vous à votre WordPress",
+                        "2": "Sélectionnez et éditez la page où vous voulez publier la galerie et appliquez les modifications pour l'afficher",
+                        "3": "Cliquez sur (+) pour ajouter un nouveau bloc et choisissez HTML personnalisé",
+                        "4": "Collez le code copié",
+                        "5": "Cliquez sur Publier/Mettre à jour et c'est terminé !"
+                    }
+                },
+                "4": {
+                    "plateform": "prestashop",
+                    "text": "Copiez le code de publication généré pour votre galerie Prestashop",
+                    "steps": "Publier sur site Prestashop"
+                },
+                "5": {
+                    "plateform": "bigcommerce",
+                    "text": "Copiez le code de publication généré pour votre galerie Bigcommerce",
+                    "publish_heading": "Publier la galerie sur Bigcommerce via le code HTML",
+                    "steps": "Galerie sur Bigcommerce",
+                    "publishDesc": "Collez le code de publication dans le HTML de votre page Bigcommerce"
+                },
+                "6": {
+                    "plateform": "magento",
+                    "text": "Copiez le code de publication généré pour votre galerie Magento",
+                    "steps": "Publier sur site Magento",
+                    "1": "Compte Magento",
+                    "dics": {
+                        "1": "Connectez-vous à votre ",
+                        "2": "Allez sur la page de votre site Magento où vous souhaitez afficher la galerie #{{replace_text}}.",
+                        "3": "Collez le code copié et cliquez sur Appliquer pour terminer",
+                        "4": "Tadaa ! Vous avez publié la galerie #{{replace_text}} sur votre site Magento."
+                    }
+                },
+                "7": {
+                    "plateform": "other",
+                    "text": "Copiez le code de publication généré pour votre galerie",
+                    "steps": "Publier sur votre site",
+                    "dics": {
+                        "1": "Ici, vous pouvez publier une galerie sur votre site via Javascript ou Iframe.",
+                        "2": "Copiez le code généré depuis #{{replace_text}} Code Generator",
+                        "3": "Vous pouvez ajuster la hauteur et la largeur de votre galerie #{{replace_text}} avant de générer le code",
+                        "4": "Collez le code dans le backend de votre site et enregistrez.",
+                        "5": "C’est terminé !"
+                    }
+                },
+                "8": {
+                    "plateform": "wix",
+                    "text": "Copiez le code de publication généré pour votre galerie Wix",
+                    "steps": "Publier sur site Wix",
+                    "dics": {
+                        "1": "Connectez-vous à votre compte Wix.",
+                        "2": "Sélectionnez et éditez la page où vous souhaitez intégrer le widget et appliquez les modifications.",
+                        "3": "Cliquez sur (+) pour ajouter un nouveau bloc, choisissez Code Embed et option HTML Embed.",
+                        "4": "Collez le code et cliquez sur Mettre à jour pour terminer !"
+                    }
+                },
+                "9": {
+                    "plateform": "squareSpace",
+                    "text": "Copiez le code de publication généré pour votre galerie SquareSpace",
+                    "steps": "Publier sur site SquareSpace",
+                    "dics": {
+                        "1": "Connectez-vous à votre compte Squarespace et ouvrez la page où vous souhaitez intégrer le widget",
+                        "2": "Cliquez sur +Ajouter/Éditer Bloc et sélectionnez Code",
+                        "3": "Collez le code copié et cliquez sur Appliquer",
+                        "4": "Collez le code copié et cliquez sur Mettre à jour pour terminer !"
+                    }
+                }
+            },
+            "modal": {
+                "ShareCodeModal": {
+                    "text": "Partagez ce code embed avec votre équipe. Entrez l'email pour envoyer le code directement.",
+                    "heading": "Envoyer le code par email"
+                },
+                "ratingEmptyIcon": {
+                    "desc": "Il semble que vous n'avez pas encore ajouté de flux d'avis. Créez-en un pour afficher les évaluations dans les SERP !",
+                    "title": "Aucun flux d'avis",
+                    "text": "Ajouter un flux maintenant"
+                },
+                "req_platform": {
+                    "title": "Demander une plateforme"
+                }
+            },
+            "steps": {
+                "Publish": "Publier",
+                "shoppable": "Shoppable",
+                "Shoppable": "Shoppable",
+                "installApp": "Installer l'application",
+                "instructions": "Instructions d'installation",
+                "usingtag": "Utilisation des tags"
+            },
+            "autoPublish": {
+                "heading": "Publication automatique",
+                "info": "Sélectionnez votre page Shopify, thème, position de la galerie, puis cliquez sur Publier la galerie.",
+                "not_found": "Données introuvables",
+                "heading2": "Gérer les galeries publiées",
+                "button": "Ajouter une publication automatique",
+                "alt": "Remarque : les plugins installés manuellement n'apparaîtront pas dans cette liste",
+                "public_gallery": "Publier la galerie",
+                "form": {
+                    "landing_page": "Sélectionnez votre landing page Shopify",
+                    "dawn_theme": "Sélectionnez le thème Dawn",
+                    "product_page": "Page produit",
+                    "home_page": "Page d'accueil",
+                    "sections": "Section",
+                    "position_on": "Position de la galerie sur",
+                    "product": "Produit",
+                    "page": "Page",
+                    "error": "Aucune boutique trouvée"
+                }
+            },
+            "autopubTable": {
+                "page": "Page",
+                "position": "Position",
+                "dataInst": "Date d'installation",
+                "Preview": "Aperçu"
+            },
+            "shopifyPublish": {
+                "are_you_sure": "Êtes-vous sûr ?",
+                "auto_publish": "Publication automatique",
+                "tab_heading": "Extension App Thème",
+                "websiteId": "ID du site",
+                "copy_code": "Copier le code",
+                "copied_code": "Code copié",
+                "go_customize": "Aller à la section personnalisation",
+                "menual_publishing": "Publication manuelle",
+                "yes": "Oui",
+                "no": "Non",
+                "list": {
+                    "1": "Copiez l'ID du site.",
+                    "2": "Allez dans Personnaliser (Boutique en ligne → Personnaliser).",
+                    "3": "Cliquez sur Ajouter une section.",
+                    "4": "Sélectionnez Voir plus puis ajoutez {COMPANY_NAME} : Shoppable Instagram.",
+                    "5": "Collez l'ID du site et cliquez sur Enregistrer.",
+                    "6": "Glissez et positionnez la section comme souhaité via le panneau gauche.",
+                    "7": "Si votre thème ne prend pas en charge les sections, utilisez les options de code personnalisé ou d'installation automatique.",
+                    "8": "Vous pouvez également modifier le titre et le sous-titre de votre galerie Shoppable.",
+                    "9": "Pour des instructions détaillées, consultez la vidéo d'installation."
+                }
+            },
+            "msg": {
+                "embedGenerated": "Code embed généré avec succès",
+                "emptyTag": "Veuillez sélectionner un tag",
+                "options_found": "Aucune option trouvée",
+                "loadingText": "Chargement..."
+            },
+            "commonContent": {
+                "heading": "Publier sur site HTML",
+                "sideBardTitle": "Type de galerie",
+                "sideBarPlateform": "Sélectionner les plateformes",
+                "adjusted_size": "Ajustez la largeur et la hauteur de la galerie selon vos besoins",
+                "publishDesc": "Collez le code de publication dans le backend de la page",
+                "connectSupport": "Vous ne savez pas comment installer le code ? Contactez notre équipe support",
+                "connectSupportLink": "Contacter le support",
+                "preview": "Aperçu"
+            }
+        },
+        "more_publish": [
+            {
+                "id": "1",
+                "title": "Buffer",
+                "icon": "buffer",
+                "text": "Connectez-vous à Buffer pour planifier et publier sans effort du contenu généré par les utilisateurs (UGC) sur vos plateformes sociales. Renforcez la confiance et engagez votre audience avec du contenu authentique."
+            },
+            {
+                "id": "2",
+                "title": "Hubspot",
+                "icon": "hubspot",
+                "text": "Enrichissez vos campagnes email en mettant en avant du contenu UGC via HubSpot. Présentez des avis clients et du contenu authentique pour renforcer la confiance et augmenter les conversions."
+            },
+            {
+                "id": "3",
+                "title": "Hootsuite",
+                "icon": "hootsuite",
+                "text": "Planifiez et publiez du contenu généré par les utilisateurs facilement avec Hootsuite. Valorisez la présence de votre marque en maintenant une voix cohérente et fiable sur les réseaux sociaux."
+            },
+            {
+                "id": "4",
+                "title": "Zapier",
+                "icon": "zapier",
+                "text": "Automatisez vos flux de travail et connectez-vous à des milliers d’applications avec Zapier. Réutilisez le contenu UGC facilement et intégrez-le de manière fluide dans vos outils et processus existants."
+            },
+            {
+                "id": "5",
+                "title": "Facebook Ads",
+                "icon": "facebook",
+                "text": "Améliorez vos campagnes publicitaires sur Facebook avec du contenu UGC engageant. Augmentez les performances et connectez-vous authentiquement avec votre audience. Des idées ? Nous sommes à l’écoute !"
+            },
+            {
+                "id": "6",
+                "title": "TikTok Ads",
+                "icon": "tiktok",
+                "text": "Créez des publicités TikTok captivantes en intégrant du contenu généré par les utilisateurs. Diffusez des annonces qui se démarquent et engagez efficacement votre audience. Des retours ? Partagez-les avec nous — votre avis compte !"
+            },
+            {
+                "id": "7",
+                "title": "Demander une intégration",
+                "icon": "integration",
+                "text": "Vous cherchez une intégration qui n’est pas disponible ici ? Faites-nous part de vos besoins, et nous verrons comment la mettre en place pour répondre à vos attentes."
+            }
+        ]
+    },
+    "sideBar": {
+        "home": "Accueil",
+        "networkManager": "Gestionnaire de Réseaux",
+        "contentGallery": "Galerie de Contenu",
+        "productCatalog": "Catalogue de Produits",
+        "publish": "Personnaliser & Publier",
+        "appsMore": "Applications & Plus",
+        "analytics": "Analytique",
+        "publish_": "Publier",
+        "autopilot": "Pilote Automatique",
+        "addFeed": "Ajouter un Flux",
+        "manageFeed": "Gérer les Flux",
+        "reviewHub": "Hub d'Avis",
+        "content": "Contenu",
+        "referEarn": "Parrainer & Gagner",
+        "profile": "Profil",
+        "plan_details": "Détails du Plan",
+        "social_accounts": "Comptes Sociaux",
+        "collaborator": "Collaborateur",
+        "mfa_authenticator": "Authentificateur MFA"
+    }
+}
