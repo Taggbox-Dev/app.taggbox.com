@@ -386,6 +386,7 @@
         "filter_add": "Add Filter",
         "filter_tags": "Post Tags",
         "filter_feeds": "Social Feeds",
+        "filter_language": "Post Language",
         "filter_type": "Post type",
         "filter_ai": "AI Recommendation",
         "filter_sentiment": "Sentiment",
@@ -573,7 +574,7 @@
         "modal": {
             "generalInfo": {
                 "heading": "General Information",
-                "button": "Got to Moderation",
+                "button": "Go to Moderation",
                 "clicks": "Clicks",
                 "views": "Views",
                 "sentiment": "Sentiment",
@@ -2076,8 +2077,10 @@
         "disapprove": "disapprove",
         "out_of_count": "Out of #{{count}}",
         "language_change_msg": "This action will change the app language to #{{lang}}.",
-        "language_primary_btn": "Yes, switch to #{{lang}}",
-        "language_secondary_btn": "Keep current language"
+        "language_primary_btn": "Yes, Switch to #{{lang}}",
+        "language_secondary_btn": "Keep Current Language",
+        "language_change_website": "This will change the language of the embedded widget on your website to #{{lang}}.",
+        "refresh": "Refresh"
     },
     "Analytics": {
         "case_study": {
@@ -2957,6 +2960,10 @@
             "hash_highlighter_heading": "Hashtag highlighter",
             "google_analytics_heading": "Google analytics",
             "snap_up_heading": "Review hub settings",
+            "website_title": "Select Language",
+            "localization": "Localization",
+            "localization_info": "Use the languages available in the platform to localize the widget for your web visitors.",
+            "website_desc": "Language translation starts immediately but requires a brief period to process and update on your live embed.",
             "we_here": "We’re here",
             "connect_to_support": "Connect to Support",
             "need_help": "Need help customizing?",

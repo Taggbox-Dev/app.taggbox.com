@@ -2079,7 +2079,7 @@
         "language_change_msg": "Cette action changera la langue de l'application en #{{lang}}.",
         "language_primary_btn": "Oui, passer à #{{lang}}",
         "language_secondary_btn": "Conserver la langue actuelle",
-        "language_change_website": "Cette action changera la langue de l'application en #{{lang}}.",
+        "language_change_website": "Cela changera la langue du widget intégré sur votre site Web en #{{lang}}.",
         "refresh": "Rafraîchir"
     },
     "Analytics": {

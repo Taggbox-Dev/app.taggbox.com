@@ -298,22 +298,22 @@
         "tailored_plan_desc": "企業のニーズに合わせたカスタムプラン。パーソナライズされたカスタマイズ、スケーラブルなオプション、専用サポート、シームレスな統合、成長志向のソリューションで成功を促進します。",
         "enterprises_features": [
             {
-                "key": "Custom Feeds"
+                "key": "カスタムフィード"
             },
             {
-                "key": "API Access"
+                "key": "APIアクセス"
             },
             {
-                "key": "Collaborator"
+                "key": "コラボレーター"
             },
             {
-                "key": "Security Assessment & DPA"
+                "key": "セキュリティ評価 & DPA"
             },
             {
-                "key": "Real Time Update"
+                "key": "リアルタイム更新"
             },
             {
-                "key": "White Label"
+                "key": "ホワイトラベル"
             }
         ],
         "just_pay": "支払うだけ",
@@ -386,6 +386,7 @@
         "filter_add": "フィルターを追加",
         "filter_tags": "投稿タグ",
         "filter_feeds": "ソーシャルフィード",
+        "filter_language": "投稿の言語",
         "filter_type": "投稿タイプ",
         "filter_ai": "AI推奨",
         "filter_sentiment": "感情分析",
@@ -573,7 +574,7 @@
         "modal": {
             "generalInfo": {
                 "heading": "一般情報",
-                "button": "モデレーションに移動",
+                "button": "モデレーションへ移動",
                 "clicks": "クリック数",
                 "views": "表示回数",
                 "sentiment": "感情分析",
@@ -2077,7 +2078,9 @@
         "out_of_count": "#{{count}}を超過",
         "language_change_msg": "この操作により、アプリの言語が #{{lang}} に変更されます。",
         "language_primary_btn": "はい、#{{lang}} に切り替えます",
-        "language_secondary_btn": "現在の言語を維持する"
+        "language_secondary_btn": "現在の言語を維持する",
+        "language_change_website": "これにより、ウェブサイトに埋め込まれたウィジェットの言語が #{{lang}} に変更されます。",
+        "refresh": "更新"
     },
     "Analytics": {
         "case_study": {
@@ -2957,6 +2960,10 @@
             "hash_highlighter_heading": "ハッシュタグハイライター",
             "google_analytics_heading": "Googleアナリティクス",
             "snap_up_heading": "レビュー設定",
+            "website_title": "言語を選択",
+            "localization": "ローカリゼーション",
+            "localization_info": "プラットフォームで利用可能な言語を使用して、ウェブ訪問者向けにウィジェットをローカライズします。",
+            "website_desc": "言語の翻訳はすぐに開始されますが、ライブ埋め込みに反映されるまでには少し時間がかかります。",
             "we_here": "私たちがサポートします",
             "connect_to_support": "サポートに接続",
             "need_help": "カスタマイズでお困りですか？",

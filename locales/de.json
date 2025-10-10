@@ -386,6 +386,7 @@
         "filter_add": "Filter hinzufügen",
         "filter_tags": "Beitrags-Tags",
         "filter_feeds": "Soziale Feeds",
+        "filter_language": "Beitragssprache",
         "filter_type": "Beitragstyp",
         "filter_ai": "KI-Empfehlung",
         "filter_sentiment": "Stimmung",
@@ -573,7 +574,7 @@
         "modal": {
             "generalInfo": {
                 "heading": "Allgemeine Informationen",
-                "button": "Zur Moderation",
+                "button": "Zur Moderation gehen",
                 "clicks": "Klicks",
                 "views": "Aufrufe",
                 "sentiment": "Stimmung",
@@ -2077,7 +2078,9 @@
         "out_of_count": "Von #{{count}} erreicht",
         "language_change_msg": "Diese Aktion ändert die App-Sprache zu #{{lang}}.",
         "language_primary_btn": "Ja, wechsle zu #{{lang}}",
-        "language_secondary_btn": "Aktuelle Sprache behalten"
+        "language_secondary_btn": "Aktuelle Sprache behalten",
+        "language_change_website": "Dadurch wird die Sprache des eingebetteten Widgets auf Ihrer Website auf #{{lang}} geändert.",
+        "refresh": "Aktualisieren"
     },
     "Analytics": {
         "case_study": {
@@ -2957,6 +2960,10 @@
             "hash_highlighter_heading": "Hashtag-Highlight",
             "google_analytics_heading": "Google Analytics",
             "snap_up_heading": "Review-Hub-Einstellungen",
+            "website_title": "Sprache auswählen",
+            "localization": "Lokalisierung",
+            "localization_info": "Verwenden Sie die auf der Plattform verfügbaren Sprachen, um das Widget für Ihre Webseitenbesucher zu lokalisieren.",
+            "website_desc": "Die Sprachübersetzung startet sofort, benötigt jedoch eine kurze Zeit, um verarbeitet und in Ihrem Live-Embed aktualisiert zu werden.",
             "we_here": "Wir sind hier",
             "connect_to_support": "Mit Support verbinden",
             "need_help": "Hilfe bei der Anpassung benötigt?",
