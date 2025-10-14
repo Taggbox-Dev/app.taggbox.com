@@ -1582,7 +1582,7 @@
             "80": "URLを入力 - https://www.tripadvisor.co.za/Hotel_Review-g2539271-d4428120-Reviews....",
             "default": "#{{feedType}}を入力"
         },
-        "hashtagCaption": "キャプション内のハッシュタグを含む投稿のみ取得",
+        "hashtagCaption": "キャプション内にハッシュタグを含む投稿のみを取得します。",
         "hashtagIGTV": "動画を除外",
         "onlyReels": "リールのみ。<span class=\"badge badge-primary ms-1 m-0 py-1\">新規</span>",
         "moderation": "投稿を公開する前に手動で承認しますか？",

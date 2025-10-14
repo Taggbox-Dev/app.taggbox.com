@@ -1582,7 +1582,7 @@
             "80": "Enter URL - https://www.tripadvisor.co.za/Hotel_Review-g2539271-d4428120-Reviews....",
             "default": "Enter #{{feedType}}"
         },
-        "hashtagCaption": "Get posts containing hashtag only in caption. new Captin",
+        "hashtagCaption": "Get posts containing hashtag only in caption.",
         "hashtagIGTV": "Exclude Videos.",
         "onlyReels": "Only Reels. <span class=\"badge badge-primary ms-1 m-0 py-1\">New</span>",
         "moderation": "Manually approve posts before making them public?",

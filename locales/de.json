@@ -1582,7 +1582,7 @@
             "80": "URL eingeben - https://www.tripadvisor.co.za/Hotel_Review-g2539271-d4428120-Reviews....",
             "default": "Geben Sie #{{feedType}} ein"
         },
-        "hashtagCaption": "Nur Beiträge mit Hashtag in der Beschriftung erhalten. Neue Caption",
+        "hashtagCaption": "Erhalten Sie Beiträge, die den Hashtag nur in der Bildunterschrift enthalten.",
         "hashtagIGTV": "Videos ausschließen.",
         "onlyReels": "Nur Reels. <span class=\"badge badge-primary ms-1 m-0 py-1\">Neu</span>",
         "moderation": "Beiträge manuell freigeben, bevor sie öffentlich werden?",
