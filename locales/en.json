@@ -1886,7 +1886,9 @@
         "payment_incomplete_message": "🚨Payment incomplete! Finish your upgrade to unlock full access to your plan.",
         "payment_failed_message": "🚨Payment failed! Update your billing info to keep your widget live.",
         "payment_incomplete_button": "Pay Now",
-        "payment_failed_button": "Update Now"
+        "payment_failed_button": "Update Now",
+        "offer_strip": "⏰ Hurry! 40% OFF Yearly Plans – Sale Ends in :",
+        "grab_it_now": "Grab it now"
     },
     "common": {
         "save": "Save",
