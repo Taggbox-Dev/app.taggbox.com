@@ -2082,7 +2082,10 @@
         "language_primary_btn": "Yes, Switch to #{{lang}}",
         "language_secondary_btn": "Keep Current Language",
         "language_change_website": "This will change the language of the embedded widget on your website to #{{lang}}.",
-        "refresh": "Refresh"
+        "refresh": "Refresh",
+        "cookie_desc": "This app uses cookies/SDKs for functionality, analytics, personalization, and ads. See our",
+        "accept_all": "Accept All",
+        "reject_all": "Reject All"
     },
     "Analytics": {
         "case_study": {

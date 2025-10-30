@@ -2082,7 +2082,10 @@
         "language_primary_btn": "Oui, passer à #{{lang}}",
         "language_secondary_btn": "Conserver la langue actuelle",
         "language_change_website": "Cela changera la langue du widget intégré sur votre site Web en #{{lang}}.",
-        "refresh": "Rafraîchir"
+        "refresh": "Rafraîchir",
+        "cookie_desc": "Cette application utilise des cookies/SDK pour les fonctionnalités, l'analyse, la personnalisation et les publicités. Voir notre",
+        "accept_all": "Tout accepter",
+        "reject_all": "Tout refuser"
     },
     "Analytics": {
         "case_study": {
