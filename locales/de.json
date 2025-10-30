@@ -2082,10 +2082,7 @@
         "language_primary_btn": "Ja, wechsle zu #{{lang}}",
         "language_secondary_btn": "Aktuelle Sprache behalten",
         "language_change_website": "Dadurch wird die Sprache des eingebetteten Widgets auf Ihrer Website auf #{{lang}} geändert.",
-        "refresh": "Aktualisieren",
-        "cookie_desc": "Diese App verwendet Cookies/SDKs für Funktionalität, Analysen, Personalisierung und Werbung. Weitere Informationen finden Sie in unserer",
-        "accept_all": "Alle akzeptieren",
-        "reject_all": "Alle ablehnen"
+        "refresh": "Aktualisieren"
     },
     "Analytics": {
         "case_study": {

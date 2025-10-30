@@ -2082,10 +2082,7 @@
         "language_primary_btn": "はい、#{{lang}} に切り替えます",
         "language_secondary_btn": "現在の言語を維持する",
         "language_change_website": "これにより、ウェブサイトに埋め込まれたウィジェットの言語が #{{lang}} に変更されます。",
-        "refresh": "更新",
-        "cookie_desc": "本アプリは、機能性、分析、パーソナライゼーション、および広告のためにCookie/SDKを使用します。詳細は当社の",
-        "accept_all": "すべて同意",
-        "reject_all": "すべて拒否"
+        "refresh": "更新"
     },
     "Analytics": {
         "case_study": {
