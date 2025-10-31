@@ -1887,7 +1887,7 @@
         "payment_failed_message": "🚨 Paiement échoué ! Mettez à jour vos informations de facturation pour garder votre widget actif.",
         "payment_incomplete_button": "Payer maintenant",
         "payment_failed_button": "Mettre à jour maintenant",
-        "offer_strip": "⏰ Dépêchez-vous ! 40 % de réduction sur les abonnements annuels – L’offre se termine dans :",
+        "offer_strip": "⏰ Dépêchez-vous ! Jusqu’à 40 % de RÉDUCTION sur les abonnements annuels – L’offre se termine dans :",
         "grab_it_now": "Profitez-en maintenant"
     },
     "common": {

@@ -1887,7 +1887,7 @@
         "payment_failed_message": "🚨支払いに失敗しました！ウィジェットを継続利用するには請求情報を更新してください。",
         "payment_incomplete_button": "今すぐ支払う",
         "payment_failed_button": "今すぐ更新",
-        "offer_strip": "⏰ 急いで！年間プランが40％オフ – セール終了まで：",
+        "offer_strip": "⏰ 急げ！年間プランが最大40％オフ – セール終了まで残り：",
         "grab_it_now": "今すぐゲット"
     },
     "common": {
