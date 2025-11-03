@@ -2069,7 +2069,7 @@
         "save_continue": "Enregistrer & Continuer",
         "countine_net_msg": "Connectez-vous à #{{networkName}} pour récupérer le contenu de ce flux.",
         "countine_net_btn": "Continuer avec #{{networkName}}",
-        "moderation_select_post_msg": "Voulez-vous #{{actionType}} approuver la publication sélectionnée ?",
+        "moderation_select_post_msg": "Voulez-vous #{{actionType}} la publication sélectionnée ?",
         "delete_selected_post": "Voulez-vous supprimer la publication sélectionnée ?",
         "recover_msg": "Vous ne pourrez pas récupérer cette publication.",
         "confirm_user": "Confirmer l'utilisateur",

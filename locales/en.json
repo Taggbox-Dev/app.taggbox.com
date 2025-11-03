@@ -2069,7 +2069,7 @@
         "save_continue": "Save & Continue",
         "countine_net_msg": "Connect to #{{networkName}} to pull the content for this feed.",
         "countine_net_btn": "Continue with #{{networkName}}",
-        "moderation_select_post_msg": "You want to #{{actionType}}approve selected post?",
+        "moderation_select_post_msg": "You want to #{{actionType}} selected post?",
         "delete_selected_post": "You want to delete selected post?",
         "recover_msg": "You will not be able to recover this post.",
         "confirm_user": "Confirm User",
