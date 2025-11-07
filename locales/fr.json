@@ -3636,5 +3636,9 @@
         "social_accounts": "Comptes Sociaux",
         "collaborator": "Collaborateur",
         "mfa_authenticator": "Authentificateur MFA"
+    },
+    "localization_pop": {
+        "title": "Localisation",
+        "dics": "Exploitez la localisation Taggbox pour traduire instantanément votre widget dans n'importe quelle langue. Parlez directement aux utilisateurs dans leur langue maternelle afin de maximiser votre portée et votre impact à l’échelle mondiale."
     }
 }

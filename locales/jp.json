@@ -3636,5 +3636,9 @@
         "social_accounts": "ソーシャルアカウント",
         "collaborator": "コラボレーター",
         "mfa_authenticator": "MFA認証"
+    },
+    "localization_pop": {
+        "title": "ローカリゼーション",
+        "dics": "Taggboxのローカリゼーション機能を活用して、ウィジェットを即座に任意の言語に翻訳します。ユーザーの母国語で直接話しかけ、グローバルなリーチと影響力を最大化しましょう。"
     }
 }

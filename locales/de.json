@@ -3636,5 +3636,9 @@
         "social_accounts": "Soziale Konten",
         "collaborator": "Mitarbeiter",
         "mfa_authenticator": "MFA Authentifikator"
+    },
+    "localization_pop": {
+        "title": "Lokalisierung",
+        "dics": "Nutzen Sie die Taggbox-Lokalisierung, um Ihr Widget sofort in jede Sprache zu übersetzen. Sprechen Sie Benutzer direkt in ihrer Muttersprache an, um Ihre globale Reichweite und Wirkung zu maximieren."
     }
 }
