@@ -161,33 +161,21 @@
             {
                 "value": "Venues",
                 "label": "Venues"
+            },
+            {
+                "value": "Others",
+                "label": "Others"
             }
         ],
-        "designation_list": [
-            {
-                "label": "CEO",
-                "value": "CEO"
-            },
-            {
-                "label": "Developer",
-                "value": "Developer"
-            },
-            {
-                "label": "Digital Marketing Manager",
-                "value": "Digital Marketing Manager"
-            },
-            {
-                "label": "Social Media Manager",
-                "value": "Social Media Manager"
-            },
-            {
-                "label": "Product Manager",
-                "value": "Product Manager"
-            },
-            {
-                "label": "Others",
-                "value": "Others"
-            }
+          "designation_list": [
+            { "label": "CEO", "value": "CEO" },
+            { "label": "Marketing Manager", "value": "Marketing Manager" },
+            { "label": "Social Media Manager", "value": "Social Media Manager" },
+            { "label": "Ecommerce Marketing Manager", "value": "Ecommerce Marketing Manager" },
+            { "label": "Developer", "value": "Developer" },
+            { "label": "Designer", "value": "Designer" },
+            { "label": "Product Manager", "value": "Product Manager" },
+            { "label": "Others", "value": "Others" }
         ]
     },
     "plan": {
@@ -1861,10 +1849,12 @@
         "getting_started_link": "We’ll guide you.",
         "title": "Let's Personalize Your #{{COMPANY_NAME}} Journey!",
         "industry_label": "Choose your Industry:",
+        "designation_label": "Choose your Designation:",
         "phone_label": "Phone No.",
         "submit_button": "Submit",
         "skip_button": "I'll do this later",
-        "other_industries": "Enter your industry"
+        "other_industries": "Enter your industry",
+        "other_designation": "Enter your Designation"
     },
     "header": {
         "profile_link": "Profile",
@@ -3658,7 +3648,7 @@
         "timeZone": "Time Zone",
         "sheduleTime": "Schedule Date & Time",
         "uploadMedia": "Upload Media",
-        "uploadMediaMsg": "Video size: Max 100MB Duration 01min | Image size: Max 50 MB",
+        "uploadMediaMsg": "Video size: Max 100MB Duration: 1min | Image size: Max 20 MB",
         "generate": "Generate",
         "reGenerate": "Re Generate",
         "postPreview": "Post Preview",
@@ -3670,7 +3660,7 @@
         "emt_msg": "No Posts Available",
         "emt_desc": "Looks like there is no feed created or this feed has no posts to publish.",
         "emt_button": "Create Feed",
-        "aiPromptPlaceholder": "Describe what your caption should be about",
+        "aiPromptPlaceholder": "Describe what your caption should be about  (at least 3 words)",
         "captionPlaceholder": "Enter post caption",
         "btn_add": "Add Channel",
         "deleteMsg": "Selected item will be deleted permanently.",

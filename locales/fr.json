@@ -161,33 +161,21 @@
             {
                 "value": "Venues",
                 "label": "Venues"
+            },
+            {
+                "value": "Others",
+                "label": "Others"
             }
         ],
         "designation_list": [
-            {
-                "label": "CEO",
-                "value": "CEO"
-            },
-            {
-                "label": "Developer",
-                "value": "Developer"
-            },
-            {
-                "label": "Digital Marketing Manager",
-                "value": "Digital Marketing Manager"
-            },
-            {
-                "label": "Social Media Manager",
-                "value": "Social Media Manager"
-            },
-            {
-                "label": "Product Manager",
-                "value": "Product Manager"
-            },
-            {
-                "label": "Others",
-                "value": "Others"
-            }
+            { "label": "PDG", "value": "CEO" },
+            { "label": "Responsable marketing", "value": "Marketing Manager" },
+            { "label": "Responsable des médias sociaux", "value": "Social Media Manager" },
+            { "label": "Responsable marketing e-commerce", "value": "Ecommerce Marketing Manager" },
+            { "label": "Développeur", "value": "Developer" },
+            { "label": "Concepteur", "value": "Designer" },
+            { "label": "Chef de produit", "value": "Product Manager" },
+            { "label": "Autres", "value": "Others" }
         ]
     },
     "plan": {
@@ -1861,10 +1849,12 @@
         "getting_started_link": "Nous vous guiderons.",
         "title": "Personnalisons votre parcours #{{COMPANY_NAME}} !",
         "industry_label": "Choisissez votre secteur :",
+        "designation_label": "Choisissez votre poste :",
         "phone_label": "Numéro de téléphone",
         "submit_button": "Soumettre",
         "skip_button": "Je le ferai plus tard",
-        "other_industries": "Saisissez votre secteur"
+        "other_industries": "Saisissez votre secteur",
+        "other_designation": "Entrez votre poste"
     },
     "header": {
         "profile_link": "Profil",
@@ -3658,7 +3648,7 @@
         "timeZone": "Fuseau horaire",
         "sheduleTime": "Date et heure planifiées",
         "uploadMedia": "Téléverser un média",
-        "uploadMediaMsg": "Taille vidéo : max 100 Mo, durée 1 min | Taille image : max 50 Mo",
+        "uploadMediaMsg": "Taille vidéo : max 100 Mo, durée 1 min | Taille image : max 20 Mo",
         "generate": "Générer",
         "reGenerate": "Régénérer",
         "postPreview": "Aperçu du post",

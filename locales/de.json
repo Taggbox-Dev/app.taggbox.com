@@ -161,33 +161,21 @@
             {
                 "value": "Venues",
                 "label": "Veranstaltungsorte"
+            },
+            {
+                "value": "Others",
+                "label": "Others"
             }
         ],
         "designation_list": [
-            {
-                "label": "Geschäftsführer",
-                "value": "CEO"
-            },
-            {
-                "label": "Entwickler",
-                "value": "Developer"
-            },
-            {
-                "label": "Manager für digitales Marketing",
-                "value": "Digital Marketing Manager"
-            },
-            {
-                "label": "Social-Media-Manager",
-                "value": "Social Media Manager"
-            },
-            {
-                "label": "Produktmanager",
-                "value": "Product Manager"
-            },
-            {
-                "label": "Andere",
-                "value": "Others"
-            }
+            { "label": "Geschäftsführer", "value": "CEO" },
+            { "label": "Marketingmanager", "value": "Marketing Manager" },
+            { "label": "Social-Media-Manager", "value": "Social Media Manager" },
+            { "label": "E-Commerce-Marketingmanager", "value": "Ecommerce Marketing Manager" },
+            { "label": "Entwickler", "value": "Developer" },
+            { "label": "Designer", "value": "Designer" },
+            { "label": "Produktmanager", "value": "Product Manager" },
+            { "label": "Andere", "value": "Others" }
         ]
     },
     "plan": {
@@ -1861,10 +1849,12 @@
         "getting_started_link": "Wir führen Sie.",
         "title": "Lassen Sie uns Ihre #{{COMPANY_NAME}} Reise personalisieren!",
         "industry_label": "Wählen Sie Ihre Branche:",
+        "designation_label": "Wählen Sie Ihre Berufsbezeichnung:",
         "phone_label": "Telefonnummer",
         "submit_button": "Absenden",
         "skip_button": "Ich mache das später",
-        "other_industries": "Geben Sie Ihre Branche ein"
+        "other_industries": "Geben Sie Ihre Branche ein",
+        "other_designation": "Geben Sie Ihre Berufsbezeichnung ein"
     },
     "header": {
         "profile_link": "Profil",
@@ -3658,7 +3648,7 @@
         "timeZone": "Zeitzone",
         "sheduleTime": "Geplanter Termin & Uhrzeit",
         "uploadMedia": "Medien hochladen",
-        "uploadMediaMsg": "Videogröße: max. 100 MB, Dauer 1 Min. | Bildgröße: max. 50 MB",
+        "uploadMediaMsg": "Videogröße: max. 100 MB, Dauer 1 Min. | Bildgröße: max. 20 MB",
         "generate": "Generieren",
         "reGenerate": "Neu generieren",
         "postPreview": "Beitragsvorschau",

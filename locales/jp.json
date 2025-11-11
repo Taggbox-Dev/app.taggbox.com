@@ -161,33 +161,21 @@
             {
                 "label": "Venues",
                 "value": "会場"
-            }
-        ],
-        "designation_list": [
-            {
-                "label": "社長",
-                "value": "CEO"
-            },
-            {
-                "value": "Developer",
-                "label": "開発者"
-            },
-            {
-                "value": "Digital Marketing Manager",
-                "label": "デジタルマーケティングマネージャー"
-            },
-            {
-                "value": "Social Media Manager",
-                "label": "ソーシャルメディアマネージャー"
-            },
-            {
-                "value": "Product Manager",
-                "label": "プロダクトマネージャー"
             },
             {
                 "value": "Others",
-                "label": "その他"
+                "label": "Others"
             }
+        ],
+        "designation_list": [
+            { "label": "最高経営責任者 (CEO)", "value": "CEO" },
+            { "label": "マーケティングマネージャー", "value": "Marketing Manager" },
+            { "label": "ソーシャルメディアマネージャー", "value": "Social Media Manager" },
+            { "label": "Eコマースマーケティングマネージャー", "value": "Ecommerce Marketing Manager" },
+            { "label": "開発者", "value": "Developer" },
+            { "label": "デザイナー", "value": "Designer" },
+            { "label": "プロダクトマネージャー", "value": "Product Manager" },
+            { "label": "その他", "value": "Others" }
         ]
     },
     "plan": {
@@ -1861,10 +1849,12 @@
         "getting_started_link": "私たちが案内します。",
         "title": "#{{COMPANY_NAME}}の体験をパーソナライズしましょう！",
         "industry_label": "業界を選択してください：",
+        "designation_label": "職種を選択してください:",
         "phone_label": "電話番号",
         "submit_button": "送信",
         "skip_button": "後で行う",
-        "other_industries": "業界を入力してください"
+        "other_industries": "業界を入力してください",
+        "other_designation": "職種を入力してください"
     },
     "header": {
         "profile_link": "プロフィール",
@@ -3658,7 +3648,7 @@
         "timeZone": "タイムゾーン",
         "sheduleTime": "予約日時",
         "uploadMedia": "メディアをアップロード",
-        "uploadMediaMsg": "動画サイズ：最大100MB（1分以内）｜画像サイズ：最大50MB",
+        "uploadMediaMsg": "動画サイズ：最大100MB（1分以内）｜画像サイズ：最大20MB",
         "generate": "生成",
         "reGenerate": "再生成",
         "postPreview": "投稿プレビュー",
