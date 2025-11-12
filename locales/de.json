@@ -3688,5 +3688,14 @@
     "localization_pop": {
         "title": "Lokalisierung",
         "dics": "Nutzen Sie die Taggbox-Lokalisierung, um Ihr Widget sofort in jede Sprache zu übersetzen. Sprechen Sie Benutzer direkt in ihrer Muttersprache an, um Ihre globale Reichweite und Wirkung zu maximieren."
-    }
+    },
+    "postScheduler_pop": {
+    "title": "Möchten Sie mehr UGC in sozialen Medien veröffentlichen?",
+    "dics": "🎉 Gute Nachrichten! Ihr UGC erzielt großartige Ergebnisse. Bereit, weiter zu wachsen und noch mehr Publikum zu erreichen?"
+},
+"wel_schedular_modal": {
+    "title": "Plane jetzt UGC in sozialen Medien",
+    "dics": "Plane und terminiere deine nutzergenerierten Inhalte auf allen sozialen Medien, um dein Publikum zur perfekten Zeit zu erreichen.",
+    "btn": "Jetzt planen"
+}
 }
