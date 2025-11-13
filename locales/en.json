@@ -3690,6 +3690,11 @@
         "title": "Localization",
         "dics": "Leverage Taggbox localization to instantly translate your widget into any language. Speak directly to users in their native tongue to maximize global reach and impact."
     },
+    "mfa_upgrade": {
+        "heading": "Upgrade for MFA!",
+        "message": "Please contact our sales team to enable this advanced security feature for your organization.",
+        "button": "Talk to Sales"
+    },
     "postScheduler_pop": {
         "title": "Want to publish more UGC on social media?",
         "dics": "🎉 Great news! Your UGC is performing amazingly well. Ready to scale up and reach even more audiences?"
