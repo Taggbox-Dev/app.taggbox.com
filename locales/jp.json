@@ -1568,6 +1568,7 @@
             "28": "キーワードを入力",
             "78": "URLを入力 - https://www.tripadvisor.co.za/Restaurant_Review-g196538-d1082778-Reviews.....",
             "80": "URLを入力 - https://www.tripadvisor.co.za/Hotel_Review-g2539271-d4428120-Reviews....",
+            "90": "URLを入力 - https://www.tripadvisor.co.uk/VacationRentalReview-g609059-d21...",
             "default": "#{{feedType}}を入力"
         },
         "hashtagCaption": "キャプション内にハッシュタグを含む投稿のみを取得します。",
