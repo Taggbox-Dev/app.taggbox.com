@@ -3664,7 +3664,7 @@
         "aiPromptPlaceholder": "Décrivez le sujet de votre légende",
         "captionPlaceholder": "Entrez la légende du post",
         "aIcaptionPlaceholder": "Saisissez la légende du post IA",
-        "btn_add": "Ajouter un canal",
+        "btn_add": "Planifier maintenant",
         "deleteMsg": "L’élément sélectionné sera supprimé définitivement.",
         "tab": {
             "allChannels": "Tous les canaux",

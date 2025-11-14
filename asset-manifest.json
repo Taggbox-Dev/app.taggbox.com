@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b6908851.css",
-    "main.js": "/static/js/main.9957937e.js",
+    "main.css": "/static/css/main.574a2955.css",
+    "main.js": "/static/js/main.54351e43.js",
     "static/js/2992.474dd3d8.chunk.js": "/static/js/2992.474dd3d8.chunk.js",
     "static/js/3716.a907d168.chunk.js": "/static/js/3716.a907d168.chunk.js",
     "static/js/8295.6b2b529f.chunk.js": "/static/js/8295.6b2b529f.chunk.js",
@@ -34,7 +34,7 @@
     "static/js/262.5657420f.chunk.js": "/static/js/262.5657420f.chunk.js",
     "static/js/7521.b1defbbc.chunk.js": "/static/js/7521.b1defbbc.chunk.js",
     "static/css/7457.971dc33c.chunk.css": "/static/css/7457.971dc33c.chunk.css",
-    "static/js/7457.b0ddc694.chunk.js": "/static/js/7457.b0ddc694.chunk.js",
+    "static/js/7457.6885ec94.chunk.js": "/static/js/7457.6885ec94.chunk.js",
     "static/js/7290.262b07cc.chunk.js": "/static/js/7290.262b07cc.chunk.js",
     "static/js/5856.de7097d3.chunk.js": "/static/js/5856.de7097d3.chunk.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.e6d8a34c.chunk.js",
@@ -81,7 +81,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.b6908851.css",
-    "static/js/main.9957937e.js"
+    "static/css/main.574a2955.css",
+    "static/js/main.54351e43.js"
   ]
 }

@@ -3664,7 +3664,7 @@
         "aiPromptPlaceholder": "キャプションの内容を説明してください",
         "aIcaptionPlaceholder": "AI投稿のキャプションを入力してください",
         "captionPlaceholder": "投稿キャプションを入力",
-        "btn_add": "チャンネルを追加",
+        "btn_add": "今すぐスケジュール",
         "deleteMsg": "選択した項目は完全に削除されます。",
         "tab": {
             "allChannels": "すべてのチャンネル",

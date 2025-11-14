@@ -3664,7 +3664,7 @@
         "aiPromptPlaceholder": "Describe what your caption should be about  (at least 3 words)",
         "captionPlaceholder": "Enter post caption",
         "aIcaptionPlaceholder": "Enter AI post caption",
-        "btn_add": "Add Channel",
+        "btn_add": "Schedule Now",
         "deleteMsg": "Selected item will be deleted permanently.",
         "tab": {
             "allChannels": "All Channels",
