@@ -3658,11 +3658,12 @@
         "msg_3": "Please Select Account",
         "msg_4": "You can select only max 10 posts",
         "msg_5": "Please enter post caption",
-        "emt_msg": "No Posts Available",
+        "emt_msg": "No Posts Scheduled",
         "emt_desc": "Looks like there is no feed created or this feed has no posts to publish.",
         "emt_button": "Create Feed",
         "aiPromptPlaceholder": "Describe what your caption should be about  (at least 3 words)",
         "captionPlaceholder": "Enter post caption",
+        "aIcaptionPlaceholder": "Enter AI post caption",
         "btn_add": "Add Channel",
         "deleteMsg": "Selected item will be deleted permanently.",
         "tab": {
