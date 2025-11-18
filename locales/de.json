@@ -3642,7 +3642,7 @@
         "schedulePost": "Beitrag planen",
         "saveDraft": "Entwurf speichern",
         "fromApp": "Aus Galerie",
-        "selectPost": "Wähle ein Beitragsbild zur Veröffentlichung in sozialen Medien",
+        "selectPost": "Wählen Sie die Beiträge aus, die Sie auf Ihren Social-Media-Konten veröffentlichen möchten.",
         "postMedia": "Beitragsmedien",
         "title": "Soziale Veröffentlichung",
         "writeWithAI": "Mit KI schreiben",
@@ -3651,7 +3651,7 @@
         "uploadMedia": "Medien hochladen",
         "uploadMediaMsg": "Videogröße: max. 100 MB, Dauer 1 Min. | Bildgröße: max. 20 MB",
         "generate": "Generieren",
-        "reGenerate": "Neu generieren",
+        "reGenerate": "Einfügen",
         "postPreview": "Beitragsvorschau",
         "msg_1": "Ihre aktuellen Beitragsauswahlen gehen verloren, wenn Sie die Galerie ändern.",
         "msg_2": "Bitte Beitrag auswählen",
@@ -3675,7 +3675,7 @@
         },
         "content": {
             "tableHead": [
-                "Beitragsvorschau",
+                "Medien",
                 "Status",
                 "Quelle",
                 "Erstellungsdatum",

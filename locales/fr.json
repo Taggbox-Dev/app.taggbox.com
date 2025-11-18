@@ -3642,7 +3642,7 @@
         "schedulePost": "Planifier la publication",
         "saveDraft": "Enregistrer le brouillon",
         "fromApp": "Depuis la galerie",
-        "selectPost": "Sélectionnez une image à publier sur les réseaux sociaux",
+        "selectPost": "Choisissez les publications que vous souhaitez publier sur vos comptes de réseaux sociaux.",
         "postMedia": "Média du post",
         "title": "Publication sociale",
         "writeWithAI": "Écrire avec l’IA",
@@ -3651,7 +3651,7 @@
         "uploadMedia": "Téléverser un média",
         "uploadMediaMsg": "Taille vidéo : max 100 Mo, durée 1 min | Taille image : max 20 Mo",
         "generate": "Générer",
-        "reGenerate": "Régénérer",
+        "reGenerate": "Insérer",
         "postPreview": "Aperçu du post",
         "msg_1": "Vos sélections actuelles seront perdues si vous changez de galerie.",
         "msg_2": "Veuillez sélectionner un post",
@@ -3675,7 +3675,7 @@
         },
         "content": {
             "tableHead": [
-                "Aperçu du post",
+                "Médias",
                 "Statut",
                 "Source",
                 "Date de création",
