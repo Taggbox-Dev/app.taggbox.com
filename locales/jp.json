@@ -575,6 +575,9 @@
         "skip": "スキップ",
         "step_select_source": "ソースを選択",
         "intro_welcome": "#{{company}}へようこそ！ウェブサイトにソーシャルメディアフィードを表示するという素晴らしい決断をされました。",
+        "collection": "コレクション",
+        "aggregation": "集計",
+        "customise_form": "フォームのカスタマイズ",
         "toggle_show_less": "ネットワークを少なく表示",
         "toggle_show_all": "すべてのネットワークを見るにはここをクリック",
         "step": "ステップ #{{step}}",
@@ -3683,7 +3686,8 @@
             ],
             "scheduleFor": "予約日時",
             "rename": "編集",
-            "delete": "削除"
+            "delete": "削除",
+            "view": "表示"
         },
         "three_word_error": "少なくとも3語を入力してください。"
     },

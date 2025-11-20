@@ -575,6 +575,9 @@
         "skip": "Passer",
         "step_select_source": "Sélectionner la source",
         "intro_welcome": "Bienvenue sur #{{company}} ! Vous avez pris une excellente décision en affichant les flux des réseaux sociaux sur votre site web.",
+        "collection": "Collection",
+        "aggregation": "Agrégation",
+        "customise_form": "Personnalisez votre formulaire",
         "toggle_show_less": "Afficher moins de réseaux",
         "toggle_show_all": "Cliquez ici pour voir tous les réseaux",
         "step": "Étape #{{step}}",
@@ -3683,7 +3686,8 @@
             ],
             "scheduleFor": "Planifié pour",
             "rename": "Modifier",
-            "delete": "Supprimer"
+            "delete": "Supprimer",
+            "view": "Vue"
         },
         "three_word_error": "Veuillez entrer au moins 3 mots."
     },
