@@ -675,6 +675,9 @@
             ],
             "38": [
                 "Entrez l’URL de l’hôtel sur Booking.com et choisissez les meilleurs avis."
+            ],
+            "47": [
+                "Continuez et sélectionnez une option pour entrer les détails."
             ]
         },
         "feedCreationBtnMsg": {
@@ -700,7 +703,8 @@
             "35": "Vous êtes prêt à continuer. Cliquez sur \"Suivant\" pour voir l’aperçu et explorer d’autres options.",
             "36": "Vous êtes prêt à continuer. Cliquez sur \"Suivant\" pour voir l’aperçu et explorer d’autres options.",
             "37": "Parfait. Vous êtes prêt à démarrer. Cliquez sur Suivant pour voir l’aperçu et les autres options.",
-            "38": "Parfait. Vous êtes prêt à démarrer. Cliquez sur Suivant pour voir l’aperçu et les autres options."
+            "38": "Parfait. Vous êtes prêt à démarrer. Cliquez sur Suivant pour voir l’aperçu et les autres options.",
+            "47": "Très bien. Vous êtes prêt à partir. Cliquez sur suivant pour voir l'aperçu et d'autres options."
         },
         "filterMsg": {
             "1": {
@@ -794,7 +798,8 @@
             },
             "36": null,
             "37": null,
-            "38": null
+            "38": null,
+            "47": null
         },
         "verificationEmail": {
             "signOut": "Se Déconnecter",
@@ -898,6 +903,10 @@
             "38": {
                 "msg": "Booking !! C’est un bon choix.",
                 "btnText": "Cliquez sur Suivant pour sélectionner ce que vous souhaitez que je collecte depuis Booking."
+            },
+            "47": {
+                "msg": "Reddit !! C'est un bon choix.",
+                "btnText": "Cliquez sur suivant pour choisir ce que vous souhaitez que je collecte sur Reddit"
             }
         }
     },
@@ -1541,7 +1550,8 @@
             "37": "Aliexpress",
             "38": "Booking",
             "45": "Bluesky",
-            "46": "Threads"
+            "46": "Threads",
+            "47": "Reddit"
         },
         "alert_msg": {
             "26": "Instagram n'autorise que les publications des dernières 24 heures. S'il n'y a pas de publications récentes dans les dernières 24 heures, alors les 50 meilleures publications seront agrégées. De plus, toutes vos prochaines publications seront agrégées. Les publications collectées via hashtags n’incluront aucune information sur l'utilisateur.",
