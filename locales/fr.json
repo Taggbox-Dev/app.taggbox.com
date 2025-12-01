@@ -3699,7 +3699,9 @@
             "delete": "Supprimer",
             "view": "Vue"
         },
-        "three_word_error": "Veuillez entrer au moins 3 mots."
+        "three_word_error": "Veuillez entrer au moins 3 mots.",
+        "get_rights": "Obtenir les droits",
+        "get_rights_msg": "Nous recommandons d’obtenir les droits d’utilisation avant de publier tout contenu utilisateur."
     },
     "localization_pop": {
         "title": "Localisation",

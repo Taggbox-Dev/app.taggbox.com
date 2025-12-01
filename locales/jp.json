@@ -3699,7 +3699,9 @@
             "delete": "削除",
             "view": "表示"
         },
-        "three_word_error": "少なくとも3語を入力してください。"
+        "three_word_error": "少なくとも3語を入力してください。",
+        "get_rights": "権利を取得する",
+        "get_rights_msg": "ユーザーコンテンツを公開する前に、使用権を取得することをおすすめします。"
     },
     "localization_pop": {
         "title": "ローカリゼーション",
