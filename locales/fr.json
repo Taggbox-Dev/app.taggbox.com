@@ -1422,7 +1422,7 @@
             "3": {
                 "type": "feed",
                 "title": "Vous avez dépassé la limite de flux de votre plan",
-                "desc": "Vous avez ajouté #{{added}}, mais votre plan actuel ne permet que #{{allowed}}. Pour continuer à utiliser Taggbox sans interruption, veuillez mettre à niveau votre plan.",
+                "desc": "Vous avez ajouté #{{added}}, mais votre plan actuel ne permet que #{{allowed}}. Pour continuer à utiliser #{{company_name}} sans interruption, veuillez mettre à niveau votre plan.",
                 "accordionTitle": "Préférez gérer manuellement ?",
                 "accordionDesc": "Pour rester dans les limites de votre plan, vous pouvez supprimer les flux supplémentaires ci-dessous."
             },
@@ -2598,7 +2598,7 @@
             }
         },
         "api_access_title": "Accès API",
-        "api_access_desc": "Obtenez l'accès API avec notre plan amélioré pour intégrer la galerie Taggbox dans votre application et faire ressortir votre app.",
+        "api_access_desc": "Obtenez l'accès API avec notre plan amélioré pour intégrer la galerie #{{company_name}} dans votre application et faire ressortir votre app.",
         "talk_to_sales": "Parler aux ventes",
         "features": [
             {
@@ -3705,7 +3705,7 @@
     },
     "localization_pop": {
         "title": "Localisation",
-        "dics": "Exploitez la localisation Taggbox pour traduire instantanément votre widget dans n'importe quelle langue. Parlez directement aux utilisateurs dans leur langue maternelle afin de maximiser votre portée et votre impact à l’échelle mondiale."
+        "dics": "Exploitez la localisation #{{company_name}} pour traduire instantanément votre widget dans n'importe quelle langue. Parlez directement aux utilisateurs dans leur langue maternelle afin de maximiser votre portée et votre impact à l’échelle mondiale."
     },
     "mfa_upgrade": {
         "heading": "Mise à niveau pour MFA !",

@@ -1422,7 +1422,7 @@
             "3": {
                 "type": "feed",
                 "title": "You've Exceeded Your Plan's Feed Limit",
-                "desc": "You've added #{{added}}, but your current plan allows only #{{allowed}}. To keep using Taggbox without interruptions, please upgrade your plan.",
+                "desc": "You've added #{{added}}, but your current plan allows only #{{allowed}}. To keep using #{{company_name}} without interruptions, please upgrade your plan.",
                 "accordionTitle": "Prefer to Manage It Manually?",
                 "accordionDesc": "To stay within your plan's limits, you can remove the extra feed(s) below."
             },
@@ -2598,7 +2598,7 @@
             }
         },
         "api_access_title": "API Access",
-        "api_access_desc": "Get API access with our upgraded plan to integrate Taggbox gallery in your application and make your app stand out.",
+        "api_access_desc": "Get API access with our upgraded plan to integrate #{{company_name}} gallery in your application and make your app stand out.",
         "talk_to_sales": "Talk to Sales",
         "features": [
             {
@@ -3705,7 +3705,7 @@
     },
     "localization_pop": {
         "title": "Localization",
-        "dics": "Leverage Taggbox localization to instantly translate your widget into any language. Speak directly to users in their native tongue to maximize global reach and impact."
+        "dics": "Leverage ${{company_name}} localization to instantly translate your widget into any language. Speak directly to users in their native tongue to maximize global reach and impact."
     },
     "mfa_upgrade": {
         "heading": "Upgrade for MFA!",
