@@ -3675,7 +3675,7 @@
         "emt_desc": "フィードが作成されていないか、このフィードには投稿がありません。",
         "emt_button": "フィードを作成",
         "aiPromptPlaceholder": "キャプションの内容を説明してください",
-        "aIcaptionPlaceholder": "AI投稿のキャプションを入力してください",
+        "aIcaptionPlaceholder": "AI投稿のキャプションを入力してください（3語以上）",
         "captionPlaceholder": "投稿キャプションを入力",
         "btn_add": "今すぐスケジュール",
         "deleteMsg": "選択した項目は完全に削除されます。",

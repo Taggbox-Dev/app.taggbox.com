@@ -3675,7 +3675,7 @@
         "emt_desc": "Es scheint, dass kein Feed erstellt wurde oder dieser Feed keine Beiträge zum Veröffentlichen enthält.",
         "emt_button": "Feed erstellen",
         "aiPromptPlaceholder": "Beschreiben Sie, worum es in Ihrer Beschriftung gehen soll",
-        "aIcaptionPlaceholder": "Geben Sie die KI-Postbeschriftung ein",
+        "aIcaptionPlaceholder": "Geben Sie die KI-Beitragsbeschriftung ein (mindestens 3 Wörter)",
         "captionPlaceholder": "Beitragsunterschrift eingeben",
         "btn_add": "Jetzt planen",
         "deleteMsg": "Das ausgewählte Element wird dauerhaft gelöscht.",

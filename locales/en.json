@@ -3676,8 +3676,8 @@
         "emt_button": "Create Feed",
         "aiPromptPlaceholder": "Describe what your caption should be about  (at least 3 words)",
         "captionPlaceholder": "Enter post caption",
-        "aIcaptionPlaceholder": "Enter AI post caption",
-        "btn_add": "Schedule Now",
+        "aIcaptionPlaceholder": "Enter AI post caption (at least 3 words)",
+        "btn_add": "Add Channel",
         "deleteMsg": "Selected item will be deleted permanently.",
         "tab": {
             "allChannels": "All Channels",

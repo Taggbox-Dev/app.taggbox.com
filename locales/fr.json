@@ -3676,8 +3676,8 @@
         "emt_button": "Créer un flux",
         "aiPromptPlaceholder": "Décrivez le sujet de votre légende",
         "captionPlaceholder": "Entrez la légende du post",
-        "aIcaptionPlaceholder": "Saisissez la légende du post IA",
-        "btn_add": "Planifier maintenant",
+        "aIcaptionPlaceholder": "Saisissez la légende du post IA (au moins 3 mots)",
+        "btn_add": "Ajouter un canal",
         "deleteMsg": "L’élément sélectionné sera supprimé définitivement.",
         "tab": {
             "allChannels": "Tous les canaux",
