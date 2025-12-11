@@ -3550,12 +3550,10 @@
                     "1": "Copy the Website ID.",
                     "2": "Go to Customize (Online Store → Customize).",
                     "3": "Click on Add Section.",
-                    "4": "Select Show More and then add {COMPANY_NAME}: Shoppable Instagram.",
+                    "4": "Select Show More and go to Apps choose Add Instagram Feed.",
                     "5": "Paste the Website ID and click Save.",
                     "6": "Drag and position the Section as needed using the left-side panel.",
-                    "7": "If your theme doesn’t support sections, use the Custom Code or Auto Installation Options.",
-                    "8": "You can also edit the Title & Sub-title of your Shoppable gallery.",
-                    "9": "For detailed instructions, check the Installation Video."
+                    "7": "If your theme doesn’t support sections, use the Custom Code or Auto Installation Options."
                 }
             },
             "msg": {
@@ -3720,5 +3718,10 @@
         "title":"Now Schedule UGC on Social Media",
         "dics":"Plan and schedule your user-generated content across all social media platforms. Reach your audience at the perfect time.",
         "btn":"Start Scheduling"
+    },
+    "shopify_modal":{
+        "title":"New Update: UI Refresh + Shoppable Widgets Now Live",
+        "dics":"We’ve upgraded your Shopify plugin with a cleaner, more user-friendly interface and added features. Plus, you can now use shoppable widgets to tag products and convert customer trust into sales.",
+        "btn":"Explore Now"
     }
 }

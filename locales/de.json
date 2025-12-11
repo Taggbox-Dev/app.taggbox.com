@@ -3550,12 +3550,10 @@
                     "1": "Website-ID kopieren",
                     "2": "Gehe zu Anpassen (Online Store → Anpassen)",
                     "3": "Klicken Sie auf Abschnitt hinzufügen",
-                    "4": "Wählen Sie Mehr anzeigen und fügen Sie dann #{{COMPANY_NAME}}: Shoppable Instagram hinzu",
+                    "4": "Wähle „Mehr anzeigen“ aus und gehe zu „Apps“. Wähle dann „Instagram-Feed hinzufügen“.",
                     "5": "Fügen Sie die Website-ID ein und klicken Sie auf Speichern",
                     "6": "Ziehen Sie den Abschnitt nach Bedarf mithilfe des linken Panels",
-                    "7": "Wenn Ihr Theme keine Abschnitte unterstützt, verwenden Sie die Custom Code- oder Auto Installation-Optionen",
-                    "8": "Sie können auch den Titel und Untertitel Ihrer Shoppable-Galerie bearbeiten",
-                    "9": "Für detaillierte Anweisungen sehen Sie sich das Installationsvideo an"
+                    "7": "Wenn Ihr Theme keine Abschnitte unterstützt, verwenden Sie die Custom Code- oder Auto Installation-Optionen"
                 }
             },
             "msg": {
@@ -3720,5 +3718,10 @@
         "title": "Plane jetzt UGC in sozialen Medien",
         "dics": "Plane und terminiere deine nutzergenerierten Inhalte auf allen sozialen Medien, um dein Publikum zur perfekten Zeit zu erreichen.",
         "btn": "Jetzt planen"
+    },
+    "shopify_modal": {
+        "title": "Neues Update: UI-Überarbeitung + Shoppable Widgets jetzt verfügbar",
+        "dics": "Wir haben Ihr Shopify-Plugin mit einer saubereren, benutzerfreundlicheren Oberfläche und neuen Funktionen aktualisiert. Zudem können Sie jetzt shoppable Widgets nutzen, um Produkte zu markieren und Kundenvertrauen in Umsätze umzuwandeln.",
+        "btn": "Jetzt erkunden"
     }
 }
