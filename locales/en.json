@@ -1891,7 +1891,7 @@
         "payment_failed_message": "🚨Payment failed! Update your billing info to keep your widget live.",
         "payment_incomplete_button": "Pay Now",
         "payment_failed_button": "Update Now",
-        "offer_strip": "⏰ Hurry! Up to 40% OFF Yearly Plans – Sale Ends in :",
+        "offer_strip": "🎄 Upto 40% off this Holiday Season. Plans start at ",
         "grab_it_now": "Grab it now"
     },
     "common": {
@@ -3671,6 +3671,8 @@
         "msg_5": "Please enter post caption",
         "emt_msg": "No Posts Scheduled",
         "emt_desc": "Looks like there is no feed created or this feed has no posts to publish.",
+        "emt_media_msg": "No Posts available to Schedule",
+        "emt_media_desc": "Looks like your feed has only text posts. Add photos or videos to get started.",
         "emt_button": "Create Feed",
         "aiPromptPlaceholder": "Describe what your caption should be about  (at least 3 words)",
         "captionPlaceholder": "Enter post caption",

@@ -1891,7 +1891,7 @@
         "payment_failed_message": "🚨 Paiement échoué ! Mettez à jour vos informations de facturation pour garder votre widget actif.",
         "payment_incomplete_button": "Payer maintenant",
         "payment_failed_button": "Mettre à jour maintenant",
-        "offer_strip": "⏰ Dépêchez-vous ! Jusqu’à 40 % de RÉDUCTION sur les abonnements annuels – L’offre se termine dans :",
+        "offer_strip": "🎄 Jusqu'à 40% de réduction cette saison des fêtes. Les forfaits commencent à ",
         "grab_it_now": "Profitez-en maintenant"
     },
     "common": {
@@ -3671,6 +3671,8 @@
         "msg_5": "Veuillez entrer une légende pour le post",
         "emt_msg": "Aucune publication prévue",
         "emt_desc": "Il semble qu’aucun flux n’ait été créé ou que ce flux ne contienne aucun post à publier.",
+        "emt_media_msg": "Aucune publication disponible à planifier",
+        "emt_media_desc": "Il smble que votre flux ne contienne que des publications textuelles. Ajoutez des photos ou des vidéos pour commencer.",
         "emt_button": "Créer un flux",
         "aiPromptPlaceholder": "Décrivez le sujet de votre légende",
         "captionPlaceholder": "Entrez la légende du post",
