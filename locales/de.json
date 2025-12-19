@@ -575,8 +575,8 @@
         "skip": "Überspringen",
         "step_select_source": "Quelle auswählen",
         "intro_welcome": "Willkommen bei #{{company}}! Sie haben eine großartige Entscheidung getroffen, Social-Media-Feeds auf Ihrer Website anzuzeigen.",
-        "collection": "Sammlung",
-        "aggregation": "Aggregation",
+        "collection": "Bewertungssammlung",
+        "aggregation": "Soziale Aggregation",
         "customise_form": "Passen Sie Ihr Formular an",
         "toggle_show_less": "Weniger Netzwerke anzeigen",
         "toggle_show_all": "Hier klicken, um alle Netzwerke zu sehen",
@@ -606,6 +606,15 @@
         "feed_success": "Ihr Feed wurde erfolgreich erstellt!",
         "feed_collected": "#{{post_count}} #{{count_msg}} gesammelt. Vorschau rechts prüfen",
         "feed_next_options": "Sehen Sie, was Sie mit Ihrer Sammlung noch tun können, indem Sie die nächsten Optionen prüfen.",
+        "review_adv_settings": "Erweiterte Einstellungen",
+        "review_text_1": "Großartig! Das Sammeln von Bewertungen ist äußerst wichtig - sie stärken Vertrauen, steigern Conversion-Raten und verbessern die SEO.",
+        "review_text_2": "Lassen Sie uns Ihr Bewertungsformular an Ihr Branding anpassen oder es direkt auf Ihrer Website veröffentlichen.",
+        "review_text_3": "Ihr Formular ist bereit für die Veröffentlichung!",
+        "review_btn_text": "Klicken Sie auf die Schaltfläche 'Weiter', um Ihr Formular zu aktualisieren",
+        "social_network": "Social Media Aggregation",
+        "review_network": "Bewertungssammlung",
+        "review_btn": "Erweiterte Einstellungen",
+        "modify_form": "Formular bearbeiten",
         "connectedMsgs": {
             "1": [
                 "Wählen Sie eine Option aus der Liste unten, um fortzufahren."

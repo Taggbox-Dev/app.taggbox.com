@@ -575,8 +575,8 @@
         "skip": "Skip",
         "step_select_source": "Select Source",
         "intro_welcome": "Welcome to #{{company}}! You have made a great decision to display social media feeds on your website.",
-        "collection": "Collection",
-        "aggregation": "Aggregation",
+        "collection": "Review Collection",
+        "aggregation": "Social Aggregation",
         "customise_form": "Customize your Form",
         "toggle_show_less": "Show less networks",
         "toggle_show_all": "Click here to see all networks",
@@ -606,6 +606,15 @@
         "feed_success": "You have created your feed successfully!",
         "feed_collected": "#{{post_count}} #{{count_msg}} collected. Check preview on the right",
         "feed_next_options": "See what more you can do with your Collection by checking out the next options.",
+        "review_adv_settings": "Advanced Settings",
+        "review_text_1": "Great! Collecting reviews is super important they boost trust, conversions, and SEO.",
+        "review_text_2": "Let’s customize your review form to match your brand, or publish it directly on your website.",
+        "review_text_3": "Your form is ready to go live!",
+        "review_btn_text": "Click Next button to update your form",
+        "social_network": "Social Media Aggregation",
+        "review_network": "Review Collection",
+        "review_btn": "Advanced Settings",
+        "modify_form": "Modify Form",
         "connectedMsgs": {
             "1": [
                 "Select an option from the list below to move forward."

@@ -575,8 +575,8 @@
         "skip": "スキップ",
         "step_select_source": "ソースを選択",
         "intro_welcome": "#{{company}}へようこそ！ウェブサイトにソーシャルメディアフィードを表示するという素晴らしい決断をされました。",
-        "collection": "コレクション",
-        "aggregation": "集計",
+        "collection": "レビューコレクション",
+        "aggregation": "ソーシャル集約",
         "customise_form": "フォームのカスタマイズ",
         "toggle_show_less": "ネットワークを少なく表示",
         "toggle_show_all": "すべてのネットワークを見るにはここをクリック",
@@ -606,6 +606,15 @@
         "feed_success": "フィードを正常に作成しました！",
         "feed_collected": "#{{post_count}} 件の #{{count_msg}} を収集しました。右側でプレビューを確認してください",
         "feed_next_options": "次のオプションを確認して、コレクションでさらにできることを見てみましょう。",
+        "review_adv_settings": "詳細設定",
+        "review_text_1": "素晴らしい！レビュー収集は信頼性、コンバージョン、SEOを高める非常に重要な要素です。",
+        "review_text_2": "レビューフォームをブランドに合わせてカスタマイズするか、ウェブサイトに直接公開しましょう。",
+        "review_text_3": "フォームは公開準備完了です！",
+        "review_btn_text": "フォームを更新するには「次へ」ボタンをクリックしてください",
+        "social_network": "ソーシャルメディア集約",
+        "review_network": "レビュー収集",
+        "review_btn": "詳細設定",
+        "modify_form": "フォームを修正",
         "connectedMsgs": {
             "1": [
                 "先に進むには、以下のリストからオプションを選択してください。"

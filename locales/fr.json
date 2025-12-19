@@ -575,8 +575,8 @@
         "skip": "Passer",
         "step_select_source": "Sélectionner la source",
         "intro_welcome": "Bienvenue sur #{{company}} ! Vous avez pris une excellente décision en affichant les flux des réseaux sociaux sur votre site web.",
-        "collection": "Collection",
-        "aggregation": "Agrégation",
+        "collection": "Collection d’avis",
+        "aggregation": "Agrégation sociale",
         "customise_form": "Personnalisez votre formulaire",
         "toggle_show_less": "Afficher moins de réseaux",
         "toggle_show_all": "Cliquez ici pour voir tous les réseaux",
@@ -606,6 +606,15 @@
         "feed_success": "Vous avez créé votre flux avec succès !",
         "feed_collected": "#{{post_count}} #{{count_msg}} collectés. Vérifiez l’aperçu à droite",
         "feed_next_options": "Découvrez ce que vous pouvez faire de plus avec votre collection en vérifiant les options suivantes.",
+        "review_adv_settings": "Paramètres avancés",
+        "review_text_1": "Excellent ! La collecte d'avis est extrêmement importante - elle renforce la confiance, améliore les conversions et le SEO.",
+        "review_text_2": "Personnalisons votre formulaire d'avis pour qu'il corresponde à votre marque, ou publions-le directement sur votre site web.",
+        "review_text_3": "Votre formulaire est prêt à être publié !",
+        "review_btn_text": "Cliquez sur le bouton Suivant pour mettre à jour votre formulaire",
+        "social_network": "Agrégation de médias sociaux",
+        "review_network": "Collecte d'avis",
+        "review_btn": "Paramètres avancés",
+        "modify_form": "Modifier le formulaire",
         "connectedMsgs": {
             "1": [
                 "Sélectionnez une option dans la liste ci-dessous pour continuer."
