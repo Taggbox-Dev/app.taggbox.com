@@ -1261,32 +1261,36 @@
         "post": "Beitrag",
         "posts": "Beiträge",
         "table_header": [
-            {
-                "name": "Name",
-                "minWidth": 150
-            },
-            {
-                "name": "Konto",
-                "minWidth": 150
-            },
-            {
-                "name": "Beiträge",
-                "minWidth": 120
-            },
-            {
-                "name": "Moderation",
-                "minWidth": 50
-            },
-            {
-                "name": "Status",
-                "minWidth": 50
-            },
-            {
-                "name": "Aktionen",
-                "minWidth": 70,
-                "align": "text-end"
-            }
-        ],
+    {
+        "name": "Name",
+        "minWidth": 150
+    },
+    {
+        "name": "Profilbild",
+        "minWidth": 100
+    },
+    {
+        "name": "Konto",
+        "minWidth": 150
+    },
+    {
+        "name": "Beiträge",
+        "minWidth": 120
+    },
+    {
+        "name": "Moderation",
+        "minWidth": 50
+    },
+    {
+        "name": "Status",
+        "minWidth": 50
+    },
+    {
+        "name": "Aktionen",
+        "minWidth": 70,
+        "align": "text-end"
+    }
+],
         "disable_status": "Das Deaktivieren dieses Status blendet alle gesammelten Beiträge aus diesem Feed aus, was sich auf Sichtbarkeit und Zugänglichkeit auswirkt.",
         "enable_moderation": "Wenn Sie die Moderation aktivieren, werden alle neu eingehenden Beiträge zunächst privat, bis sie überprüft und genehmigt sind.",
         "tooltip_disconnect": "Der Feed wurde getrennt, da sich der Benutzername des Social-Media-Kontos seit Ihrer letzten Verbindung mit #{{company}} geändert hat. Bitte klicken Sie unten auf die Schaltfläche, um sich erneut zu verbinden."

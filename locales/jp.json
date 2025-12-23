@@ -1261,32 +1261,36 @@
         "post": "投稿",
         "posts": "投稿",
         "table_header": [
-            {
-                "name": "名前",
-                "minWidth": 150
-            },
-            {
-                "name": "アカウント",
-                "minWidth": 150
-            },
-            {
-                "name": "投稿数",
-                "minWidth": 120
-            },
-            {
-                "name": "モデレーション",
-                "minWidth": 50
-            },
-            {
-                "name": "ステータス",
-                "minWidth": 50
-            },
-            {
-                "name": "操作",
-                "minWidth": 70,
-                "align": "text-end"
-            }
-        ],
+    {
+        "name": "名前",
+        "minWidth": 150
+    },
+    {
+        "name": "プロフィール写真",
+        "minWidth": 100
+    },
+    {
+        "name": "アカウント",
+        "minWidth": 150
+    },
+    {
+        "name": "投稿",
+        "minWidth": 120
+    },
+    {
+        "name": "モデレーション",
+        "minWidth": 50
+    },
+    {
+        "name": "ステータス",
+        "minWidth": 50
+    },
+    {
+        "name": "操作",
+        "minWidth": 70,
+        "align": "text-end"
+    }
+],
         "disable_status": "このステータスを無効にすると、このフィードから収集されたすべての投稿が非表示になり、表示とコンテンツアクセスに影響します。",
         "enable_moderation": "モデレーションを有効にすると、新しく受信した投稿はレビューと承認が完了するまで非公開になります。",
         "tooltip_disconnect": "ソーシャルメディアアカウントのユーザー名が前回の#{{company}}接続以降に変更されたため、フィードが切断されました。下のボタンをクリックして再接続してください。"

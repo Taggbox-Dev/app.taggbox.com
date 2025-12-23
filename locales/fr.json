@@ -1261,32 +1261,36 @@
         "post": "publication",
         "posts": "publications",
         "table_header": [
-            {
-                "name": "Nom",
-                "minWidth": 150
-            },
-            {
-                "name": "Compte",
-                "minWidth": 150
-            },
-            {
-                "name": "Publications",
-                "minWidth": 120
-            },
-            {
-                "name": "Modération",
-                "minWidth": 50
-            },
-            {
-                "name": "Statut",
-                "minWidth": 50
-            },
-            {
-                "name": "Actions",
-                "minWidth": 70,
-                "align": "text-end"
-            }
-        ],
+    {
+        "name": "Nom",
+        "minWidth": 150
+    },
+    {
+        "name": "Photo de profil",
+        "minWidth": 100
+    },
+    {
+        "name": "Compte",
+        "minWidth": 150
+    },
+    {
+        "name": "Publications",
+        "minWidth": 120
+    },
+    {
+        "name": "Modération",
+        "minWidth": 50
+    },
+    {
+        "name": "Statut",
+        "minWidth": 50
+    },
+    {
+        "name": "Actions",
+        "minWidth": 70,
+        "align": "text-end"
+    }
+],
         "disable_status": "Désactiver ce statut masquera toutes les publications collectées de ce flux, affectant la visibilité et l'accès au contenu.",
         "enable_moderation": "Activer la modération rendra toutes les nouvelles publications privées jusqu'à ce qu'elles soient examinées et approuvées.",
         "tooltip_disconnect": "Flux déconnecté car le nom d'utilisateur du compte social a été modifié depuis votre dernière connexion avec #{{company}}. Veuillez cliquer sur le bouton ci-dessous pour vous reconnecter."

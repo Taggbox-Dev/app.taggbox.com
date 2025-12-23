@@ -1266,6 +1266,10 @@
                 "minWidth": 150
             },
             {
+                "name": "Profile Pic",
+                "minWidth": 100
+            },
+            {
                 "name": "Account",
                 "minWidth": 150
             },
