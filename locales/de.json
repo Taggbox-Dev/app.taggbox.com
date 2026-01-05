@@ -3714,7 +3714,18 @@
         },
         "three_word_error": "Bitte geben Sie mindestens 3 Wörter ein.",
         "get_rights": "Rechte einholen",
-        "get_rights_msg": "Wir empfehlen, vor der Veröffentlichung von nutzergenerierten Inhalten die Nutzungsrechte einzuholen."
+        "get_rights_msg": "Wir empfehlen, vor der Veröffentlichung von nutzergenerierten Inhalten die Nutzungsrechte einzuholen.",
+        "tiktok_title": "Zusätzliche TikTok-Einstellungen",
+        "allow_users": "Nutzern erlauben",
+        "disclose_video_content": "Videoinhalt offenlegen",
+        "branded_content": "Gesponserte Inhalte",
+        "p_msg_1": "Aktiviere diese Option, um offenzulegen, dass dieses Video Waren oder Dienstleistungen im Austausch gegen etwas von Wert bewirbt. Dein Video kann dich selbst, einen Dritten oder beides bewerben.",
+        "p_msg_2": "Du bewirbst dich selbst oder dein eigenes Unternehmen. Dieser Inhalt wird als organischer Markeninhalt eingestuft.",
+        "p_msg_3": "Du bewirbst eine andere Marke oder einen Dritten. Dieser Inhalt wird als gesponserter Inhalt eingestuft.",
+        "p1": "Durch das Posten stimmst du unseren",
+        "p2": "Richtlinien für gesponserte Inhalte",
+        "p3": "und der",
+        "p4": "Bestätigung zur Musiknutzung zu"
     },
     "localization_pop": {
         "title": "Lokalisierung",
