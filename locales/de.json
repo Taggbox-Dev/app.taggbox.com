@@ -262,7 +262,7 @@
         "update_time": "Aktualisierungszeit",
         "api_limit": "Aufgrund von API-Beschränkungen können LinkedIn-Feeds bis zu 48 Stunden für die Aktualisierung benötigen, während Twitter-Feeds alle 4-6 Stunden aktualisiert werden.",
         "switch_yearly": "Auf Jahresplan wechseln (Sparen Sie bis zu #{{save}}%)",
-        "annually_save": "Jährlich sparen #{{save}}%",
+        "annually_save": "Jährlich",
         "save_per": "Sparen Sie #{{save}}%",
         "limited_time_offer": "Angebot für begrenzte Zeit ⏰",
         "free_plan_txt": "Wir bieten auch einen dauerhaft kostenlosen Plan mit eingeschränkten Funktionen an.",

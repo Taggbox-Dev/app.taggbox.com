@@ -262,7 +262,7 @@
         "update_time": "Temps de mise à jour",
         "api_limit": "En raison des limites de l'API, les flux LinkedIn peuvent mettre jusqu'à 48 heures pour se mettre à jour, tandis que les flux Twitter se rafraîchissent toutes les 4 à 6 heures",
         "switch_yearly": "Passer à l'abonnement annuel (Économisez jusqu'à #{{save}}%)",
-        "annually_save": "Économisez annuellement #{{save}}%",
+        "annually_save": "annuellement",
         "save_per": "Économisez #{{save}}%",
         "limited_time_offer": "Offre limitée ⏰",
         "free_plan_txt": "Nous proposons également un plan gratuit à vie avec des fonctionnalités limitées. ",
