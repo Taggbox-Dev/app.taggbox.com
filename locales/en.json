@@ -3718,7 +3718,7 @@
         "tiktok_title":"TikTok Additional Setting",
         "allow_users":"Allow users to",
         "disclose_video_content":"Disclose video content",
-       "branded_content":"Branded Content",
+        "branded_content":"Branded Content",
         "p_msg_1":"Turn on to disclose that this video promotes goods or services in exchange for something of value. Your video could promote yourself, a third party, or both.",
         "p_msg_2":"You are promoting yourself or your own business. This content will be classified as Brand Organic.",
         "p_msg_3":"You are promoting another brand or a third party. This content will be classified as Branded Content.",
@@ -3726,7 +3726,6 @@
         "p2": "Branded Content Policy",
         "p3":"and",
         "p4":"Music Usage Confirmation"
-
     },
     "localization_pop": {
         "title": "Localization",
