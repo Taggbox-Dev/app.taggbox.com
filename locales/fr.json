@@ -176,7 +176,20 @@
             { "label": "Concepteur", "value": "Designer" },
             { "label": "Chef de produit", "value": "Product Manager" },
             { "label": "Autres", "value": "Others" }
+        ],
+        "fromWhere_list": [
+            { "label": "Google", "value": "Google" },
+            { "label": "Reddit", "value": "Reddit" },
+            { "label": "Affiliation", "value": "Affiliate" },
+            { "label": "LLM", "value": "LLMs" },
+            { "label": "YouTube", "value": "Youtube" },
+            { "label": "Instagram", "value": "Instagram" },
+            { "label": "Facebook", "value": "Facebook" },
+            { "label": "Twitter", "value": "Twitter" },
+            { "label": "LinkedIn", "value": "LinkedIN" },
+            { "label": "Autres", "value": "Others" }
         ]
+
     },
     "plan": {
         "back_to_feature": "Retour à la fonctionnalité",
@@ -1881,7 +1894,8 @@
         "submit_button": "Soumettre",
         "skip_button": "Je le ferai plus tard",
         "other_industries": "Saisissez votre secteur",
-        "other_designation": "Entrez votre poste"
+        "other_designation": "Entrez votre poste",
+        "other_fromWhere": "Où avez-vous entendu parler de nous ?"
     },
     "header": {
         "profile_link": "Profil",

@@ -176,7 +176,20 @@
             { "label": "デザイナー", "value": "Designer" },
             { "label": "プロダクトマネージャー", "value": "Product Manager" },
             { "label": "その他", "value": "Others" }
+        ],
+        "fromWhere_list": [
+            { "label": "Google", "value": "Google" },
+            { "label": "Reddit", "value": "Reddit" },
+            { "label": "アフィリエイト", "value": "Affiliate" },
+            { "label": "大規模言語モデル", "value": "LLMs" },
+            { "label": "YouTube", "value": "Youtube"},
+            { "label": "Instagram", "value": "Instagram"},
+            { "label": "Facebook", "value": "Facebook"},
+            { "label": "Twitter", "value": "Twitter"},
+            { "label": "LinkedIn", "value": "LinkedIN"},
+            { "label": "その他", "value": "Others" }
         ]
+
     },
     "plan": {
         "back_to_feature": "機能に戻る",
@@ -1881,7 +1894,8 @@
         "submit_button": "送信",
         "skip_button": "後で行う",
         "other_industries": "業界を入力してください",
-        "other_designation": "職種を入力してください"
+        "other_designation": "職種を入力してください",
+        "other_fromWhere": "どこで私たちのことを知りましたか？"
     },
     "header": {
         "profile_link": "プロフィール",
