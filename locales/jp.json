@@ -186,7 +186,7 @@
             { "label": "Instagram", "value": "Instagram"},
             { "label": "Facebook", "value": "Facebook"},
             { "label": "Twitter", "value": "Twitter"},
-            { "label": "LinkedIn", "value": "LinkedIN"},
+            { "label": "LinkedIn", "value": "LinkedIn"},
             { "label": "その他", "value": "Others" }
         ]
 
