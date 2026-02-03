@@ -1952,7 +1952,7 @@
         "length_full_name": "Le nom complet doit contenir au moins 3 caractères.",
         "fill_full_name": "Veuillez remplir ce champ.",
         "valid_name": "Veuillez saisir un nom valide",
-        "business_address": "Adresse professionnelle",
+        "business_address": "E-mail professionnelle",
         "swap_email": "Échangez les emails personnels avec des emails professionnels pour une meilleure expérience",
         "verify_robot": "Veuillez vérifier que vous n'êtes pas un robot.",
         "talk_to_us": "Parlez-nous !",

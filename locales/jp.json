@@ -1952,7 +1952,7 @@
         "length_full_name": "氏名は3文字以上で入力してください。",
         "fill_full_name": "この項目を入力してください。",
         "valid_name": "有効な名前を入力してください",
-        "business_address": "住所",
+        "business_address": "ビジネス用メールアドレス",
         "swap_email": "より良い体験のため、個人メールを仕事用メールに切り替えてください",
         "verify_robot": "ロボットでないことを確認してください。",
         "talk_to_us": "お問い合わせください！",
