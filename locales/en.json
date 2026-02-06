@@ -448,7 +448,7 @@
         "general_request": "General Request",
         "social_account": "Social Account",
         "preview": "Preview",
-        "mode_title": "Select the mode for Right Request",
+        "mode_title": "Select the mode for Rights Request",
         "mode_desc": "#{{company}} offers two distinct modes to request rights. Comment Request and DM Request.",
         "mode_comment_title": "Comment Request",
         "mode_comment_desc": "Request creators consent as a comment on their post.",
