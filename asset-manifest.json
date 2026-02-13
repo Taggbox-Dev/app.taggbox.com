@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3cf267c.css",
-    "main.js": "/static/js/main.aaf69587.js",
+    "main.css": "/static/css/main.e5065bb0.css",
+    "main.js": "/static/js/main.cad14384.js",
     "static/js/2992.0087e68f.chunk.js": "/static/js/2992.0087e68f.chunk.js",
     "static/js/3716.77c5e1ad.chunk.js": "/static/js/3716.77c5e1ad.chunk.js",
     "static/js/8295.cdb1b200.chunk.js": "/static/js/8295.cdb1b200.chunk.js",
@@ -64,7 +64,7 @@
     "static/css/5273.efe1557d.chunk.css": "/static/css/5273.efe1557d.chunk.css",
     "static/js/5273.fe5cc111.chunk.js": "/static/js/5273.fe5cc111.chunk.js",
     "static/js/8224.64febfb9.chunk.js": "/static/js/8224.64febfb9.chunk.js",
-    "static/js/6139.e5a73761.chunk.js": "/static/js/6139.e5a73761.chunk.js",
+    "static/js/6139.89cfb191.chunk.js": "/static/js/6139.89cfb191.chunk.js",
     "pdfmake.js": "/static/js/pdfmake.5950ba74.chunk.js",
     "canvg.js": "/static/js/canvg.3247d525.chunk.js",
     "xlsx.js": "/static/js/xlsx.8a542caf.chunk.js",
@@ -78,12 +78,12 @@
     "static/js/5388.8270d34b.chunk.js": "/static/js/5388.8270d34b.chunk.js",
     "static/js/4367.9d5dfc85.chunk.js": "/static/js/4367.9d5dfc85.chunk.js",
     "static/js/6773.49351efc.chunk.js": "/static/js/6773.49351efc.chunk.js",
-    "static/js/624.6578c4f9.chunk.js": "/static/js/624.6578c4f9.chunk.js",
+    "static/js/624.8ef65485.chunk.js": "/static/js/624.8ef65485.chunk.js",
     "static/js/7944.43fc5521.chunk.js": "/static/js/7944.43fc5521.chunk.js",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.e3cf267c.css",
-    "static/js/main.aaf69587.js"
+    "static/css/main.e5065bb0.css",
+    "static/js/main.cad14384.js"
   ]
 }
