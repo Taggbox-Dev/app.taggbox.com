@@ -2469,6 +2469,7 @@
             "plc_google": "ID Google Merchant",
             "shopify": "Shopify",
             "btn_shopify": "Connetti Negozio",
+            "btn_reconnect_shop": "Ricollega il negozio",
             "plc_shopify": "esempio.myshopify.com",
             "bigcommerce": "BigCommerce",
             "btn_bigcommerce": "Installa App",

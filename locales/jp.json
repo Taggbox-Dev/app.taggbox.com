@@ -2470,6 +2470,7 @@
             "plc_google": "Google マーチャントID",
             "shopify": "Shopify",
             "btn_shopify": "ショップを接続",
+            "btn_reconnect_shop": "ショップを再接続",
             "plc_shopify": "example.myshopify.com",
             "bigcommerce": "BigCommerce",
             "btn_bigcommerce": "アプリをインストール",

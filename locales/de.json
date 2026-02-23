@@ -2470,6 +2470,7 @@
             "plc_google": "Google Merchant ID",
             "shopify": "Shopify",
             "btn_shopify": "Shop verbinden",
+            "btn_reconnect_shop": "Shop wieder verbinden",
             "plc_shopify": "example.myshopify.com",
             "bigcommerce": "BigCommerce",
             "btn_bigcommerce": "App installieren",
