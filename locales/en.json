@@ -8,11 +8,11 @@
         "not_mbr": "Not a member yet?"
     },
     "signup": {
-        "welcome_msg": "Sign up for a free trial",
+        "welcome_msg": "Get Started — It’s Free!",
         "carsosel_msg": [
-            "All Premium Features",
-            "No card required",
-            "14-day free trial"
+            "24x7 Customer Support",
+            "Setup in seconds",
+            "Unlimited Embed"
         ],
         "google_btn": "Sign up with Google",
         "sign_up_with_email": "Sign up with Email",

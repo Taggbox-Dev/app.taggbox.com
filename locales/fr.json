@@ -8,11 +8,11 @@
         "not_mbr": "Pas encore membre ?"
     },
     "signup": {
-        "welcome_msg": "Inscrivez-vous pour un essai gratuit",
+       "welcome_msg": "Commencez — C’est gratuit !",
         "carsosel_msg": [
-            "Toutes les fonctionnalités Premium",
-            "Aucune carte requise",
-            "Essai gratuit de 14 jours"
+            "Support client 24h/24 et 7j/7",
+            "Configuration en quelques secondes",
+            "Intégration illimitée"
         ],
         "google_btn": "S'inscrire avec Google",
         "sign_up_with_email": "S'inscrire avec un e-mail",

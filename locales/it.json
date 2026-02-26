@@ -8,11 +8,11 @@
         "not_mbr": "Non sei ancora iscritto?"
     },
     "signup": {
-        "welcome_msg": "Iscriviti per una prova gratuita",
+        "welcome_msg": "Inizia — È gratis!",
         "carsosel_msg": [
-            "Tutte le funzionalità Premium",
-            "Nessuna carta richiesta",
-            "Prova gratuita di 14 giorni"
+            "Assistenza clienti 24/7",
+            "Configurazione in pochi secondi",
+            "Integrazione illimitata"
         ],
         "google_btn": "Iscriviti con Google",
         "sign_up_with_email": "Iscriviti con Email",

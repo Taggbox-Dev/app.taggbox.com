@@ -8,11 +8,11 @@
         "not_mbr": "Noch kein Mitglied?"
     },
     "signup": {
-        "welcome_msg": "Melden Sie sich für eine kostenlose Testversion an",
+        "welcome_msg": "Loslegen — Es ist kostenlos!",
         "carsosel_msg": [
-            "Alle Premium-Funktionen",
-            "Keine Kreditkarte erforderlich",
-            "14-tägige kostenlose Testversion"
+            "24x7 Kundensupport",
+            "Einrichtung in Sekunden",
+            "Unbegrenztes Einbetten"
         ],
         "google_btn": "Mit Google registrieren",
         "sign_up_with_email": "Mit E-Mail registrieren",
