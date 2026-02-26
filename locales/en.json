@@ -349,7 +349,13 @@
         "pay_now": "Complete Payment Now",
         "no_changed_des": "No, I have changed my mind",
         "already_paid": "Your already paid amount will automatically be adjusted in your billing.",
-        "continue_with": "Continue with '#{{upgradedPlanName}}'"
+        "continue_with": "Continue with '#{{upgradedPlanName}}'",
+        "plan_upgrade_pop": "You've Discovered a Premium Feature!",
+        "plan_upgrade_pop_desc": "You have created a <strong>#{{feedName}} feed</strong>, which is not included in your plan. To continue displaying content from this network, please upgrade your plan.",
+        "plan_upgrade_pop_shop_desc": "Your shoppable gallery is ready! Upgrade your plan to embed it on your website and turn visitors into buyers.",
+        "plan_upgrade_cta_title": "Prefer not to Upgrade?",
+        "plan_upgrade_cta_desc": "You can delete the #{{feedName}} feed and choose network which is included in free plan.",
+        "plan_upgrade_cta_btn": "Delete My Feed"
     },
     "moderation": {
         "no_posts": "No Posts!",
@@ -2102,6 +2108,7 @@
         "countine_net_btn": "Continue with #{{networkName}}",
         "moderation_select_post_msg": "You want to #{{actionType}} selected post?",
         "delete_selected_post": "You want to delete selected post?",
+        "delete_selected_feed": "You want to delete selected feed?",
         "recover_msg": "You will not be able to recover this post.",
         "confirm_user": "Confirm User",
         "user_post": "#{{username}}'s Post",

@@ -350,7 +350,13 @@
         "pay_now": "Effectuer le paiement maintenant",
         "no_changed_des": "Non, j'ai changé d'avis",
         "already_paid": "Le montant déjà payé sera automatiquement ajusté dans votre facturation.",
-        "continue_with": "Continuer avec '#{{upgradedPlanName}}'"
+        "continue_with": "Continuer avec '#{{upgradedPlanName}}'",
+        "plan_upgrade_pop": "Vous avez découvert une fonctionnalité Premium !",
+        "plan_upgrade_pop_desc": "Vous avez créé un <strong>flux #{{feedName}}</strong>, qui n'est pas inclus dans votre forfait. Pour continuer à afficher du contenu de ce réseau, veuillez mettre à niveau votre forfait.",
+        "plan_upgrade_pop_shop_desc": "Votre galerie shoppable est prête ! Améliorez votre forfait pour l'intégrer sur votre site web et transformer les visiteurs en acheteurs.",
+        "plan_upgrade_cta_title": "Vous préférez ne pas mettre à niveau ?",
+        "plan_upgrade_cta_desc": "Vous pouvez supprimer le flux #{{feedName}} et choisir un réseau inclus dans le forfait gratuit.",
+        "plan_upgrade_cta_btn": "Supprimer mon flux"
     },
     "moderation": {
         "no_posts": "Aucun message !",
@@ -2103,6 +2109,7 @@
         "countine_net_btn": "Continuer avec #{{networkName}}",
         "moderation_select_post_msg": "Voulez-vous #{{actionType}} la publication sélectionnée ?",
         "delete_selected_post": "Voulez-vous supprimer la publication sélectionnée ?",
+        "delete_selected_feed": "Voulez-vous supprimer le flux sélectionné ?",
         "recover_msg": "Vous ne pourrez pas récupérer cette publication.",
         "confirm_user": "Confirmer l'utilisateur",
         "user_post": "Publication de #{{username}}",

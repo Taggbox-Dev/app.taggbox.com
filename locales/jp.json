@@ -350,7 +350,13 @@
         "pay_now": "今すぐ支払う",
         "no_changed_des": "いいえ、気が変わりました",
         "already_paid": "すでに支払った金額は自動的に請求金額に反映されます。",
-        "continue_with": "'#{{upgradedPlanName}}' で続行"
+        "continue_with": "'#{{upgradedPlanName}}' で続行",
+        "plan_upgrade_pop": "プレミアム機能を発見しました！",
+        "plan_upgrade_pop_desc": "<strong>#{{feedName}} フィード</strong>を作成しましたが、これはお客様のプランには含まれていません。このネットワークからのコンテンツ表示を続けるには、プランのアップグレードが必要です。",
+        "plan_upgrade_pop_shop_desc": "ショッパブルギャラリーの準備ができました！プランをアップグレードしてウェブサイトに埋め込み、訪問者を購入者に変えましょう。",
+        "plan_upgrade_cta_title": "アップグレードしたくない場合",
+        "plan_upgrade_cta_desc": "#{{feedName}} フィードを削除し、無料プランに含まれるネットワークを選択できます。",
+        "plan_upgrade_cta_btn": "マイフィードを削除"
     },
     "moderation": {
         "no_posts": "投稿はありません！",
@@ -2103,6 +2109,7 @@
         "countine_net_btn": "#{{networkName}}で続行",
         "moderation_select_post_msg": "選択した投稿を#{{actionType}}承認しますか？",
         "delete_selected_post": "選択した投稿を削除しますか？",
+        "delete_selected_feed": "選択したフィードを削除しますか？",
         "recover_msg": "この投稿は復元できません。",
         "confirm_user": "ユーザーを確認",
         "user_post": "#{{username}}さんの投稿",

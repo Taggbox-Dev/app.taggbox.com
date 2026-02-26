@@ -350,7 +350,13 @@
         "pay_now": "Zahlung jetzt abschließen",
         "no_changed_des": "Nein, ich habe meine Meinung geändert",
         "already_paid": "Ihr bereits gezahlter Betrag wird automatisch in Ihrer Abrechnung angerechnet.",
-        "continue_with": "Fortfahren mit '#{{upgradedPlanName}}'"
+        "continue_with": "Fortfahren mit '#{{upgradedPlanName}}'",
+        "plan_upgrade_pop": "Sie haben eine Premium-Funktion entdeckt!",
+        "plan_upgrade_pop_desc": "Sie haben einen <strong>#{{feedName}}-Feed</strong> erstellt, der nicht in Ihrem Tarif enthalten ist. Um die Inhalte dieses Netzwerks weiterhin anzuzeigen, aktualisieren Sie bitte Ihren Tarif.",
+        "plan_upgrade_pop_shop_desc": "Ihre shoppable Galerie ist bereit! Upgraden Sie Ihren Tarif, um sie auf Ihrer Website einzubetten und Besucher in Käufer zu verwandeln.",
+        "plan_upgrade_cta_title": "Möchten Sie nicht upgraden?",
+        "plan_upgrade_cta_desc": "Sie können den #{{feedName}}-Feed löschen und ein Netzwerk wählen, das im kostenlosen Tarif enthalten ist.",
+        "plan_upgrade_cta_btn": "Meinen Feed löschen"
     },
     "moderation": {
         "no_posts": "Keine Beiträge!",
@@ -2103,6 +2109,7 @@
         "countine_net_btn": "Mit #{{networkName}} fortfahren",
         "moderation_select_post_msg": "Möchten Sie den ausgewählten Beitrag #{{actionType}}freigeben?",
         "delete_selected_post": "Möchten Sie den ausgewählten Beitrag löschen?",
+        "delete_selected_feed": "Möchten Sie den ausgewählten Feed löschen?",
         "recover_msg": "Dieser Beitrag kann nicht wiederhergestellt werden.",
         "confirm_user": "Benutzer bestätigen",
         "user_post": "Beitrag von #{{username}}",
