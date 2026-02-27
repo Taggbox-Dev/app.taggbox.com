@@ -3703,7 +3703,7 @@
         "msg_1": "Ihre aktuellen Beitragsauswahlen gehen verloren, wenn Sie die Galerie ändern.",
         "msg_2": "Bitte Beitrag auswählen",
         "msg_3": "Bitte Konto auswählen",
-        "msg_4": "Sie können maximal 10 Beiträge auswählen",
+        "msg_4": "Sie können maximal #{{length}} Beiträge auswählen",
         "msg_5": "Bitte Beitragsunterschrift eingeben",
         "emt_msg": "Keine Beiträge geplant",
         "emt_desc": "Es scheint, dass kein Feed erstellt wurde oder dieser Feed keine Beiträge zum Veröffentlichen enthält.",

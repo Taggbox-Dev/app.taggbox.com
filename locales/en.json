@@ -3702,7 +3702,7 @@
         "msg_1": "Your current post selections will be lost if you change the gallery",
         "msg_2": "Please Select Post",
         "msg_3": "Please Select Account",
-        "msg_4": "You can select only max 10 posts",
+        "msg_4": "You can select only max #{{length}} posts",
         "msg_5": "Please enter post caption",
         "emt_msg": "No Posts Scheduled",
         "emt_desc": "Looks like there is no feed created or this feed has no posts to publish.",

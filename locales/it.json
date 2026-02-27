@@ -3695,7 +3695,7 @@
         "msg_1": "Le tue selezioni di post attuali andranno perse se cambi la galleria",
         "msg_2": "Seleziona un Post",
         "msg_3": "Seleziona un Account",
-        "msg_4": "Puoi selezionare solo max 10 post",
+        "msg_4": "Puoi selezionare solo max #{{length}} post",
         "msg_5": "Inserisci la didascalia del post",
         "emt_msg": "Nessun Post Programmato",
         "emt_desc": "Sembra che non ci sia un feed creato o che questo feed non abbia post da pubblicare.",

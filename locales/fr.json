@@ -3703,7 +3703,7 @@
         "msg_1": "Vos sélections actuelles seront perdues si vous changez de galerie.",
         "msg_2": "Veuillez sélectionner un post",
         "msg_3": "Veuillez sélectionner un compte",
-        "msg_4": "Vous pouvez sélectionner au maximum 10 posts",
+        "msg_4": "Vous pouvez sélectionner au maximum #{{length}} posts",
         "msg_5": "Veuillez entrer une légende pour le post",
         "emt_msg": "Aucune publication prévue",
         "emt_desc": "Il semble qu’aucun flux n’ait été créé ou que ce flux ne contienne aucun post à publier.",
