@@ -2116,7 +2116,10 @@
         "invalid_phone_number": "Numéro de téléphone invalide !",
         "pass_upd_success": "Mot de passe mis à jour avec succès",
         "disapprove": "désapprouver",
-        "out_of_count": "Sur #{{count}}",
+        "out_of_count": "des #{{count}} actifs",
+        "posts": "publications",
+        "views": "vues",
+        "clicks": "clics",
         "language_change_msg": "Cette action changera la langue de l'application en #{{lang}}.",
         "language_primary_btn": "Oui, passer à #{{lang}}",
         "language_secondary_btn": "Conserver la langue actuelle",
@@ -2125,9 +2128,10 @@
     },
     "Analytics": {
         "case_study": {
-            "welcome_msg": "Bon retour !",
-            "chat_btn": "Discuter maintenant",
-            "call_btn": "Réserver un appel"
+            "welcome_msg": "Bon retour",
+            "disc": "Prêt à transformer le contenu généré par les utilisateurs en engagement mesurable ?",
+            "chat_btn": "Discuter avec un expert",
+            "call_btn": "Planifier un appel stratégique"
         },
         "gallery": {
             "heading": "Galeries les plus performantes",
@@ -2294,10 +2298,10 @@
         },
         "overview_content": [
             {
-                "name": "Total des publications",
-                "tooltip": "Nombre total de publications sur tous vos flux",
+                "name": "Publications collectées",
+                "tooltip": "Votre contenu social sélectionné apparaîtra ici",
                 "description": "Nombre total de publications sur tous vos flux",
-                "type": "Total Posts"
+                "type": "Collected Posts"
             },
             {
                 "name": "Total des visiteurs",
@@ -2306,10 +2310,10 @@
                 "type": "Total Visitors"
             },
             {
-                "name": "Total des clics",
-                "tooltip": "Nombre de fois où le widget a été cliqué",
+                "name": "Clics d’engagement",
+                "tooltip": "Mesurez comment votre audience interagit avec votre contenu",
                 "description": "Nombre total de publications sur tous vos flux",
-                "type": "Total Clicks"
+                "type": "Engagement Clicks"
             },
             {
                 "name": "Afficher plus de clics",
@@ -2342,16 +2346,16 @@
                 "type": "Post Clicks"
             },
             {
-                "name": "Vues du widget",
-                "tooltip": "Nombre de personnes ayant visité votre site après l'ajout du mur",
+                "name": "Impressions du widget",
+                "tooltip": "Suivez combien de visiteurs de votre site interagissent avec votre contenu social",
                 "description": "Nombre total de publications sur tous vos flux",
-                "type": "Widget Views"
+                "type": "Widget Impressions"
             },
             {
-                "name": "Total des flux",
-                "tooltip": "Nombre de réseaux sociaux/avis dans votre compte.",
+                "name": "Flux de contenu",
+                "tooltip": "Créez des flux pour commencer à collecter du contenu social.",
                 "description": "Nombre de réseaux sociaux/avis dans votre compte.",
-                "type": "Total Feeds"
+                "type": "Content Feeds"
             }
         ],
         "shopon_tab": {

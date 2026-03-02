@@ -2116,7 +2116,10 @@
         "invalid_phone_number": "Ungültige Telefonnummer!",
         "pass_upd_success": "Passwort erfolgreich aktualisiert",
         "disapprove": "Ablehnen",
-        "out_of_count": "Von #{{count}} erreicht",
+        "out_of_count": "der #{{count}} Aktiven",
+        "posts": "Beiträge",
+        "views": "Aufrufe",
+        "clicks": "Klicks",
         "language_change_msg": "Diese Aktion ändert die App-Sprache zu #{{lang}}.",
         "language_primary_btn": "Ja, wechsle zu #{{lang}}",
         "language_secondary_btn": "Aktuelle Sprache behalten",
@@ -2125,9 +2128,10 @@
     },
     "Analytics": {
         "case_study": {
-            "welcome_msg": "Willkommen zurück!",
-            "chat_btn": "Jetzt chatten",
-            "call_btn": "Termin buchen"
+            "welcome_msg": "Willkommen zurück",
+            "disc": "Bereit, nutzergenerierte Inhalte in messbares Engagement zu verwandeln?",
+            "chat_btn": "Mit einem Experten chatten",
+            "call_btn": "Strategiegespräch vereinbaren"
         },
         "gallery": {
             "heading": "Top-Performende Galerien",
@@ -2294,10 +2298,10 @@
         },
         "overview_content": [
             {
-                "name": "Gesamtanzahl Beiträge",
-                "tooltip": "Gesamte Anzahl der Beiträge in all Ihren Feeds",
+                "name": "Gesammelte Beiträge",
+                "tooltip": "Ihre kuratierten Social-Media-Inhalte werden hier angezeigt",
                 "description": "Gesamte Anzahl der Beiträge in all Ihren Feeds",
-                "type": "Total Posts"
+                "type": "Collected Posts"
             },
             {
                 "name": "Gesamtbesucher",
@@ -2306,10 +2310,10 @@
                 "type": "Total Visitors"
             },
             {
-                "name": "Gesamtklicks",
-                "tooltip": "Anzahl der Klicks auf das Widget",
+                "name": "Interaktionsklicks",
+                "tooltip": "Messen Sie, wie Ihr Publikum mit Ihren Inhalten interagiert",
                 "description": "Anzahl der Klicks auf das Widget",
-                "type": "Total Clicks"
+                "type": "Engagement Clicks"
             },
             {
                 "name": "„Mehr anzeigen“-Klicks",
@@ -2342,16 +2346,16 @@
                 "type": "Post Clicks"
             },
             {
-                "name": "Widget-Ansichten",
-                "tooltip": "Anzahl der Personen, die Ihr Widget auf der Website gesehen haben",
+                "name": "Widget-Impressionen",
+                "tooltip": "Verfolgen Sie, wie viele Website-Besucher mit Ihren Social-Media-Inhalten interagieren",
                 "description": "Anzahl der Ansichten Ihres Widgets",
-                "type": "Widget Views"
+                "type": "Widget Impressions"
             },
             {
-                "name": "Gesamtanzahl Feeds",
-                "tooltip": "Anzahl der sozialen Netzwerke/Review-Feeds in Ihrem Konto",
+                "name": "Inhalts-Feeds",
+                "tooltip": "Erstellen Sie Feeds, um mit dem Sammeln von Social-Media-Inhalten zu beginnen",
                 "description": "Anzahl der sozialen Netzwerke oder Review-Feeds, die mit Ihrem Konto verknüpft sind",
-                "type": "Total Feeds"
+                "type": "Content Feeds"
             }
         ],
         "shopon_tab": {

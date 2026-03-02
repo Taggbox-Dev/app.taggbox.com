@@ -2115,7 +2115,10 @@
         "invalid_phone_number": "Invalid phone number!",
         "pass_upd_success": "Password Updated Successfully",
         "disapprove": "disapprove",
-        "out_of_count": "Out of #{{count}}",
+        "out_of_count": "of #{{count}} Active",
+        "posts": "Posts",
+        "views": "Views",
+        "clicks": "Clicks",
         "language_change_msg": "This action will change the app language to #{{lang}}.",
         "language_primary_btn": "Yes, Switch to #{{lang}}",
         "language_secondary_btn": "Keep Current Language",
@@ -2124,9 +2127,10 @@
     },
     "Analytics": {
         "case_study": {
-            "welcome_msg": "Welcome back!",
-            "chat_btn": "Chat Now",
-            "call_btn": "Book A Call"
+            "welcome_msg": "Welcome back",
+            "disc": "Ready to turn user-generated content into measurable engagement?",
+            "chat_btn": "Chat with an Expert",
+            "call_btn": "Schedule a Strategy Call"
         },
         "gallery": {
             "heading": "Top Performing Galleries",
@@ -2140,9 +2144,9 @@
             "view_all": "View All",
             "edit_btn": "Edit",
             "empty_msg": "",
-            "brand_win_msg": "Brands Are Winning Engagement",
-            "brand_win_desc": "CLeela got 15M+ impressions, 80K stories on a website widget. Why are you losing engagement?",
-            "brand_cta": "Collect Content"
+            "brand_win_msg": "High-Performing Galleries Drive Engagement",
+            "brand_win_desc": "Brands are generating millions of impressions using social proof on their websites. Start building your gallery to capture attention and boost conversions.",
+            "brand_cta": "Create Gallery"
         },
         "channels": {
             "heading": "Top Performing Channels",
@@ -2152,11 +2156,11 @@
                 "clicks": "Clicks",
                 "action": "Action"
             },
-            "add_btn": "Add Channel",
+            "add_btn": "Add Publishing Channel",
             "view_all": "View All",
             "edit_btn": "Edit",
-            "brand_win_msg": "Brands Are Winning Engagement",
-            "brand_win_desc": "CLeela got 15M+ impressions, 80K stories on a website widget. Why are you losing engagement?"
+            "brand_win_msg": "Your Strongest Publishing Channels",
+            "brand_win_desc": "Identify which channels generate the most impact and optimize your content strategy accordingly"
         },
         "recent_posts": {
             "heading": "Recent Posts",
@@ -2166,9 +2170,9 @@
             "public_btn": "Public",
             "private_btn": "Private",
             "gallery_name": "Gallery",
-            "empty_msg": "",
-            "empty_title": "No Post Available",
-            "empty_btn": "Add Feed Now"
+            "empty_msg": "Connect a source to start collecting posts and showcase real-time social proof",
+            "empty_title": "No Content Yet",
+            "empty_btn": "Add Your First Feed"
         },
         "creators": {
             "tab1": "Most Active Creators",
@@ -2178,12 +2182,12 @@
         },
         "sentiment": {
             "sentiments": {
-                "heading": "Sentiments",
+                "heading": "Sentiment Insights",
                 "heading_first": "Sentiments statistics",
                 "heading_second": "Sentiment posts",
-                "talk_to_sales": "Talk to Sales",
+                "talk_to_sales": "Unlock AI Insights",
                 "upgrade_now": "Upgrade Now",
-                "msg": "Unlock AI-powered sentiment analysis and see how your audience feels about your content!",
+                "msg": "Understand how your audience feels about your brand— positive, neutral, or negative — and refine your strategy with actionable AI insights",
                 "empty_msg": "",
                 "posts": "Posts",
                 "no_data": "No Data Found",
@@ -2268,17 +2272,17 @@
             "loading": "Loading..."
         },
         "top_performing_posts": {
-            "heading": "Top Performing Posts",
+            "heading": "Track Your Best-Performing Content",
             "view_all": "View All",
-            "empty_msg": "To identify the top performing posts, please embed a gallery on your website.",
-            "btn_text": "Embed Now",
+            "empty_msg": "Embed a gallery on your website to start measuring engagement and identifying high-impact posts.",
+            "btn_text": "Embed Gallery Now",
             "no_data": "No Data Found",
             "clicks": "Clicks",
             "views": "Views"
         },
         "active_creators": {
-            "empty_title": "Discover Your Most Active Creators",
-            "empty_desc": "To Identify the Most Active Creators for your Brand, Please create a feed using your Brand's Hashtag (#).",
+            "empty_title": "Discover Your Top Brand Advocates",
+            "empty_desc": "Track the creators driving the most conversations around your brand. Start by creating a hashtag(#) or mention(@) feed to identify your most active contributors",
             "empty_btn": "Create Feed",
             "connect": "Connect"
         },
@@ -2293,10 +2297,10 @@
         },
         "overview_content": [
             {
-                "name": "Total Posts",
-                "tooltip": "Collective number of posts on all your feeds",
-                "description": "Collective number of posts on all your feeds",
-                "type": "Total Posts"
+                "name": "Collected Posts",
+                "tooltip": "Your curated social content will appear here",
+                "description": "Your curated social content will appear here",
+                "type": "Collected Posts"
             },
             {
                 "name": "Total Visitors",
@@ -2305,10 +2309,10 @@
                 "type": "Total Visitors"
             },
             {
-                "name": "Total Clicks",
-                "tooltip": "Number of times the widget was clicked",
+                "name": "Engagement Clicks",
+                "tooltip": "Measure how your audience engages with your content",
                 "description": "Collective number of posts on all your feeds",
-                "type": "Total Clicks"
+                "type": "Engagement Clicks"
             },
             {
                 "name": "Show More Clicks",
@@ -2341,16 +2345,16 @@
                 "type": "Post Clicks"
             },
             {
-                "name": "Widget Views",
-                "tooltip": "Number of people who visited your website after adding the wall",
+                "name": "Widget Impressions",
+                "tooltip": "Track how many website visitors interact with your social content",
                 "description": "Collective number of posts on all your feeds",
-                "type": "Widget Views"
+                "type": "Widget Impressions"
             },
             {
-                "name": "Total Feeds",
-                "tooltip": "Number of social/reviews networks in your account.",
-                "description": "Number of social/reviews networks in your account.",
-                "type": "Total Feeds"
+                "name": "Content Feeds",
+                "tooltip": "Create feeds to start collecting social content.",
+                "description": "Create feeds to start collecting social content.",
+                "type": "Content Feeds"
             }
         ],
         "shopon_tab": {

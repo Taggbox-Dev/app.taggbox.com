@@ -2116,7 +2116,10 @@
         "invalid_phone_number": "無効な電話番号です！",
         "pass_upd_success": "パスワードが正常に更新されました",
         "disapprove": "不承認",
-        "out_of_count": "#{{count}}を超過",
+        "out_of_count": "アクテ #{{count}}ィブの",
+        "posts": "投稿",
+        "views": "閲覧数",
+        "clicks": "クリック数",
         "language_change_msg": "この操作により、アプリの言語が #{{lang}} に変更されます。",
         "language_primary_btn": "はい、#{{lang}} に切り替えます",
         "language_secondary_btn": "現在の言語を維持する",
@@ -2125,9 +2128,10 @@
     },
     "Analytics": {
         "case_study": {
-            "welcome_msg": "おかえりなさい！",
-            "chat_btn": "チャットする",
-            "call_btn": "コール予約"
+            "welcome_msg": "おかえりなさい",
+            "disc": "ユーザー生成コンテンツを測定可能なエンゲージメントに変える準備はできていますか？",
+            "chat_btn": "専門家とチャットする",
+            "call_btn": "戦略コールをスケジュールする"
         },
         "gallery": {
             "heading": "最もパフォーマンスの高いギャラリー",
@@ -2294,10 +2298,10 @@
         },
         "overview_content": [
             {
-                "name": "総投稿数",
-                "tooltip": "すべてのフィードの投稿の合計数",
+                "name": "収集された投稿",
+                "tooltip": "厳選されたソーシャルコンテンツがここに表示されます",
                 "description": "すべてのフィードの投稿の合計数",
-                "type": "Total Posts"
+                "type": "Collected Posts"
             },
             {
                 "name": "総訪問者数",
@@ -2306,10 +2310,10 @@
                 "type": "Total Visitors"
             },
             {
-                "name": "総クリック数",
-                "tooltip": "ウィジェットがクリックされた回数",
+                "name": "エンゲージメントクリック数",
+                "tooltip": "オーディエンスがコンテンツとどのように関わっているかを測定します",
                 "description": "すべてのフィードの投稿の合計数",
-                "type": "Total Clicks"
+                "type": "Engagement Clicks"
             },
             {
                 "name": "「もっと見る」クリック数",
@@ -2342,16 +2346,16 @@
                 "type": "Post Clicks"
             },
             {
-                "name": "ウィジェットビュー",
+                "name": "ウィジェットの表示回数",
                 "tooltip": "ウォールを追加した後にウェブサイトを訪れた人の数",
                 "description": "すべてのフィードの投稿の合計数",
-                "type": "Widget Views"
+                "type": "Widget Impressions"
             },
             {
-                "name": "総フィード数",
-                "tooltip": "アカウント内のソーシャル／レビュー ネットワークの数",
+                "name": "コンテンツフィード",
+                "tooltip": "ウェブサイト訪問者のうち、どれだけがソーシャルコンテンツとやり取りしているかを追跡します",
                 "description": "アカウント内のソーシャル／レビュー ネットワークの数",
-                "type": "Total Feeds"
+                "type": "Content Feeds"
             }
         ],
         "shopon_tab": {

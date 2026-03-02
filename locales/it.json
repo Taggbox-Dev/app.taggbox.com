@@ -2108,7 +2108,10 @@
         "invalid_phone_number": "Numero di telefono non valido!",
         "pass_upd_success": "Password aggiornata con successo",
         "disapprove": "disapprova",
-        "out_of_count": "Fuori da #{{count}}",
+        "out_of_count": "degli #{{count}} attivi",
+        "posts": "post",
+        "views": "visualizzazioni",
+        "clicks": "clic",
         "language_change_msg": "Questa azione cambierà la lingua dell'app in #{{lang}}.",
         "language_primary_btn": "Sì, passa a #{{lang}}",
         "language_secondary_btn": "Mantieni Lingua Attuale",
@@ -2117,9 +2120,10 @@
     },
     "Analytics": {
         "case_study": {
-            "welcome_msg": "Bentornato!",
-            "chat_btn": "Chatta Ora",
-            "call_btn": "Prenota una Chiamata"
+            "welcome_msg": "Bentornato",
+            "disc": "Pronto a trasformare i contenuti generati dagli utenti in un coinvolgimento misurabile?",
+            "chat_btn": "Chatta con un esperto",
+            "call_btn": "Pianifica una chiamata strategica"
         },
         "gallery": {
             "heading": "Gallerie con le Migliori Performance",
@@ -2286,10 +2290,10 @@
         },
         "overview_content": [
             {
-                "name": "Post Totali",
-                "tooltip": "Numero complessivo di post su tutti i tuoi feed",
+                "name": "Post raccolti",
+                "tooltip": "I tuoi contenuti social curati appariranno qui",
                 "description": "Numero complessivo di post su tutti i tuoi feed",
-                "type": "Total Posts"
+                "type": "Collected Posts"
             },
             {
                 "name": "Visitatori Totali",
@@ -2298,10 +2302,10 @@
                 "type": "Total Visitors"
             },
             {
-                "name": "Clic Totali",
-                "tooltip": "Numero di volte in cui il widget è stato cliccato",
+                "name": "Clic di coinvolgimento",
+                "tooltip": "Misura come il tuo pubblico interagisce con i tuoi contenuti",
                 "description": "Numero complessivo di post su tutti i tuoi feed",
-                "type": "Total Clicks"
+                "type": "Engagement Clicks"
             },
             {
                 "name": "Clic 'Mostra di più'",
@@ -2334,16 +2338,16 @@
                 "type": "Post Clicks"
             },
             {
-                "name": "Visualizzazioni Widget",
-                "tooltip": "Numero di persone che hanno visitato il tuo sito web dopo aver aggiunto il wall",
+                "name": "Impression del widget",
+                "tooltip": "Monitora quanti visitatori del sito interagiscono con i tuoi contenuti social",
                 "description": "Numero complessivo di post su tutti i tuoi feed",
-                "type": "Widget Views"
+                "type": "Widget Impressions"
             },
             {
-                "name": "Feed Totali",
-                "tooltip": "Numero di reti sociali/recensioni nel tuo account.",
+                "name": "Feed di contenuti",
+                "tooltip": "Crea feed per iniziare a raccogliere contenuti social.",
                 "description": "Numero di reti sociali/recensioni nel tuo account.",
-                "type": "Total Feeds"
+                "type": "Content Feeds"
             }
         ],
         "shopon_tab": {
