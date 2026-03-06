@@ -3711,6 +3711,9 @@
         "aIcaptionPlaceholder": "Inserisci didascalia post AI (almeno 3 parole)",
         "btn_add": "Aggiungi Canale",
         "deleteMsg": "L'elemento selezionato verrà eliminato permanentemente.",
+        "post_type": "Tipo di contenuto",
+        "post": "Post",
+        "story": "Story",
         "tab": {
             "allChannels": "Tutti i Canali",
             "emailCampaign": "Campagna Email",

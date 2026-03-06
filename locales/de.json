@@ -3719,6 +3719,9 @@
         "captionPlaceholder": "Beitragsunterschrift eingeben",
         "btn_add": "Jetzt planen",
         "deleteMsg": "Das ausgewählte Element wird dauerhaft gelöscht.",
+        "post_type": "Inhaltstyp",
+        "post": "Beitrag",
+        "story": "Story",
         "tab": {
             "allChannels": "Alle Kanäle",
             "emailCampaign": "E-Mail-Kampagne",

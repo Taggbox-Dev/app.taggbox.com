@@ -3719,6 +3719,9 @@
         "captionPlaceholder": "投稿キャプションを入力",
         "btn_add": "今すぐスケジュール",
         "deleteMsg": "選択した項目は完全に削除されます。",
+        "post_type": "コンテンツタイプ",
+        "post": "投稿",
+        "story": "ストーリー",
         "tab": {
             "allChannels": "すべてのチャンネル",
             "emailCampaign": "メールキャンペーン",

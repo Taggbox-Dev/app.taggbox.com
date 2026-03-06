@@ -3719,6 +3719,9 @@
         "aIcaptionPlaceholder": "Saisissez la légende du post IA (au moins 3 mots)",
         "btn_add": "Ajouter un canal",
         "deleteMsg": "L’élément sélectionné sera supprimé définitivement.",
+        "post_type": "Type de contenu",
+        "post": "Publication",
+        "story": "Story",
         "tab": {
             "allChannels": "Tous les canaux",
             "emailCampaign": "Campagne e-mail",
