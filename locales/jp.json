@@ -34,7 +34,7 @@
         "success_msg": "成功しました！パスワードをリセットするためのメールを確認してください。"
     },
     "login_layout": {
-        "tag_line": "なぜ人々は #{{replace_text}} を好むのでしょうか？",
+        "tag_line": "なぜビジネスは #{{replace_text}} を選ぶのですか",
         "t_testml_desc": "Taggboxは、UGCをWebサイトに表示し、クロスプロモーションを通じて訪問者を引き込む素晴らしいプラットフォームです。",
         "t_emb_testml_desc": "ソーシャルメディアの投稿を簡単にWebサイトに埋め込むことができ、バックエンドのUXも良好です！ チャットサポートは迅速で非常に役立ちました。",
         "t_author": "Tvisha Sharma",
@@ -2297,6 +2297,18 @@
             "go_to_moderation": "モデレーションへ移動"
         },
         "overview_content": [
+            {
+                "name": "総投稿数",
+                "tooltip": "すべてのフィードにおける投稿の合計数",
+                "description": "すべてのフィードにおける投稿の合計数",
+                "type": "Total Posts"
+            },
+            {
+                "name": "総クリック数",
+                "tooltip": "ウィジェットがクリックされた回数",
+                "description": "ウィジェットがクリックされた合計回数",
+                "type": "Total Clicks"
+            },
             {
                 "name": "収集された投稿",
                 "tooltip": "厳選されたソーシャルコンテンツがここに表示されます",

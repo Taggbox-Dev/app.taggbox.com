@@ -34,7 +34,7 @@
         "success_msg": "Successo! Controlla la tua e-mail per reimpostare la password."
     },
     "login_layout": {
-        "tag_line": "Perché alla gente piace #{{replace_text}}?",
+        "tag_line": "Perché scegliere il business #{{replace_text}}?",
         "t_testml_desc": "Taggbox è un'ottima piattaforma per mostrare UGC sul nostro sito web e coinvolgere i visitatori attraverso cross-promotion per un'esperienza sul sito potenziata.",
         "t_emb_testml_desc": "Ha reso facile incorporare post sui social media nel nostro sito web con una UX gradevole sul backend! Il supporto chat è stato rapido e molto utile.",
         "t_author": "Tvisha Sharma",
@@ -2289,6 +2289,18 @@
             "go_to_moderation": "Vai a Moderazione"
         },
         "overview_content": [
+            {
+                "name": "Post totali",
+                "tooltip": "Numero totale di post in tutti i tuoi feed",
+                "description": "Numero totale di post in tutti i tuoi feed",
+                "type": "Total Posts"
+            },
+            {
+                "name": "Clic totali",
+                "tooltip": "Numero di volte in cui il widget è stato cliccato",
+                "description": "Numero di volte in cui il widget è stato cliccato",
+                "type": "Total Clicks"
+            },
             {
                 "name": "Post raccolti",
                 "tooltip": "I tuoi contenuti social curati appariranno qui",

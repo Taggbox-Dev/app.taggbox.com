@@ -34,7 +34,7 @@
         "success_msg": "Succès ! Veuillez vérifier votre e-mail pour réinitialiser votre mot de passe."
     },
     "login_layout": {
-        "tag_line": "Pourquoi les gens aiment #{{replace_text}} ?",
+        "tag_line": "Pourquoi choisir le business #{{replace_text}} ?",
         "t_testml_desc": "Taggbox est une excellente plateforme pour présenter le contenu généré par les utilisateurs sur notre site web et engager les visiteurs grâce à la promotion croisée pour une expérience améliorée.",
         "t_emb_testml_desc": "Il est devenu facile d’intégrer des publications de réseaux sociaux sur notre site avec une excellente expérience utilisateur en arrière-plan ! Le support par chat a été rapide et très utile.",
         "t_author": "Tvisha Sharma",
@@ -2297,6 +2297,18 @@
             "go_to_moderation": "Aller à la modération"
         },
         "overview_content": [
+            {
+                "name": "Nombre total de publications",
+                "tooltip": "Nombre total de publications sur tous vos flux",
+                "description": "Nombre total de publications sur tous vos flux",
+                "type": "Total Posts"
+            },
+            {
+                "name": "Nombre total de clics",
+                "tooltip": "Nombre de fois que le widget a été cliqué",
+                "description": "Nombre de fois que le widget a été cliqué",
+                "type": "Total Clicks"
+            },
             {
                 "name": "Publications collectées",
                 "tooltip": "Votre contenu social sélectionné apparaîtra ici",

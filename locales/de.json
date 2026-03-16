@@ -34,7 +34,7 @@
         "success_msg": "Erfolg! Bitte überprüfen Sie Ihre E-Mail, um Ihr Passwort zurückzusetzen."
     },
     "login_layout": {
-        "tag_line": "Warum mögen Leute #{{replace_text}}?",
+        "tag_line": "Warum das Geschäft wählen #{{replace_text}}?",
         "t_testml_desc": "Taggbox ist eine großartige Plattform, um UGC auf unserer Website zu präsentieren und Besucher durch Cross-Promotion für ein verbessertes Website-Erlebnis zu engagieren.",
         "t_emb_testml_desc": "Es war einfach, Social-Media-Beiträge auf unserer Website einzubetten, mit einer schönen UX im Backend! Der Chat-Support war schnell und sehr hilfreich.",
         "t_author": "Tvisha Sharma",
@@ -2297,6 +2297,18 @@
             "go_to_moderation": "Zur Moderation"
         },
         "overview_content": [
+            {
+                "name": "Gesamtbeiträge",
+                "tooltip": "Gesamtanzahl der Beiträge in all deinen Feeds",
+                "description": "Gesamtanzahl der Beiträge in all deinen Feeds",
+                "type": "Total Posts"
+            },
+            {
+                "name": "Gesamtklicks",
+                "tooltip": "Anzahl der Klicks auf das Widget",
+                "description": "Gesamtanzahl der Beiträge in all deinen Feeds",
+                "type": "Total Clicks"
+            },
             {
                 "name": "Gesammelte Beiträge",
                 "tooltip": "Ihre kuratierten Social-Media-Inhalte werden hier angezeigt",

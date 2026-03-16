@@ -34,7 +34,7 @@
         "success_msg": "Success! Please check your e-mail to reset your password."
     },
     "login_layout": {
-        "tag_line": "Why do people like #{{replace_text}}?",
+        "tag_line": "Why bussiness choose #{{replace_text}}?",
         "t_testml_desc": "Taggbox is a great platform for showcasing UGC on our website and engage visitors through cross-promotion for an enhanced site experience.",
         "t_emb_testml_desc": "Made it easy to embed social media posts onto our website with a nice UX on the backend! Chat support has been quick and very helpful.",
         "t_author": "Tvisha Sharma",
@@ -2296,6 +2296,20 @@
             "go_to_moderation": "Go to Moderation"
         },
         "overview_content": [
+
+             {
+                "name": "Total Posts",
+                "tooltip": "Collective number of posts on all your feeds",
+                "description": "Collective number of posts on all your feeds",
+                "type": "Total Posts"
+            },
+            {
+                "name": "Total Clicks",
+                "tooltip": "Number of times the widget was clicked",
+                "description": "Collective number of posts on all your feeds",
+                "type": "Total Clicks"
+            },
+
             {
                 "name": "Collected Posts",
                 "tooltip": "Your curated social content will appear here",
