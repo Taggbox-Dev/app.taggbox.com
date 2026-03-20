@@ -3363,6 +3363,16 @@
                         "label": "9 Colonne",
                         "value": 9
                     }
+                ],
+                "video_play_list": [
+                  {
+                    "label": "Predefinito",
+                    "value": 1
+                  },
+                  {
+                    "label": "Al passaggio del mouse",
+                    "value": 2
+                  }
                 ]
             },
             "google_analytics": {

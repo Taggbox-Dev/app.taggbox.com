@@ -3371,6 +3371,16 @@
                         "label": "9列",
                         "value": 9
                     }
+                ],
+                "video_play_list": [
+                  {
+                    "label": "デフォルト",
+                    "value": 1
+                  },
+                  {
+                    "label": "ホバー時",
+                    "value": 2
+                  }
                 ]
             },
             "google_analytics": {

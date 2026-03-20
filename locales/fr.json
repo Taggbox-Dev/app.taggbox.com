@@ -3371,6 +3371,16 @@
                         "label": "9 colonnes",
                         "value": 9
                     }
+                ],
+                "video_play_list": [
+                  {
+                    "label": "Par défaut",
+                    "value": 1
+                  },
+                  {
+                    "label": "Au survol",
+                    "value": 2
+                  }
                 ]
             },
             "google_analytics": {

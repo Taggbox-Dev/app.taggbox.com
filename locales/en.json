@@ -3372,6 +3372,16 @@
                         "label": "9 Columns",
                         "value": 9
                     }
+                ],
+                "video_play_list": [
+                    {
+                        "label": "Default",
+                        "value": 1
+                    },
+                    {
+                        "label": "On Hover",
+                        "value": 2
+                    }
                 ]
             },
             "google_analytics": {
